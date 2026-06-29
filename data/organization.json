@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://bb369tech.com/#organization",
+  "identifier": "https://bb369tech.com",
+  "name": "BB369TECH",
+  "alternateName": "BB369TECH",
+  "url": "https://bb369tech.com/",
+  "mainEntityOfPage": "https://bb369tech.com/",
+  "description": "BB369TECH is an enterprise digital services and technology company helping real businesses build clear digital foundations, strengthen global business visibility, maintain consistent multilingual public information, and remain accessible across modern search and AI-assisted environments.",
+  "slogan": "Digital Foundations for Real Businesses in a Global and AI-Assisted Economy",
+  "location": {
+    "@type": "Place",
+    "name": "Los Angeles, California, United States"
+  },
+  "areaServed": "Global",
+  "knowsAbout": [
+    "Enterprise Digital Services",
+    "Global Business Visibility",
+    "Enterprise Digital Foundations",
+    "Multilingual Public Information",
+    "AI-Ready Public Information",
+    "Technology Platforms",
+    "Long-Term Technical Support"
+  ],
+  "sameAs": [
+    "https://github.com/bb369tech"
+  ],
+  "subOrganization": [
+    {
+      "@type": "Organization",
+      "@id": "https://ai.bb369tech.com/#organization",
+      "name": "BB369TECH Enterprise Services",
+      "url": "https://ai.bb369tech.com/",
+      "description": "BB369TECH Enterprise Services supports companies, manufacturers, suppliers, professional organizations, and international business teams with corporate websites, global business presentation, multilingual public information, and long-term technical support."
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://platform.bb369tech.com/#organization",
+      "name": "BB369TECH Platform",
+      "url": "https://platform.bb369tech.com/",
+      "description": "The BB369TECH Platform is an operating platform developed and managed by BB369TECH. It helps customers describe real-world service needs and connect with relevant participating service businesses through clear digital entry points."
+    }
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Business inquiries",
+    "url": "https://bb369tech.com/contact.html",
+    "availableLanguage": [
+      "English",
+      "Chinese"
+    ]
+  },
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "BB369TECH"
+  },
+  "copyrightYear": 2026,
+  "publishingPrinciples": "https://bb369tech.com/terms.html",
+  "privacyPolicy": "https://bb369tech.com/privacy.html"
+}
