@@ -15,7 +15,7 @@
 
 ## About BB369TECH
 
-BB369TECH is a global-facing enterprise digital services and technology company.We help real businesses build credible digital foundations, present their capabilities across markets, and maintain clear, consistent public information for long-term growth.Our work supports companies operating across industries, languages, and markets while keeping official business information accessible, current, and connected to trusted sources.
+BB369TECH is a global-facing enterprise digital services and technology company. We help businesses build clear and credible digital foundations, present their capabilities across markets, and maintain clear, consistent, and reliable public business information. Our services support businesses operating across industries, languages, and markets, while making official business information easier to access, understand, and connect to trusted sources.
 
 ---
 
