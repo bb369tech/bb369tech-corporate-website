@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Privacy Policy | BB369TECH</title>
+
+  <meta
+    name="description"
+    content="Read the BB369TECH Privacy Policy covering corporate website inquiries, submitted information, third-party services, data handling, security, and retention."
+  >
+
+  <meta name="author" content="BB369TECH">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#071d49">
+
+  <link rel="canonical" href="https://bb369tech.com/privacy.html">
+
+  <meta property="og:title" content="Privacy Policy | BB369TECH">
+  <meta
+    property="og:description"
+    content="How BB369TECH handles information submitted through its corporate website and official communication channels."
+  >
+  <meta property="og:url" content="https://bb369tech.com/privacy.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="BB369TECH">
+
+  <style>
+    :root {
+      --navy:#071d49;
+      --blue:#1769ff;
+      --blue-soft:#eaf3ff;
+      --ink:#12213f;
+      --muted:#61718a;
+      --line:#dfe7f1;
+      --soft:#f5f8fc;
+      --white:#ffffff;
+      --shadow:0 22px 70px rgba(7,29,73,.12);
+      --max:1180px;
+    }
+
+    * {
+      box-sizing:border-box;
+    }
+
+    html {
+      scroll-behavior:smooth;
+    }
+
+    body {
+      margin:0;
+      font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+      color:var(--ink);
+      background:#fff;
+      line-height:1.7;
+    }
+
+    a {
+      color:inherit;
+      text-decoration:none;
+    }
+
+    button {
+      font:inherit;
+    }
+
+    .container {
+      width:min(calc(100% - 40px),var(--max));
+      margin:0 auto;
+    }
+
+    .site-header {
+      position:sticky;
+      top:0;
+      z-index:100;
+      background:rgba(255,255,255,.94);
+      border-bottom:1px solid var(--line);
+      backdrop-filter:blur(16px);
+    }
+
+    .nav-wrap {
+      min-height:76px;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:24px;
+    }
+
+    .brand {
+      color:var(--navy);
+      font-size:1.3rem;
+      font-weight:800;
+      letter-spacing:-.04em;
+    }
+
+    .brand strong {
+      color:var(--blue);
+    }
+
+    .main-nav {
+      display:flex;
+      gap:21px;
+      align-items:center;
+      color:#42516a;
+      font-size:.91rem;
+      font-weight:650;
+    }
+
+    .main-nav a:hover,
+    .main-nav a[aria-current="page"] {
+      color:var(--blue);
+    }
+
+    .nav-cta {
+      padding:10px 18px;
+      color:#fff !important;
+      background:var(--navy);
+      border-radius:999px;
+    }
+
+    .menu-button {
+      display:none;
+      padding:9px 14px;
+      border:1px solid var(--line);
+      border-radius:10px;
+      background:#fff;
+      color:var(--navy);
+      font-weight:700;
+      cursor:pointer;
+    }
+
+    .hero {
+      padding:108px 0 92px;
+      color:#fff;
+      background:
+        radial-gradient(circle at 82% 18%,rgba(49,132,255,.42),transparent 30%),
+        linear-gradient(135deg,#06183c,#0a2f70 60%,#0d4697);
+    }
+
+    .eyebrow {
+      margin:0 0 18px;
+      color:#8fc4ff;
+      font-size:.78rem;
+      font-weight:800;
+      letter-spacing:.14em;
+      text-transform:uppercase;
+    }
+
+    h1 {
+      margin:0;
+      max-width:900px;
+      color:#fff;
+      font-size:clamp(3rem,6vw,5.2rem);
+      line-height:.98;
+      letter-spacing:-.06em;
+    }
+
+    .lead {
+      max-width:760px;
+      margin:26px 0 0;
+      color:#c8d7ef;
+      font-size:1.14rem;
+    }
+
+    .policy-section {
+      padding:96px 0;
+      background:var(--soft);
+    }
+
+    .policy-layout {
+      display:grid;
+      grid-template-columns:.33fr .67fr;
+      gap:52px;
+      align-items:start;
+    }
+
+    .policy-index {
+      position:sticky;
+      top:104px;
+      padding:24px;
+      border:1px solid var(--line);
+      border-radius:20px;
+      background:#fff;
+      box-shadow:0 14px 35px rgba(7,29,73,.05);
+    }
+
+    .policy-index strong {
+      display:block;
+      margin-bottom:12px;
+      color:var(--navy);
+    }
+
+    .policy-index a {
+      display:block;
+      padding:9px 0;
+      color:var(--muted);
+      border-bottom:1px solid var(--line);
+      font-size:.91rem;
+    }
+
+    .policy-index a:last-child {
+      border-bottom:0;
+    }
+
+    .policy-index a:hover {
+      color:var(--blue);
+    }
+
+    .policy-card {
+      padding:36px;
+      border:1px solid var(--line);
+      border-radius:24px;
+      background:#fff;
+      box-shadow:0 14px 35px rgba(7,29,73,.05);
+    }
+
+    .policy-card section {
+      padding:0;
+    }
+
+    .policy-card section + section {
+      margin-top:38px;
+      padding-top:38px;
+      border-top:1px solid var(--line);
+    }
+
+    .policy-card h2 {
+      margin:0 0 14px;
+      color:var(--navy);
+      font-size:1.75rem;
+      line-height:1.2;
+      letter-spacing:-.03em;
+    }
+
+    .policy-card p,
+    .policy-card li {
+      color:#46566f;
+    }
+
+    .policy-card ul {
+      padding-left:22px;
+    }
+
+    .policy-card a {
+      color:var(--blue);
+      font-weight:700;
+    }
+
+    .notice {
+      margin:0 0 34px;
+      padding:20px 22px;
+      color:#334762;
+      background:#eef5ff;
+      border-left:4px solid var(--blue);
+      border-radius:0 14px 14px 0;
+    }
+
+    .site-footer {
+      padding:58px 0 24px;
+      color:#c7d4e7;
+      background:#06142f;
+    }
+
+    .footer-grid {
+      display:grid;
+      grid-template-columns:1.5fr 1fr 1fr;
+      gap:50px;
+    }
+
+    .footer-grid > div {
+      display:grid;
+      gap:9px;
+      align-content:start;
+    }
+
+    .footer-grid strong {
+      color:#fff;
+    }
+
+    .footer-brand {
+      color:#fff;
+    }
+
+    .footer-bottom {
+      display:flex;
+      justify-content:space-between;
+      gap:18px;
+      margin-top:42px;
+      padding-top:20px;
+      border-top:1px solid rgba(255,255,255,.12);
+      font-size:.85rem;
+    }
+
+    @media (max-width:980px) {
+      .policy-layout {
+        grid-template-columns:1fr;
+      }
+
+      .policy-index {
+        position:static;
+      }
+
+      .main-nav {
+        position:absolute;
+        left:20px;
+        right:20px;
+        top:68px;
+        display:none;
+        flex-direction:column;
+        align-items:stretch;
+        gap:4px;
+        padding:18px;
+        border:1px solid var(--line);
+        border-radius:18px;
+        background:#fff;
+        box-shadow:var(--shadow);
+      }
+
+      .main-nav.open {
+        display:flex;
+      }
+
+      .main-nav a {
+        padding:11px 12px;
+      }
+
+      .nav-cta {
+        text-align:center;
+      }
+
+      .menu-button {
+        display:inline-flex;
+      }
+
+      .footer-grid {
+        grid-template-columns:1fr;
+      }
+    }
+
+    @media (max-width:640px) {
+      .hero {
+        padding:78px 0;
+      }
+
+      .policy-section {
+        padding:70px 0;
+      }
+
+      .policy-card {
+        padding:24px;
+      }
+
+      .footer-bottom {
+        flex-direction:column;
+      }
+    }
+  </style>
+
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"WebPage",
+    "name":"BB369TECH Privacy Policy",
+    "url":"https://bb369tech.com/privacy.html",
+    "description":"Privacy policy for the BB369TECH corporate website and official communication channels.",
+    "isPartOf":{
+      "@type":"WebSite",
+      "name":"BB369TECH",
+      "url":"https://bb369tech.com/"
+    }
+  }
+  </script>
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html">
+        BB<strong>369</strong>TECH
+      </a>
+
+      <button
+        class="menu-button"
+        type="button"
+        aria-expanded="false"
+        aria-controls="mainNavigation"
+      >
+        Menu
+      </button>
+
+      <nav
+        class="main-nav"
+        id="mainNavigation"
+        aria-label="Primary navigation"
+      >
+        <a href="company.html">Company</a>
+        <a href="services.html">Services</a>
+        <a href="industries.html">Industries</a>
+        <a href="platforms.html">Platforms</a>
+        <a href="projects.html">Projects</a>
+        <a href="resources.html">Resources</a>
+        <a href="news.html">News</a>
+        <a href="media.html">Media</a>
+        <a class="nav-cta" href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <p class="eyebrow">Privacy Policy</p>
+
+        <h1>
+          How BB369TECH Handles Website Information
+        </h1>
+
+        <p class="lead">
+          This policy explains how information submitted through the
+          BB369TECH corporate website and official communication channels
+          may be collected, used, shared, protected, and retained.
+        </p>
+
+        <p class="lead">
+          Effective date: June 29, 2026
+        </p>
+      </div>
+    </section>
+
+    <section class="policy-section">
+      <div class="container policy-layout">
+        <aside class="policy-index" aria-label="Privacy policy sections">
+          <strong>Policy Sections</strong>
+          <a href="#scope">Scope</a>
+          <a href="#information">Information We Collect</a>
+          <a href="#use">How Information Is Used</a>
+          <a href="#forms">Corporate Contact Forms</a>
+          <a href="#platform">Platform Requests</a>
+          <a href="#providers">Service Providers</a>
+          <a href="#sharing">Information Sharing</a>
+          <a href="#retention">Data Retention</a>
+          <a href="#security">Security</a>
+          <a href="#rights">Choices and Requests</a>
+          <a href="#updates">Policy Updates</a>
+          <a href="#contact">Contact</a>
+        </aside>
+
+        <article class="policy-card">
+          <p class="notice">
+            Please do not submit passwords, payment card information,
+            government identification numbers, medical information,
+            or other highly sensitive personal information through
+            the corporate contact form.
+          </p>
+
+          <section id="scope">
+            <h2>1. Scope</h2>
+            <p>
+              This Privacy Policy applies to the BB369TECH corporate
+              website at <strong>https://bb369tech.com</strong> and
+              information submitted through its public contact forms
+              and official communication channels.
+            </p>
+            <p>
+              Separate websites, operating platforms, service providers,
+              and third-party systems may have additional notices or
+              policies that apply to their own activities.
+            </p>
+          </section>
+
+          <section id="information">
+            <h2>2. Information We May Collect</h2>
+            <p>
+              BB369TECH may collect information that visitors voluntarily
+              provide, including:
+            </p>
+            <ul>
+              <li>Name and company name</li>
+              <li>Email address</li>
+              <li>Country or region</li>
+              <li>Inquiry category</li>
+              <li>Message content</li>
+              <li>Information included in submitted forms</li>
+            </ul>
+            <p>
+              Technical systems may also process limited information such
+              as IP address, browser type, device information, access time,
+              referring page, and basic security logs.
+            </p>
+          </section>
+
+          <section id="use">
+            <h2>3. How Information May Be Used</h2>
+            <p>
+              Information may be used to:
+            </p>
+            <ul>
+              <li>Review and respond to business inquiries</li>
+              <li>Evaluate potential services or cooperation</li>
+              <li>Provide technical or platform-related support</li>
+              <li>Maintain website security and service continuity</li>
+              <li>Prevent misuse, fraud, or unauthorized activity</li>
+              <li>Comply with legal obligations</li>
+              <li>Protect BB369TECH, its users, and participating businesses</li>
+            </ul>
+          </section>
+
+          <section id="forms">
+            <h2>4. Corporate Contact Forms</h2>
+            <p>
+              Information submitted through the corporate contact form
+              may be processed by BB369TECH and its approved email,
+              hosting, security, and infrastructure service providers
+              for the purpose of reviewing, routing, storing, and
+              responding to the inquiry.
+            </p>
+            <p>
+              Submitting a contact form does not create a contract,
+              partnership, service commitment, or guaranteed response time.
+            </p>
+          </section>
+
+          <section id="platform">
+            <h2>5. Platform and Service Requests</h2>
+            <p>
+              The BB369TECH Platform is an operating platform developed
+              and managed by BB369TECH. Information submitted through a
+              local service request may be shared with a relevant
+              participating service business when necessary to review
+              or respond to that request.
+            </p>
+            <p>
+              Final pricing, availability, scheduling, service scope,
+              warranties, contracts, and other service commitments
+              require human confirmation by the relevant parties.
+            </p>
+          </section>
+
+          <section id="providers">
+            <h2>6. Third-Party Service Providers</h2>
+            <p>
+              BB369TECH may use third-party services for website hosting,
+              email delivery, form processing, infrastructure, security,
+              analytics, and other operational needs.
+            </p>
+            <p>
+              These providers may process information only as necessary
+              to perform their services, subject to their own terms,
+              privacy policies, and legal obligations.
+            </p>
+          </section>
+
+          <section id="sharing">
+            <h2>7. Information Sharing</h2>
+            <p>
+              BB369TECH does not sell personal information.
+            </p>
+            <p>
+              Information may be shared when reasonably necessary to:
+            </p>
+            <ul>
+              <li>Respond to a submitted inquiry</li>
+              <li>Provide or support a requested service</li>
+              <li>Route a platform request to a relevant business</li>
+              <li>Operate approved website and email systems</li>
+              <li>Comply with law, legal process, or regulatory obligations</li>
+              <li>Protect rights, safety, security, or property</li>
+            </ul>
+          </section>
+
+          <section id="retention">
+            <h2>8. Data Retention</h2>
+            <p>
+              Information may be retained for as long as reasonably
+              necessary for business communication, service delivery,
+              security, legal compliance, recordkeeping, and dispute
+              resolution.
+            </p>
+            <p>
+              Retention periods may vary depending on the nature of the
+              inquiry, operational requirements, and applicable law.
+            </p>
+          </section>
+
+          <section id="security">
+            <h2>9. Security</h2>
+            <p>
+              BB369TECH may use reasonable administrative and technical
+              safeguards designed to protect submitted information.
+              However, no internet transmission, email service, or
+              electronic storage system can be guaranteed to be
+              completely secure.
+            </p>
+          </section>
+
+          <section id="rights">
+            <h2>10. Choices and Information Requests</h2>
+            <p>
+              Visitors may contact BB369TECH to request correction,
+              clarification, or deletion of information they previously
+              submitted, subject to applicable law, security requirements,
+              and legitimate recordkeeping needs.
+            </p>
+          </section>
+
+          <section id="external">
+            <h2>11. External Links</h2>
+            <p>
+              The website may link to third-party websites and services.
+              BB369TECH does not control and is not responsible for their
+              content, security, availability, or privacy practices.
+            </p>
+          </section>
+
+          <section id="children">
+            <h2>12. Children</h2>
+            <p>
+              The corporate website is intended for business and general
+              informational use. BB369TECH does not knowingly seek to
+              collect personal information from children through the
+              corporate contact form without appropriate authorization.
+            </p>
+          </section>
+
+          <section id="updates">
+            <h2>13. Policy Updates</h2>
+            <p>
+              This policy may be updated when website features, services,
+              legal requirements, or business practices change.
+              The effective date will be revised when appropriate.
+            </p>
+          </section>
+
+          <section id="contact">
+            <h2>14. Contact</h2>
+            <p>
+              Questions or requests concerning this Privacy Policy should
+              be submitted through the
+              <a href="contact.html">official contact page</a>.
+            </p>
+            <p>
+              Corporate location: Los Angeles, California, United States.
+            </p>
+          </section>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <a class="brand footer-brand" href="index.html">
+          BB<strong>369</strong>TECH
+        </a>
+
+        <p>
+          Enterprise digital services, global business presentation,
+          technology platforms, and long-term support.
+        </p>
+      </div>
+
+      <div>
+        <strong>Company</strong>
+        <a href="company.html">Company</a>
+        <a href="services.html">Services</a>
+        <a href="projects.html">Projects</a>
+        <a href="partners.html">Partners</a>
+      </div>
+
+      <div>
+        <strong>Information</strong>
+        <a href="resources.html">Resources</a>
+        <a href="faq.html">FAQ</a>
+        <a href="privacy.html" aria-current="page">Privacy</a>
+        <a href="terms.html">Terms</a>
+      </div>
+    </div>
+
+    <div class="container footer-bottom">
+      <span>© 2026 BB369TECH. All rights reserved.</span>
+      <span>Los Angeles, California, United States</span>
+    </div>
+  </footer>
+
+  <script>
+    const menuButton =
+      document.querySelector(".menu-button");
+
+    const navigation =
+      document.querySelector(".main-nav");
+
+    if (menuButton && navigation) {
+      menuButton.addEventListener("click", () => {
+        const isOpen =
+          navigation.classList.toggle("open");
+
+        menuButton.setAttribute(
+          "aria-expanded",
+          String(isOpen)
+        );
+      });
+
+      navigation
+        .querySelectorAll("a")
+        .forEach((link) => {
+          link.addEventListener("click", () => {
+            navigation.classList.remove("open");
+
+            menuButton.setAttribute(
+              "aria-expanded",
+              "false"
+            );
+          });
+        });
+    }
+  </script>
+</body>
+</html>
