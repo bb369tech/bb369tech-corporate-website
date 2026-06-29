@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Website Terms of Use | BB369TECH</title>
+
+  <meta
+    name="description"
+    content="Read the BB369TECH website terms covering public information, services, platforms, intellectual property, third-party links, acceptable use, and responsibility boundaries."
+  >
+
+  <meta name="author" content="BB369TECH">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#071d49">
+
+  <link rel="canonical" href="https://bb369tech.com/terms.html">
+
+  <meta property="og:title" content="Website Terms of Use | BB369TECH">
+  <meta
+    property="og:description"
+    content="Terms governing use of the BB369TECH corporate website and public materials."
+  >
+  <meta property="og:url" content="https://bb369tech.com/terms.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="BB369TECH">
+
+  <style>
+    :root {
+      --navy:#071d49;
+      --blue:#1769ff;
+      --blue-soft:#eaf3ff;
+      --ink:#12213f;
+      --muted:#61718a;
+      --line:#dfe7f1;
+      --soft:#f5f8fc;
+      --white:#ffffff;
+      --shadow:0 22px 70px rgba(7,29,73,.12);
+      --max:1180px;
+    }
+
+    * {
+      box-sizing:border-box;
+    }
+
+    html {
+      scroll-behavior:smooth;
+    }
+
+    body {
+      margin:0;
+      font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+      color:var(--ink);
+      background:#fff;
+      line-height:1.7;
+    }
+
+    a {
+      color:inherit;
+      text-decoration:none;
+    }
+
+    button {
+      font:inherit;
+    }
+
+    .container {
+      width:min(calc(100% - 40px),var(--max));
+      margin:0 auto;
+    }
+
+    .site-header {
+      position:sticky;
+      top:0;
+      z-index:100;
+      background:rgba(255,255,255,.94);
+      border-bottom:1px solid var(--line);
+      backdrop-filter:blur(16px);
+    }
+
+    .nav-wrap {
+      min-height:76px;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:24px;
+    }
+
+    .brand {
+      color:var(--navy);
+      font-size:1.3rem;
+      font-weight:800;
+      letter-spacing:-.04em;
+    }
+
+    .brand strong {
+      color:var(--blue);
+    }
+
+    .main-nav {
+      display:flex;
+      gap:21px;
+      align-items:center;
+      color:#42516a;
+      font-size:.91rem;
+      font-weight:650;
+    }
+
+    .main-nav a:hover,
+    .main-nav a[aria-current="page"] {
+      color:var(--blue);
+    }
+
+    .nav-cta {
+      padding:10px 18px;
+      color:#fff !important;
+      background:var(--navy);
+      border-radius:999px;
+    }
+
+    .menu-button {
+      display:none;
+      padding:9px 14px;
+      border:1px solid var(--line);
+      border-radius:10px;
+      background:#fff;
+      color:var(--navy);
+      font-weight:700;
+      cursor:pointer;
+    }
+
+    .hero {
+      padding:108px 0 92px;
+      color:#fff;
+      background:
+        radial-gradient(circle at 82% 18%,rgba(49,132,255,.42),transparent 30%),
+        linear-gradient(135deg,#06183c,#0a2f70 60%,#0d4697);
+    }
+
+    .eyebrow {
+      margin:0 0 18px;
+      color:#8fc4ff;
+      font-size:.78rem;
+      font-weight:800;
+      letter-spacing:.14em;
+      text-transform:uppercase;
+    }
+
+    h1 {
+      margin:0;
+      max-width:900px;
+      color:#fff;
+      font-size:clamp(3rem,6vw,5.2rem);
+      line-height:.98;
+      letter-spacing:-.06em;
+    }
+
+    .lead {
+      max-width:760px;
+      margin:26px 0 0;
+      color:#c8d7ef;
+      font-size:1.14rem;
+    }
+
+    .terms-section {
+      padding:96px 0;
+      background:var(--soft);
+    }
+
+    .terms-layout {
+      display:grid;
+      grid-template-columns:.33fr .67fr;
+      gap:52px;
+      align-items:start;
+    }
+
+    .terms-index {
+      position:sticky;
+      top:104px;
+      padding:24px;
+      border:1px solid var(--line);
+      border-radius:20px;
+      background:#fff;
+      box-shadow:0 14px 35px rgba(7,29,73,.05);
+    }
+
+    .terms-index strong {
+      display:block;
+      margin-bottom:12px;
+      color:var(--navy);
+    }
+
+    .terms-index a {
+      display:block;
+      padding:9px 0;
+      color:var(--muted);
+      border-bottom:1px solid var(--line);
+      font-size:.91rem;
+    }
+
+    .terms-index a:last-child {
+      border-bottom:0;
+    }
+
+    .terms-index a:hover {
+      color:var(--blue);
+    }
+
+    .terms-card {
+      padding:36px;
+      border:1px solid var(--line);
+      border-radius:24px;
+      background:#fff;
+      box-shadow:0 14px 35px rgba(7,29,73,.05);
+    }
+
+    .terms-card section {
+      padding:0;
+    }
+
+    .terms-card section + section {
+      margin-top:38px;
+      padding-top:38px;
+      border-top:1px solid var(--line);
+    }
+
+    .terms-card h2 {
+      margin:0 0 14px;
+      color:var(--navy);
+      font-size:1.75rem;
+      line-height:1.2;
+      letter-spacing:-.03em;
+    }
+
+    .terms-card p,
+    .terms-card li {
+      color:#46566f;
+    }
+
+    .terms-card ul {
+      padding-left:22px;
+    }
+
+    .terms-card a {
+      color:var(--blue);
+      font-weight:700;
+    }
+
+    .notice {
+      margin:0 0 34px;
+      padding:20px 22px;
+      color:#334762;
+      background:#eef5ff;
+      border-left:4px solid var(--blue);
+      border-radius:0 14px 14px 0;
+    }
+
+    .site-footer {
+      padding:58px 0 24px;
+      color:#c7d4e7;
+      background:#06142f;
+    }
+
+    .footer-grid {
+      display:grid;
+      grid-template-columns:1.5fr 1fr 1fr;
+      gap:50px;
+    }
+
+    .footer-grid > div {
+      display:grid;
+      gap:9px;
+      align-content:start;
+    }
+
+    .footer-grid strong {
+      color:#fff;
+    }
+
+    .footer-brand {
+      color:#fff;
+    }
+
+    .footer-bottom {
+      display:flex;
+      justify-content:space-between;
+      gap:18px;
+      margin-top:42px;
+      padding-top:20px;
+      border-top:1px solid rgba(255,255,255,.12);
+      font-size:.85rem;
+    }
+
+    @media (max-width:980px) {
+      .terms-layout {
+        grid-template-columns:1fr;
+      }
+
+      .terms-index {
+        position:static;
+      }
+
+      .main-nav {
+        position:absolute;
+        left:20px;
+        right:20px;
+        top:68px;
+        display:none;
+        flex-direction:column;
+        align-items:stretch;
+        gap:4px;
+        padding:18px;
+        border:1px solid var(--line);
+        border-radius:18px;
+        background:#fff;
+        box-shadow:var(--shadow);
+      }
+
+      .main-nav.open {
+        display:flex;
+      }
+
+      .main-nav a {
+        padding:11px 12px;
+      }
+
+      .nav-cta {
+        text-align:center;
+      }
+
+      .menu-button {
+        display:inline-flex;
+      }
+
+      .footer-grid {
+        grid-template-columns:1fr;
+      }
+    }
+
+    @media (max-width:640px) {
+      .hero {
+        padding:78px 0;
+      }
+
+      .terms-section {
+        padding:70px 0;
+      }
+
+      .terms-card {
+        padding:24px;
+      }
+
+      .footer-bottom {
+        flex-direction:column;
+      }
+    }
+  </style>
+
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"WebPage",
+    "name":"BB369TECH Website Terms of Use",
+    "url":"https://bb369tech.com/terms.html",
+    "description":"Terms governing use of the BB369TECH corporate website and public materials.",
+    "isPartOf":{
+      "@type":"WebSite",
+      "name":"BB369TECH",
+      "url":"https://bb369tech.com/"
+    }
+  }
+  </script>
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html">
+        BB<strong>369</strong>TECH
+      </a>
+
+      <button
+        class="menu-button"
+        type="button"
+        aria-expanded="false"
+        aria-controls="mainNavigation"
+      >
+        Menu
+      </button>
+
+      <nav
+        class="main-nav"
+        id="mainNavigation"
+        aria-label="Primary navigation"
+      >
+        <a href="company.html">Company</a>
+        <a href="services.html">Services</a>
+        <a href="industries.html">Industries</a>
+        <a href="platforms.html">Platforms</a>
+        <a href="projects.html">Projects</a>
+        <a href="resources.html">Resources</a>
+        <a href="news.html">News</a>
+        <a href="media.html">Media</a>
+        <a class="nav-cta" href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <p class="eyebrow">Website Terms</p>
+
+        <h1>
+          Terms of Use for the BB369TECH Corporate Website
+        </h1>
+
+        <p class="lead">
+          These terms govern access to and use of the BB369TECH
+          corporate website, public company information, resources,
+          project materials, and external links.
+        </p>
+
+        <p class="lead">
+          Effective date: June 29, 2026
+        </p>
+      </div>
+    </section>
+
+    <section class="terms-section">
+      <div class="container terms-layout">
+        <aside class="terms-index" aria-label="Terms sections">
+          <strong>Terms Sections</strong>
+          <a href="#acceptance">Acceptance</a>
+          <a href="#purpose">Informational Purpose</a>
+          <a href="#services">Services and Agreements</a>
+          <a href="#platform">Operating Platform</a>
+          <a href="#outcomes">No Guaranteed Outcomes</a>
+          <a href="#professional">Professional Boundaries</a>
+          <a href="#intellectual-property">Intellectual Property</a>
+          <a href="#acceptable-use">Acceptable Use</a>
+          <a href="#third-party">Third-Party Services</a>
+          <a href="#accuracy">Accuracy and Updates</a>
+          <a href="#liability">Liability</a>
+          <a href="#changes">Changes</a>
+          <a href="#contact">Contact</a>
+        </aside>
+
+        <article class="terms-card">
+          <p class="notice">
+            Public website information does not by itself create a
+            contract, partnership, agency relationship, service
+            commitment, or guaranteed business result.
+          </p>
+
+          <section id="acceptance">
+            <h2>1. Acceptance of These Terms</h2>
+            <p>
+              By accessing or using the BB369TECH corporate website,
+              you agree to these Terms of Use. If you do not agree,
+              you should not use the website.
+            </p>
+          </section>
+
+          <section id="purpose">
+            <h2>2. Informational Purpose</h2>
+            <p>
+              Website content provides general information about
+              BB369TECH, its services, industries, projects,
+              platforms, credentials, partnerships, public resources,
+              and business boundaries.
+            </p>
+            <p>
+              Public information is not an offer, guarantee, formal
+              quotation, or binding commitment unless separately
+              confirmed in writing by an authorized party.
+            </p>
+          </section>
+
+          <section id="services">
+            <h2>3. Services and Project Agreements</h2>
+            <p>
+              Specific project scope, pricing, schedules,
+              responsibilities, deliverables, intellectual property,
+              privacy obligations, payment terms, and other commercial
+              conditions require separate written confirmation.
+            </p>
+            <p>
+              A contact form submission, email exchange, preliminary
+              discussion, or public page does not by itself create a
+              service agreement.
+            </p>
+          </section>
+
+          <section id="platform">
+            <h2>4. BB369TECH Platform</h2>
+            <p>
+              BB369TECH is the parent company and corporate brand.
+              The BB369TECH Platform is one operating platform
+              developed and managed by BB369TECH.
+            </p>
+            <p>
+              The platform may help customers organize real-world
+              local service requests, including descriptions and
+              photos, and connect with relevant service businesses.
+            </p>
+            <p>
+              Participating service businesses remain responsible for
+              their own licenses, qualifications, pricing, availability,
+              scheduling, work quality, warranties, contracts, safety,
+              and legal obligations.
+            </p>
+            <p>
+              Final pricing, availability, service scope, scheduling,
+              and other commitments require human confirmation.
+            </p>
+          </section>
+
+          <section id="outcomes">
+            <h2>5. No Guaranteed Outcomes</h2>
+            <p>
+              BB369TECH does not guarantee:
+            </p>
+            <ul>
+              <li>Search rankings or indexing</li>
+              <li>AI citations, recommendations, or visibility</li>
+              <li>Sales, contracts, leads, or customer decisions</li>
+              <li>Funding, investment, or partnership outcomes</li>
+              <li>Licensing, regulatory, or platform approval</li>
+              <li>Availability or performance of third-party services</li>
+            </ul>
+            <p>
+              Search engines, AI systems, customers, partners,
+              platforms, regulators, and other third parties make
+              independent decisions.
+            </p>
+          </section>
+
+          <section id="professional">
+            <h2>6. Professional and Regulatory Boundaries</h2>
+            <p>
+              Unless separately stated and properly provided by a
+              qualified party, website content is not legal, medical,
+              engineering, architectural, financial, accounting,
+              insurance, real-estate, tax, or other regulated
+              professional advice.
+            </p>
+            <p>
+              Licensed or regulated services remain the responsibility
+              of the appropriately qualified provider.
+            </p>
+          </section>
+
+          <section id="intellectual-property">
+            <h2>7. Intellectual Property</h2>
+            <p>
+              Website text, branding, names, logos, layouts, graphics,
+              screenshots, code, documents, and other materials may be
+              protected by copyright, trademark, contract, and other
+              applicable rights.
+            </p>
+            <p>
+              No permission is granted to copy, modify, republish,
+              distribute, sell, misrepresent, or commercially exploit
+              protected materials except where BB369TECH provides
+              express written authorization.
+            </p>
+            <p>
+              Public access to a file or page does not make the content
+              public domain or grant an open-source license.
+            </p>
+          </section>
+
+          <section id="acceptable-use">
+            <h2>8. Acceptable Use</h2>
+            <p>
+              You may not:
+            </p>
+            <ul>
+              <li>Attempt unauthorized access to the website or backend systems</li>
+              <li>Interfere with website security, availability, or operation</li>
+              <li>Submit unlawful, fraudulent, harmful, or misleading information</li>
+              <li>Impersonate another person, company, or organization</li>
+              <li>Use public materials to claim an unconfirmed partnership, endorsement, certification, or authorization</li>
+              <li>Upload malicious code or attempt to exploit a vulnerability</li>
+              <li>Use automated systems in a way that disrupts normal website operation</li>
+            </ul>
+          </section>
+
+          <section id="third-party">
+            <h2>9. Third-Party Websites and Services</h2>
+            <p>
+              The website may link to third-party websites, platforms,
+              hosting services, email systems, social networks, or
+              business resources.
+            </p>
+            <p>
+              BB369TECH does not control and is not responsible for
+              third-party content, availability, security, pricing,
+              terms, privacy practices, or business decisions.
+            </p>
+          </section>
+
+          <section id="accuracy">
+            <h2>10. Accuracy and Updates</h2>
+            <p>
+              BB369TECH aims to maintain clear and accurate public
+              information. However, website content may change and may
+              not always be complete, current, or free from error.
+            </p>
+            <p>
+              Official written agreements, verified records, and
+              current authorized communications control where a
+              discrepancy exists.
+            </p>
+          </section>
+
+          <section id="availability">
+            <h2>11. Website Availability</h2>
+            <p>
+              BB369TECH does not guarantee uninterrupted website
+              availability. Pages, links, forms, hosting, or third-party
+              services may be changed, suspended, or unavailable due to
+              maintenance, technical issues, provider changes, security,
+              or other operational reasons.
+            </p>
+          </section>
+
+          <section id="liability">
+            <h2>12. Limitation of Liability</h2>
+            <p>
+              To the maximum extent permitted by applicable law,
+              BB369TECH is not liable for indirect, incidental,
+              special, consequential, or third-party losses arising
+              from website use, reliance on public information,
+              inability to access the website, or use of external
+              services.
+            </p>
+            <p>
+              Nothing in these terms excludes liability that cannot
+              legally be excluded.
+            </p>
+          </section>
+
+          <section id="indemnity">
+            <h2>13. Responsibility for Submitted Content</h2>
+            <p>
+              Visitors are responsible for the accuracy and legality of
+              information they submit. Do not submit material that you
+              do not have authority to provide.
+            </p>
+            <p>
+              BB369TECH may decline, remove, or disregard submissions
+              that appear unlawful, unsafe, fraudulent, abusive,
+              irrelevant, or inconsistent with website use.
+            </p>
+          </section>
+
+          <section id="changes">
+            <h2>14. Changes to These Terms</h2>
+            <p>
+              These terms may be updated when website features,
+              services, legal requirements, or business operations
+              change.
+            </p>
+            <p>
+              Continued use of the website after an update means the
+              revised terms apply from the stated effective date.
+            </p>
+          </section>
+
+          <section id="contact">
+            <h2>15. Contact</h2>
+            <p>
+              Questions concerning these Terms of Use should be
+              submitted through the
+              <a href="contact.html">official contact page</a>.
+            </p>
+            <p>
+              Corporate location: Los Angeles, California, United States.
+            </p>
+          </section>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <a class="brand footer-brand" href="index.html">
+          BB<strong>369</strong>TECH
+        </a>
+
+        <p>
+          Enterprise digital services, global business presentation,
+          technology platforms, and long-term support.
+        </p>
+      </div>
+
+      <div>
+        <strong>Company</strong>
+        <a href="company.html">Company</a>
+        <a href="services.html">Services</a>
+        <a href="projects.html">Projects</a>
+        <a href="partners.html">Partners</a>
+      </div>
+
+      <div>
+        <strong>Information</strong>
+        <a href="resources.html">Resources</a>
+        <a href="faq.html">FAQ</a>
+        <a href="privacy.html">Privacy</a>
+        <a href="terms.html" aria-current="page">Terms</a>
+      </div>
+    </div>
+
+    <div class="container footer-bottom">
+      <span>© 2026 BB369TECH. All rights reserved.</span>
+      <span>Los Angeles, California, United States</span>
+    </div>
+  </footer>
+
+  <script>
+    const menuButton =
+      document.querySelector(".menu-button");
+
+    const navigation =
+      document.querySelector(".main-nav");
+
+    if (menuButton && navigation) {
+      menuButton.addEventListener("click", () => {
+        const isOpen =
+          navigation.classList.toggle("open");
+
+        menuButton.setAttribute(
+          "aria-expanded",
+          String(isOpen)
+        );
+      });
+
+      navigation
+        .querySelectorAll("a")
+        .forEach((link) => {
+          link.addEventListener("click", () => {
+            navigation.classList.remove("open");
+
+            menuButton.setAttribute(
+              "aria-expanded",
+              "false"
+            );
+          });
+        });
+    }
+  </script>
+</body>
+</html>
