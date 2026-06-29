@@ -77,6 +77,54 @@ Only information published through official BB369TECH channels should be treated
 
 ---
 
-## Copyright
 
-Copyright © BB369TECH. All rights reserved.BB369TECH names, branding, written content, graphics, photographs, project materials, service descriptions, and other original materials may not be copied, republished, redistributed, or represented as another party’s work without written authorization.
+## Copyright, Attribution, and Use
+
+Copyright © 2026 BB369TECH. All rights reserved.
+
+BB369TECH names, trademarks, logos, visual identity, website design, source code, photographs, graphics, client materials, project materials, service descriptions, platform materials, technical materials, and other original assets are protected works of BB369TECH or their respective rights holders.
+
+Unless a specific file or section is clearly marked with a separate license, no permission is granted to copy, reproduce, modify, translate, republish, redistribute, sell, sublicense, scrape for republication, present as another party’s work, or use BB369TECH materials to imply an unauthorized partnership, endorsement, certification, or affiliation.
+
+Public availability on GitHub or the BB369TECH website does not place any material in the public domain and does not automatically grant permission for reuse.
+
+### Limited Creative Commons Materials
+
+Only public informational text that is explicitly marked as licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)** may be shared under that license.
+
+For materials carrying that specific notice:
+
+- Proper credit must be given to BB369TECH.
+- The original source must be identified.
+- A link to the applicable license must be provided.
+- The material may not be used for commercial purposes.
+- The material may not be modified, transformed, translated, or presented as an adapted work without separate written authorization.
+- The material may not be presented in a way that suggests endorsement, partnership, certification, or official authorization by BB369TECH.
+
+License reference:
+
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+### Excluded Materials
+
+The Creative Commons notice does not apply to:
+
+- BB369TECH names, trademarks, logos, or brand identity
+- Website layouts, designs, graphics, photographs, or videos
+- Source code, software, APIs, backend systems, or technical configurations
+- Internal methods, operational procedures, evaluation structures, implementation materials, or private documentation
+- Client information, merchant information, project files, contracts, pricing, or confidential materials
+- Third-party content
+- Any material marked “All Rights Reserved,” “Confidential,” “Private,” or subject to another license
+
+### Attribution Does Not Create Affiliation
+
+Citation, reference, linking, or permitted sharing does not create a partnership, agency relationship, endorsement, authorization, certification, or other formal relationship with BB369TECH.
+
+Only information published through official BB369TECH channels should be treated as authoritative company information.
+
+For permissions beyond the rights expressly stated above, use the official contact page:
+
+https://bb369tech.com/contact.html
+
+
