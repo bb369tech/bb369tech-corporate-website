@@ -1,0 +1,937 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Frequently Asked Questions | BB369TECH</title>
+
+  <meta
+    name="description"
+    content="Find answers about BB369TECH services, corporate websites, global business presentation, multilingual public information, technology platforms, project boundaries, and business inquiries."
+  >
+
+  <meta name="author" content="BB369TECH">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#071d49">
+
+  <link rel="canonical" href="https://bb369tech.com/faq.html">
+
+  <meta property="og:title" content="Frequently Asked Questions | BB369TECH">
+  <meta
+    property="og:description"
+    content="Public answers about BB369TECH services, platforms, projects, business information, and cooperation."
+  >
+  <meta property="og:url" content="https://bb369tech.com/faq.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="BB369TECH">
+
+  <style>
+    :root {
+      --navy:#071d49;
+      --blue:#1769ff;
+      --blue-soft:#eaf3ff;
+      --ink:#12213f;
+      --muted:#61718a;
+      --line:#dfe7f1;
+      --soft:#f5f8fc;
+      --white:#ffffff;
+      --shadow:0 22px 70px rgba(7,29,73,.12);
+      --radius:24px;
+      --max:1180px;
+    }
+
+    * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
+
+    body {
+      margin:0;
+      font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+      color:var(--ink);
+      background:#fff;
+      line-height:1.65;
+    }
+
+    a { color:inherit; text-decoration:none; }
+    button { font:inherit; }
+    svg { display:block; max-width:100%; }
+
+    .container {
+      width:min(calc(100% - 40px),var(--max));
+      margin:0 auto;
+    }
+
+    .site-header {
+      position:sticky;
+      top:0;
+      z-index:100;
+      background:rgba(255,255,255,.92);
+      border-bottom:1px solid rgba(223,231,241,.85);
+      backdrop-filter:blur(18px);
+    }
+
+    .nav-wrap {
+      min-height:76px;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:28px;
+    }
+
+    .brand {
+      display:inline-flex;
+      align-items:center;
+      gap:12px;
+      color:var(--navy);
+      font-size:1.32rem;
+      font-weight:800;
+      letter-spacing:-.04em;
+    }
+
+    .brand strong { color:var(--blue); }
+
+    .brand-mark {
+      width:40px;
+      height:40px;
+      display:grid;
+      place-items:center;
+      color:var(--blue);
+    }
+
+    .brand-mark svg circle,
+    .brand-mark svg path {
+      fill:none;
+      stroke:currentColor;
+      stroke-width:2;
+    }
+
+    .main-nav {
+      display:flex;
+      align-items:center;
+      gap:24px;
+      color:#3d4b64;
+      font-size:.92rem;
+      font-weight:650;
+    }
+
+    .main-nav a:hover,
+    .main-nav a[aria-current="page"] {
+      color:var(--blue);
+    }
+
+    .nav-cta {
+      padding:10px 18px;
+      color:#fff !important;
+      background:var(--navy);
+      border-radius:999px;
+    }
+
+    .menu-button {
+      display:none;
+      padding:9px 14px;
+      border:1px solid var(--line);
+      border-radius:10px;
+      background:#fff;
+      color:var(--navy);
+      font-weight:700;
+      cursor:pointer;
+    }
+
+    .hero {
+      position:relative;
+      overflow:hidden;
+      padding:118px 0 102px;
+      color:#fff;
+      background:
+        radial-gradient(circle at 80% 18%,rgba(49,132,255,.44),transparent 30%),
+        linear-gradient(135deg,#06183c,#0a2f70 60%,#0d4697);
+    }
+
+    .hero-grid {
+      display:grid;
+      grid-template-columns:1.03fr .97fr;
+      gap:72px;
+      align-items:center;
+    }
+
+    .eyebrow,
+    .section-label {
+      margin:0 0 18px;
+      color:#8fc4ff;
+      font-size:.78rem;
+      font-weight:800;
+      letter-spacing:.14em;
+      text-transform:uppercase;
+    }
+
+    h1 {
+      margin:0;
+      max-width:820px;
+      color:#fff;
+      font-size:clamp(3rem,6vw,5.4rem);
+      line-height:.98;
+      letter-spacing:-.065em;
+    }
+
+    h2 {
+      margin:0;
+      color:var(--navy);
+      font-size:clamp(2.15rem,4vw,3.9rem);
+      line-height:1.05;
+      letter-spacing:-.05em;
+    }
+
+    .hero .lead {
+      max-width:720px;
+      margin:28px 0 0;
+      color:#c8d7ef;
+      font-size:1.15rem;
+    }
+
+    .faq-visual {
+      padding:30px;
+      border:1px solid rgba(255,255,255,.16);
+      border-radius:32px;
+      background:rgba(255,255,255,.08);
+      backdrop-filter:blur(14px);
+      box-shadow:var(--shadow);
+    }
+
+    .visual-top {
+      display:flex;
+      justify-content:space-between;
+      gap:20px;
+      padding-bottom:22px;
+      border-bottom:1px solid rgba(255,255,255,.15);
+    }
+
+    .visual-top strong { font-size:1.08rem; }
+    .visual-top span { color:#abc9f0; font-size:.82rem; }
+
+    .visual-list {
+      display:grid;
+      gap:14px;
+      margin-top:22px;
+    }
+
+    .visual-item {
+      display:grid;
+      grid-template-columns:50px 1fr;
+      gap:14px;
+      align-items:center;
+      padding:18px;
+      border:1px solid rgba(255,255,255,.12);
+      border-radius:18px;
+      background:rgba(255,255,255,.07);
+    }
+
+    .visual-code {
+      width:50px;
+      height:50px;
+      display:grid;
+      place-items:center;
+      border-radius:15px;
+      background:rgba(255,255,255,.12);
+      font-size:.72rem;
+      font-weight:800;
+    }
+
+    .visual-item strong { display:block; }
+    .visual-item span { color:#c4d5ea; font-size:.84rem; }
+
+    .section { padding:108px 0; }
+    .section-soft { background:var(--soft); }
+
+    .faq-layout {
+      display:grid;
+      grid-template-columns:.72fr 1.28fr;
+      gap:72px;
+      align-items:start;
+    }
+
+    .faq-index {
+      position:sticky;
+      top:104px;
+      padding:26px;
+      border:1px solid var(--line);
+      border-radius:22px;
+      background:#fff;
+      box-shadow:0 14px 35px rgba(7,29,73,.05);
+    }
+
+    .faq-index strong {
+      display:block;
+      margin-bottom:14px;
+      color:var(--navy);
+    }
+
+    .faq-index a {
+      display:block;
+      padding:10px 0;
+      color:var(--muted);
+      border-bottom:1px solid var(--line);
+      font-size:.93rem;
+    }
+
+    .faq-index a:last-child { border-bottom:0; }
+    .faq-index a:hover { color:var(--blue); }
+
+    .faq-groups {
+      display:grid;
+      gap:52px;
+    }
+
+    .faq-group h2 {
+      margin-bottom:24px;
+      font-size:2rem;
+    }
+
+    details {
+      border:1px solid var(--line);
+      border-radius:18px;
+      background:#fff;
+      overflow:hidden;
+    }
+
+    details + details { margin-top:14px; }
+
+    summary {
+      position:relative;
+      padding:22px 60px 22px 24px;
+      color:var(--navy);
+      font-weight:750;
+      cursor:pointer;
+      list-style:none;
+    }
+
+    summary::-webkit-details-marker { display:none; }
+
+    summary::after {
+      content:"+";
+      position:absolute;
+      right:22px;
+      top:50%;
+      transform:translateY(-50%);
+      width:30px;
+      height:30px;
+      display:grid;
+      place-items:center;
+      border-radius:10px;
+      color:var(--blue);
+      background:var(--blue-soft);
+      font-size:1.2rem;
+    }
+
+    details[open] summary::after { content:"–"; }
+
+    .answer {
+      padding:0 24px 22px;
+      color:var(--muted);
+    }
+
+    .answer p { margin:0; }
+    .answer p + p { margin-top:12px; }
+
+    .boundary-section {
+      padding:100px 0;
+      color:#fff;
+      background:
+        radial-gradient(circle at 85% 20%,rgba(23,105,255,.5),transparent 28%),
+        linear-gradient(135deg,#06183c,#0a3277 62%,#0d4696);
+    }
+
+    .boundary-grid {
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:70px;
+      align-items:center;
+    }
+
+    .boundary-section h2 { color:#fff; }
+    .boundary-section p { color:#c8d7ef; }
+
+    .boundary-panel {
+      padding:28px;
+      border:1px solid rgba(255,255,255,.16);
+      border-radius:24px;
+      background:rgba(255,255,255,.09);
+      backdrop-filter:blur(12px);
+    }
+
+    .boundary-row {
+      display:flex;
+      justify-content:space-between;
+      gap:24px;
+      padding:17px 0;
+      border-bottom:1px solid rgba(255,255,255,.12);
+    }
+
+    .boundary-row:last-child { border-bottom:0; }
+    .boundary-row strong { color:#fff; }
+    .boundary-row span {
+      color:#bdd0e8;
+      text-align:right;
+      font-size:.9rem;
+    }
+
+    .next-step {
+      display:grid;
+      grid-template-columns:1fr auto;
+      gap:50px;
+      align-items:center;
+      padding:54px;
+      border:1px solid #dbe8f7;
+      border-radius:30px;
+      background:linear-gradient(135deg,#f7fbff,#eaf4ff);
+    }
+
+    .next-step p {
+      max-width:760px;
+      color:var(--muted);
+    }
+
+    .button {
+      min-height:52px;
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      padding:0 23px;
+      border-radius:999px;
+      font-weight:750;
+      transition:transform .2s ease;
+    }
+
+    .button:hover { transform:translateY(-2px); }
+
+    .button-primary {
+      color:#fff;
+      background:linear-gradient(135deg,var(--blue),#0b4fd6);
+      box-shadow:0 14px 32px rgba(23,105,255,.24);
+    }
+
+    .site-footer {
+      padding:70px 0 24px;
+      color:#c9d5e8;
+      background:#06142f;
+    }
+
+    .footer-grid {
+      display:grid;
+      grid-template-columns:1.6fr 1fr 1fr;
+      gap:60px;
+    }
+
+    .footer-grid>div {
+      display:grid;
+      align-content:start;
+      gap:10px;
+    }
+
+    .footer-grid strong {
+      color:#fff;
+      margin-bottom:8px;
+    }
+
+    .footer-brand { color:#fff; }
+
+    .footer-bottom {
+      display:flex;
+      justify-content:space-between;
+      gap:20px;
+      margin-top:50px;
+      padding-top:22px;
+      border-top:1px solid rgba(255,255,255,.12);
+      font-size:.85rem;
+    }
+
+    @media (max-width:980px) {
+      .hero-grid,
+      .faq-layout,
+      .boundary-grid {
+        grid-template-columns:1fr;
+      }
+
+      .faq-index { position:static; }
+      .next-step { grid-template-columns:1fr; }
+    }
+
+    @media (max-width:760px) {
+      .menu-button { display:inline-flex; }
+
+      .main-nav {
+        position:absolute;
+        left:20px;
+        right:20px;
+        top:68px;
+        display:none;
+        flex-direction:column;
+        align-items:stretch;
+        gap:4px;
+        padding:18px;
+        border:1px solid var(--line);
+        border-radius:18px;
+        background:#fff;
+        box-shadow:var(--shadow);
+      }
+
+      .main-nav.open { display:flex; }
+      .main-nav a { padding:11px 12px; }
+      .nav-cta { text-align:center; }
+
+      .hero { padding:84px 0 74px; }
+      h1 { font-size:clamp(2.8rem,13vw,4.3rem); }
+      .section { padding:80px 0; }
+      .boundary-row { flex-direction:column; gap:4px; }
+      .boundary-row span { text-align:left; }
+      .next-step { padding:34px 24px; }
+      .footer-grid { grid-template-columns:1fr; }
+      .footer-bottom { flex-direction:column; }
+    }
+  </style>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What does BB369TECH do?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "BB369TECH is a global-facing enterprise digital services and technology company. It helps businesses build clear and credible digital foundations, present their capabilities across markets, and maintain reliable public business information."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is BB369TECH the same as the BB369TECH Platform?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. BB369TECH is the parent company and corporate brand. The BB369TECH Platform is one operating platform developed and managed by the company."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does BB369TECH guarantee search rankings or AI recommendations?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. BB369TECH can improve the clarity, accessibility, and reliability of public business information, but search engines and AI systems make independent decisions about indexing, ranking, citation, and recommendation."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does BB369TECH provide licensed professional services?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "BB369TECH provides digital services, websites, public business presentation, technology platforms, and technical support. Licensed or regulated professional services remain with the appropriately qualified provider."
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html" aria-label="BB369TECH home">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 48 48">
+            <circle cx="24" cy="24" r="20"></circle>
+            <path d="M4 24h40M24 4c7 6 10 13 10 20s-3 14-10 20M24 4c-7 6-10 13-10 20s3 14 10 20M9 14h30M9 34h30"></path>
+          </svg>
+        </span>
+        <span>BB<strong>369</strong>TECH</span>
+      </a>
+
+      <button class="menu-button" type="button" aria-expanded="false">Menu</button>
+
+      <nav class="main-nav" aria-label="Primary navigation">
+        <a href="index.html">Home</a>
+        <a href="company.html">Company</a>
+        <a href="services.html">Services</a>
+        <a href="industries.html">Industries</a>
+        <a href="platforms.html">Platforms</a>
+        <a href="projects.html">Projects</a>
+        <a href="resources.html">Resources</a>
+        <a href="faq.html" aria-current="page">FAQ</a>
+        <a href="contact.html" class="nav-cta">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <p class="eyebrow">Frequently Asked Questions</p>
+          <h1>Clear Answers About BB369TECH and Its Public Services</h1>
+          <p class="lead">
+            This page answers common public questions about the company,
+            corporate websites, global business presentation, multilingual information,
+            technology platforms, project boundaries, and business cooperation.
+          </p>
+        </div>
+
+        <div class="faq-visual" aria-label="BB369TECH FAQ overview">
+          <div class="visual-top">
+            <strong>FAQ Topics</strong>
+            <span>Public company information</span>
+          </div>
+
+          <div class="visual-list">
+            <div class="visual-item">
+              <div class="visual-code">CO</div>
+              <div>
+                <strong>Company</strong>
+                <span>Identity, scope, and public direction</span>
+              </div>
+            </div>
+
+            <div class="visual-item">
+              <div class="visual-code">SV</div>
+              <div>
+                <strong>Services</strong>
+                <span>Websites, presentation, and technical support</span>
+              </div>
+            </div>
+
+            <div class="visual-item">
+              <div class="visual-code">PL</div>
+              <div>
+                <strong>Platforms</strong>
+                <span>Operating applications and human confirmation</span>
+              </div>
+            </div>
+
+            <div class="visual-item">
+              <div class="visual-code">BD</div>
+              <div>
+                <strong>Boundaries</strong>
+                <span>What the company does and does not guarantee</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-soft">
+      <div class="container faq-layout">
+        <aside class="faq-index" aria-label="FAQ categories">
+          <strong>FAQ Categories</strong>
+          <a href="#company">Company</a>
+          <a href="#services">Services</a>
+          <a href="#platform">Platform</a>
+          <a href="#projects">Projects and Resources</a>
+          <a href="#boundaries">Public Boundaries</a>
+        </aside>
+
+        <div class="faq-groups">
+          <section class="faq-group" id="company">
+            <p class="section-label">Company</p>
+            <h2>About BB369TECH</h2>
+
+            <details open>
+              <summary>What does BB369TECH do?</summary>
+              <div class="answer">
+                <p>
+                  BB369TECH is a global-facing enterprise digital services and
+                  technology company. We help businesses build clear and credible
+                  digital foundations, present their capabilities across markets,
+                  and maintain reliable public business information.
+                </p>
+              </div>
+            </details>
+
+            <details>
+              <summary>Who does BB369TECH support?</summary>
+              <div class="answer">
+                <p>
+                  BB369TECH may support manufacturers, suppliers, trading companies,
+                  technology businesses, professional service firms, construction
+                  companies, local service businesses, education organizations,
+                  and other real businesses with public digital needs.
+                </p>
+              </div>
+            </details>
+
+            <details>
+              <summary>Is BB369TECH limited to one industry?</summary>
+              <div class="answer">
+                <p>
+                  No. The company works across industries where businesses need
+                  clearer websites, public information, business presentation,
+                  platform access, or long-term technical support.
+                </p>
+              </div>
+            </details>
+          </section>
+
+          <section class="faq-group" id="services">
+            <p class="section-label">Services</p>
+            <h2>Websites and Business Presentation</h2>
+
+            <details>
+              <summary>What kinds of digital services are available?</summary>
+              <div class="answer">
+                <p>
+                  Public services may include corporate websites, service pages,
+                  industry pages, project pages, multilingual business information,
+                  public resources, website maintenance, and technical support.
+                </p>
+              </div>
+            </details>
+
+            <details>
+              <summary>Can BB369TECH support multilingual business information?</summary>
+              <div class="answer">
+                <p>
+                  Yes. BB369TECH can help present company, service, product,
+                  project, and contact information across more than one language
+                  while keeping the core business facts consistent.
+                </p>
+              </div>
+            </details>
+
+            <details>
+              <summary>Does BB369TECH only build new websites?</summary>
+              <div class="answer">
+                <p>
+                  No. Services may also include page expansion, public information
+                  updates, technical maintenance, resource additions, form and link checks,
+                  and long-term support for an existing digital presence.
+                </p>
+              </div>
+            </details>
+          </section>
+
+          <section class="faq-group" id="platform">
+            <p class="section-label">Platform</p>
+            <h2>BB369TECH Platform</h2>
+
+            <details>
+              <summary>Is BB369TECH the same as the BB369TECH Platform?</summary>
+              <div class="answer">
+                <p>
+                  No. BB369TECH is the parent company and corporate brand.
+                  The BB369TECH Platform is one operating platform developed
+                  and managed by the company.
+                </p>
+              </div>
+            </details>
+
+            <details>
+              <summary>What does the BB369TECH Platform do?</summary>
+              <div class="answer">
+                <p>
+                  The platform helps customers organize real-world local service
+                  requests, including descriptions and photos, and connect with
+                  relevant service businesses.
+                </p>
+              </div>
+            </details>
+
+            <details>
+              <summary>Who confirms final service details?</summary>
+              <div class="answer">
+                <p>
+                  Final pricing, availability, scheduling, service scope,
+                  warranties, contracts, and other commitments require confirmation
+                  by the relevant people and businesses.
+                </p>
+              </div>
+            </details>
+          </section>
+
+          <section class="faq-group" id="projects">
+            <p class="section-label">Projects and Resources</p>
+            <h2>Public Examples and Materials</h2>
+
+            <details>
+              <summary>What project information may be published?</summary>
+              <div class="answer">
+                <p>
+                  Public project pages may include approved websites, screenshots,
+                  project descriptions, public documents, dates, and visible outcomes
+                  when the information is accurate and authorized for public use.
+                </p>
+              </div>
+            </details>
+
+            <details>
+              <summary>Does the resources page include internal documents?</summary>
+              <div class="answer">
+                <p>
+                  No. The public resource center is limited to approved company
+                  information, public documents, official links, and materials
+                  intended for customers, partners, media, or general visitors.
+                </p>
+              </div>
+            </details>
+
+            <details>
+              <summary>Are client-confidential materials published?</summary>
+              <div class="answer">
+                <p>
+                  No. Private customer information, protected business records,
+                  confidential materials, and internal implementation files are
+                  not intended for publication.
+                </p>
+              </div>
+            </details>
+          </section>
+
+          <section class="faq-group" id="boundaries">
+            <p class="section-label">Public Boundaries</p>
+            <h2>Claims, Responsibility, and Third Parties</h2>
+
+            <details>
+              <summary>Does BB369TECH guarantee search rankings or AI recommendations?</summary>
+              <div class="answer">
+                <p>
+                  No. BB369TECH can help make public business information clearer,
+                  more accessible, and more reliable. Search engines and AI systems
+                  independently decide whether and how information is indexed,
+                  ranked, cited, or recommended.
+                </p>
+              </div>
+            </details>
+
+            <details>
+              <summary>Does BB369TECH guarantee sales or contracts?</summary>
+              <div class="answer">
+                <p>
+                  No. Customers, buyers, partners, investors, platforms, and other
+                  third parties make their own decisions. BB369TECH does not guarantee
+                  sales, contracts, funding, licensing outcomes, or business results.
+                </p>
+              </div>
+            </details>
+
+            <details>
+              <summary>Does BB369TECH provide licensed professional services?</summary>
+              <div class="answer">
+                <p>
+                  BB369TECH provides digital services, websites, public business
+                  presentation, technology platforms, and technical support.
+                  Licensed or regulated services remain with the appropriately
+                  qualified provider.
+                </p>
+              </div>
+            </details>
+          </section>
+        </div>
+      </div>
+    </section>
+
+    <section class="boundary-section">
+      <div class="container boundary-grid">
+        <div>
+          <p class="section-label">FAQ Boundary</p>
+          <h2>General answers do not replace project-specific agreements.</h2>
+          <p>
+            This FAQ explains the company’s public scope. Actual project scope,
+            commercial terms, responsibilities, permissions, timelines,
+            intellectual property, and other obligations must be confirmed separately.
+          </p>
+        </div>
+
+        <div class="boundary-panel">
+          <div class="boundary-row">
+            <strong>General company information</strong>
+            <span>Covered by this FAQ</span>
+          </div>
+
+          <div class="boundary-row">
+            <strong>Specific project scope</strong>
+            <span>Confirmed separately</span>
+          </div>
+
+          <div class="boundary-row">
+            <strong>Pricing and commercial terms</strong>
+            <span>Confirmed separately</span>
+          </div>
+
+          <div class="boundary-row">
+            <strong>Legal and professional obligations</strong>
+            <span>Remain with the responsible parties</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container next-step">
+        <div>
+          <p class="section-label">Still Have Questions?</p>
+          <h2>Use the official contact page for business-specific inquiries.</h2>
+          <p>
+            Contact BB369TECH for enterprise services, partnerships,
+            platform cooperation, technical support, media, and other public business inquiries.
+          </p>
+        </div>
+
+        <a class="button button-primary" href="contact.html">
+          Contact BB369TECH
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <a class="brand footer-brand" href="index.html">
+          <span>BB<strong>369</strong>TECH</span>
+        </a>
+        <p>
+          Enterprise digital services, global business presentation,
+          technology platforms, and long-term support.
+        </p>
+      </div>
+
+      <div>
+        <strong>Official</strong>
+        <a href="https://bb369tech.com">Corporate Website</a>
+        <a href="https://platform.bb369tech.com">Operating Platform</a>
+        <a href="https://github.com/bb369tech">GitHub Organization</a>
+      </div>
+
+      <div>
+        <strong>Resources</strong>
+        <a href="resources.html">Resource Center</a>
+        <a href="faq.html">FAQ</a>
+        <a href="projects.html">Projects</a>
+        <a href="contact.html">Contact</a>
+      </div>
+    </div>
+
+    <div class="container footer-bottom">
+      <span>© <span id="year"></span> BB369TECH. All rights reserved.</span>
+      <span>Official corporate website</span>
+    </div>
+  </footer>
+
+  <script>
+    const button = document.querySelector(".menu-button");
+    const navigation = document.querySelector(".main-nav");
+
+    if (button && navigation) {
+      button.addEventListener("click", () => {
+        const isOpen = navigation.classList.toggle("open");
+        button.setAttribute("aria-expanded", String(isOpen));
+      });
+
+      navigation.querySelectorAll("a").forEach((link) => {
+        link.addEventListener("click", () => {
+          navigation.classList.remove("open");
+          button.setAttribute("aria-expanded", "false");
+        });
+      });
+    }
+
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
