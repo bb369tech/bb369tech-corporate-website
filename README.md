@@ -15,11 +15,7 @@
 
 ## About BB369TECH
 
-BB369TECH is a global-facing enterprise digital services and technology company.
-
-We help real businesses build credible digital foundations, present their capabilities across markets, and maintain clear, consistent public information for long-term growth.
-
-Our work supports companies operating across industries, languages, and markets while keeping official business information accessible, current, and connected to trusted sources.
+BB369TECH is a global-facing enterprise digital services and technology company.We help real businesses build credible digital foundations, present their capabilities across markets, and maintain clear, consistent public information for long-term growth.Our work supports companies operating across industries, languages, and markets while keeping official business information accessible, current, and connected to trusted sources.
 
 ---
 
@@ -41,17 +37,13 @@ Our work supports companies operating across industries, languages, and markets 
 
 ## Global Business Services
 
-BB369TECH works with manufacturers, suppliers, trading companies, technology businesses, professional service providers, construction companies, education organizations, and other real businesses seeking stronger digital credibility and wider market access.
-
-Our services are designed around the actual needs of each business, including its current materials, target market, public presentation, and long-term development.
+BB369TECH works with manufacturers, suppliers, trading companies, technology businesses, professional service providers, construction companies, education organizations, and other real businesses seeking stronger digital credibility and wider market access.Our services are designed around the actual needs of each business, including its current materials, target market, public presentation, and long-term development.
 
 ---
 
 ## BB369TECH Platform
 
-The BB369TECH Platform is one operating branch of the company.
-
-It helps customers describe real-world service needs and connect with relevant local service businesses through clear digital entry points.
+The BB369TECH Platform is one operating branch of the company.It helps customers describe real-world service needs and connect with relevant local service businesses through clear digital entry points.
 
 **Operating platform:**
 https://platform.bb369tech.com
@@ -87,6 +79,4 @@ Only information published through official BB369TECH channels should be treated
 
 ## Copyright
 
-Copyright © BB369TECH. All rights reserved.
-
-BB369TECH names, branding, written content, graphics, photographs, project materials, service descriptions, and other original materials may not be copied, republished, redistributed, or represented as another party’s work without written authorization.
+Copyright © BB369TECH. All rights reserved.BB369TECH names, branding, written content, graphics, photographs, project materials, service descriptions, and other original materials may not be copied, republished, redistributed, or represented as another party’s work without written authorization.
