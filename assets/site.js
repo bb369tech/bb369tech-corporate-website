@@ -1,0 +1,1 @@
+document.querySelectorAll("[data-menu]").forEach(b=>b.addEventListener("click",()=>document.querySelector(".links")?.classList.toggle("open")));document.querySelectorAll("[data-year]").forEach(e=>e.textContent=new Date().getFullYear());
