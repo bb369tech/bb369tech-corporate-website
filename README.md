@@ -1,24 +1,14 @@
 # BB369TECH Corporate Website
 
-Official corporate website for BB369TECH.
+Official public website for BB369TECH.
 
-## Public sections
+## Version
 
-- Company
-- Services
-- Products
-- Industries
-- Projects
-- Resources
-- Contact
-
-## Public offerings
-
-- Business Website System
-- Source & Attribution Tools
-- School Recruitment Support (Pilot)
-
+v2.0.0
 
 ## Deployment
 
-Static website for https://bb369tech.com.
+- GitHub Pages uses the website files in the repository root.
+- Cloudflare Workers uses the mirrored files in `public/` through `wrangler.jsonc`.
+
+Both copies are included in this release so the current domain remains available while the Cloudflare deployment is maintained.

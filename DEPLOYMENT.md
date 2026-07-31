@@ -1,9 +1,15 @@
 # Deployment
 
-Deploy command:
+## GitHub Pages
 
-```text
+Publish from the repository root. Keep `CNAME`, `index.html`, and the public website files in the root directory.
+
+## Cloudflare Workers
+
+Deploy with:
+
+```bash
 npx wrangler deploy
 ```
 
-The public website is contained in `public/` and the Worker Static Assets configuration is defined in `wrangler.jsonc`.
+Wrangler publishes only the files inside `public/`.
