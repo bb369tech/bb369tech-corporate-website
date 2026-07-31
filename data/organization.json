@@ -15,24 +15,24 @@
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
-    "name": "BB369TECH Products and Services",
+    "name": "BB369TECH Public Products and Services",
     "itemListElement": [
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "SoftwareApplication",
-          "name": "BB369TECH Project Support PWA",
-          "url": "https://bb369tech.com/products/project-support/",
-          "softwareVersion": "2.0.0",
-          "applicationCategory": "BusinessApplication"
-        }
-      },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
           "name": "Business Website Services",
           "url": "https://bb369tech.com/services.html"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "SoftwareApplication",
+          "name": "Source & Attribution Tools",
+          "url": "https://tools.bb369tech.com",
+          "applicationCategory": "BusinessApplication",
+          "operatingSystem": "Web"
         }
       }
     ]

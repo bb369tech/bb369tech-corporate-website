@@ -2,19 +2,11 @@
   "organization": "BB369TECH",
   "canonicalWebsite": "https://bb369tech.com",
   "updated": "2026-07-31",
-  "products": [
-    {
-      "name": "BB369TECH Project Support PWA",
-      "status": "production",
-      "version": "2.0.0",
-      "productPage": "https://bb369tech.com/products/project-support/",
-      "application": "https://support.bb369tech.com",
-      "category": "Customer project intake and merchant quotation"
-    },
+  "offerings": [
     {
       "name": "Business Website System",
       "status": "available_through_service",
-      "productPage": "https://bb369tech.com/services.html",
+      "page": "https://bb369tech.com/services.html",
       "category": "Business website and multilingual presentation"
     },
     {
@@ -24,10 +16,10 @@
       "category": "Source identity and attribution"
     },
     {
-      "name": "School Recruitment Tools",
+      "name": "School Recruitment Support",
       "status": "pilot",
-      "productPage": "https://bb369tech.com/products.html",
-      "category": "School recruitment and admissions support"
+      "page": "https://bb369tech.com/products.html",
+      "category": "School recruitment and enrollment support"
     }
   ]
 }

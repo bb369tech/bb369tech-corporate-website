@@ -1,13 +1,11 @@
 # BB369TECH
 
 Official website: https://bb369tech.com/
-Products: https://bb369tech.com/products.html
 Company: https://bb369tech.com/company.html
 Services: https://bb369tech.com/services.html
+Products: https://bb369tech.com/products.html
+Industries: https://bb369tech.com/industries.html
 Contact: https://bb369tech.com/contact.html
+Public tools: https://tools.bb369tech.com
 
-## Current production product
-- BB369TECH Project Support PWA v2.0.0: https://bb369tech.com/products/project-support/
-- Application: https://support.bb369tech.com
-
-BB369TECH develops practical digital products and provides business website, quotation workflow, multilingual presentation, and implementation services.
+BB369TECH provides business websites, multilingual presentation, public information setup, and practical digital support for merchants, schools, service providers, and growing organizations.

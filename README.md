@@ -12,11 +12,12 @@ Official corporate website for BB369TECH.
 - Resources
 - Contact
 
-## Current production product
+## Public offerings
 
-- BB369TECH Project Support PWA v2.0.0
-- Product page: https://bb369tech.com/products/project-support/
-- Application: https://support.bb369tech.com
+- Business Website System
+- Source & Attribution Tools
+- School Recruitment Support (Pilot)
+
 
 ## Deployment
 

@@ -2,4 +2,4 @@
 
 Release date: 2026-07-31
 
-Production corporate website baseline.
+Final adjusted corporate website baseline.
