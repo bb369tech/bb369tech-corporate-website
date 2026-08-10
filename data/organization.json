@@ -2,20 +2,32 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "@id": "https://bb369tech.com/#organization",
+
   "name": "BB369TECH",
+  "alternateName": "BB369 Tech",
+
   "url": "https://bb369tech.com/",
   "email": "business@bb369tech.com",
+
+  "description": "BB369TECH supports real businesses with clearer digital presence, structured service information, customer access, practical business workflows, and tools designed for today's search and AI environment.",
+
   "location": {
     "@type": "Place",
     "name": "Los Angeles, California, United States"
   },
+
   "areaServed": "Global",
+
   "sameAs": [
-    "https://github.com/bb369tech"
+    "https://github.com/bb369tech",
+    "https://github.com/bb369tech/bb369tech-corporate-website",
+    "https://cal.com/bb369tech"
   ],
+
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
     "name": "BB369TECH Public Products and Services",
+
     "itemListElement": [
       {
         "@type": "Offer",
@@ -25,6 +37,7 @@
           "url": "https://bb369tech.com/services.html"
         }
       },
+
       {
         "@type": "Offer",
         "itemOffered": {
