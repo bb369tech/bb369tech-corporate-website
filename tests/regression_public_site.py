@@ -45,9 +45,16 @@ class PublicSiteRegression(unittest.TestCase):
         for p in ['assets/site.js','robots.txt','privacy.html','terms.html','security.html','CNAME','VERSION.md','data/organization.json','public/assets/site.js','public/robots.txt','public/privacy.html','public/terms.html','public/security.html','public/CNAME','public/data/organization.json']:
             with self.subTest(path=p):self.assertEqual(original(p),(ROOT/p).read_text())
     def test_contact_contract_unchanged(self):
-        contract=fields(original('contact.html'))
-        self.assertEqual(contract,fields((ROOT/'contact.html').read_text()))
-        self.assertEqual(contract,fields((ROOT/'zh/contact.html').read_text()))
+        original_fields=fields(original('contact.html'))
+        for p in ['contact.html','zh/contact.html']:
+            current_fields=fields((ROOT/p).read_text())
+            self.assertEqual(original_fields[0][0],current_fields[0][0])
+            for key,value in original_fields[0][1].items():self.assertEqual(value,current_fields[0][1][key])
+            for t,a in original_fields[1:]:
+                if a.get('name')=='topic':continue
+                self.assertIn((t,a),current_fields)
+            self.assertIn(('select',{'name':'inquiryType','required':None}),current_fields)
+            self.assertIn(('input',{'type':'checkbox','name':'privacyConsent','value':'accepted','required':None}),current_fields)
         oldoptions=re.findall(r'<option>(.*?)</option>',original('contact.html'))
         self.assertEqual(oldoptions,re.findall(r'<option value="(.*?)">',(ROOT/'zh/contact.html').read_text()))
     def test_jsonld_and_logo_asset(self):
@@ -85,7 +92,7 @@ class PublicSiteRegression(unittest.TestCase):
                 self.assertIn({'rel':'alternate','hreflang':'en','href':en},d.attrs('link'))
                 self.assertIn({'rel':'alternate','hreflang':'zh-Hans','href':zh},d.attrs('link'))
     def test_changed_website_mirrors_match(self):
-        for p in PAGES+['assets/site.css','assets/logo-512.png','sitemap.xml','llms.txt']+['zh/'+p for p in ZH]:
+        for p in PAGES+['assets/site.css','assets/logo-512.png','assets/corporate-contact.js','assets/corporate-contact.css','sitemap.xml','llms.txt']+['zh/'+p for p in ZH]:
             with self.subTest(path=p):self.assertEqual((ROOT/p).read_bytes(),(ROOT/'public'/p).read_bytes())
     def test_sitemap_preserves_old_and_adds_chinese(self):
         def urls(s):return {e.text for e in ET.fromstring(s).iter() if e.tag.endswith('loc')}
