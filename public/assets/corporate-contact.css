@@ -1,0 +1,6 @@
+.contact-form .consent-row{display:flex;align-items:flex-start;gap:10px;font-size:.9rem;line-height:1.5}
+.contact-form .consent-row input[type="checkbox"]{width:18px;height:18px;flex:0 0 18px;margin:3px 0 0;accent-color:#1769ff}
+.contact-form .consent-row a{color:#1769ff;text-decoration:underline}
+.contact-form [data-contact-status]{margin:0;min-height:1.5em;font-size:.92rem;overflow-wrap:anywhere}
+.contact-form [data-contact-status][role="alert"]{color:#9b2222}
+.contact-form button:disabled{opacity:.65;cursor:wait}
