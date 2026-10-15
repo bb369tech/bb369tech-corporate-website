@@ -9,3 +9,10 @@ Contact: https://bb369tech.com/contact.html
 Public tools: https://tools.bb369tech.com
 
 BB369TECH provides business websites, multilingual presentation, public information setup, and practical digital support for merchants, schools, service providers, and growing organizations.
+
+Chinese pages:
+Chinese home: https://bb369tech.com/zh/index.html
+Chinese services: https://bb369tech.com/zh/services.html
+Chinese industries: https://bb369tech.com/zh/industries.html
+Chinese FAQ: https://bb369tech.com/zh/faq.html
+Chinese contact: https://bb369tech.com/zh/contact.html
