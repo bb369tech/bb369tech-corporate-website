@@ -1,0 +1,18 @@
+test_all_original_public_paths_retained (__main__.FinalVisual.test_all_original_public_paths_retained) ... ok
+test_case_publication_gate (__main__.FinalVisual.test_case_publication_gate) ... ok
+test_content_is_retained_or_explicitly_migrated (__main__.FinalVisual.test_content_is_retained_or_explicitly_migrated) ... ok
+test_existing_forms_and_business_scripts_unchanged (__main__.FinalVisual.test_existing_forms_and_business_scripts_unchanged) ... ok
+test_five_homepage_regions (__main__.FinalVisual.test_five_homepage_regions) ... ok
+test_formal_main_and_production_semantic_preservation (__main__.FinalVisual.test_formal_main_and_production_semantic_preservation) ... ok
+test_internal_links_and_language_targets (__main__.FinalVisual.test_internal_links_and_language_targets) ... ok
+test_legal_bodies_unchanged (__main__.FinalVisual.test_legal_bodies_unchanged) ... ok
+test_original_collapsed_text_and_links_visible (__main__.FinalVisual.test_original_collapsed_text_and_links_visible) ... ok
+test_search_identity_unchanged (__main__.FinalVisual.test_search_identity_unchanged) ... ok
+test_sitemap_unchanged (__main__.FinalVisual.test_sitemap_unchanged) ... ok
+test_small_self_contained_frontend (__main__.FinalVisual.test_small_self_contained_frontend) ... ok
+test_static_case_generation_and_root_mirrors (__main__.FinalVisual.test_static_case_generation_and_root_mirrors) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.942s
+
+OK

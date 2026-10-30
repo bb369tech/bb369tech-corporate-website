@@ -1,0 +1,4251 @@
+[
+  {
+    "requestedPath": "/index.html",
+    "finalUrl": "https://bb369tech.com/index.html",
+    "title": "BB369TECH | Business Website Design & Digital Services",
+    "canonical": "https://bb369tech.com/",
+    "robots": "index,follow",
+    "h1": [
+      "Clear digital tools for real business work."
+    ],
+    "paragraphs": [
+      "BB369TECH helps businesses present services clearly, improve customer access, maintain accurate public information, and build practical digital foundations.",
+      "Clear services. Real business needs. Project scope confirmed before work begins.",
+      "Start with what you need",
+      "Three clear ways to work with us.",
+      "Start with the service that fits your current business needs. Detailed scope and terms are confirmed before engagement.",
+      "Business Website",
+      "Professional business websites with clear services, mobile-friendly pages, and contact options.",
+      "Get More Customers",
+      "Digital support focused on helping potential customers discover your business and make inquiries. Results are not guaranteed.",
+      "Custom Business Solutions",
+      "Discuss digital requirements that do not fit a standard website or ongoing service package.",
+      "Public products and services",
+      "Clear offerings with a defined purpose and a direct way to learn more.",
+      "Business Website System",
+      "Structured company websites with clear service pages, multilingual presentation, contact paths, and ongoing maintenance.",
+      "Source & Attribution Tools",
+      "Public utilities for source identity, version information, and attribution records.",
+      "School Recruitment Support",
+      "Course presentation, inquiry entry, appointment support, and enrollment follow-up for schools.",
+      "From public presentation to daily operations",
+      "BB369TECH combines product development with implementation support for organizations that need useful, maintainable digital systems.",
+      "Business websites",
+      "Company, service, location, product, and contact pages that are easy to understand and maintain.",
+      "Customer access",
+      "Clear request forms, appointment paths, contact options, and service information for customers.",
+      "Multilingual presentation",
+      "Clear public information for businesses serving customers across languages and markets.",
+      "Bring us one real business problem.",
+      "We will help turn it into a clear digital workflow, website, or product implementation."
+    ],
+    "description": [
+      "BB369TECH provides professional business websites, customer-facing digital services and practical technology support for businesses in California and remotely across the United States."
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/#webpage\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH | Business Website Design & Digital Services\",\"description\":\"BB369TECH provides professional business websites, customer-facing digital services and practical technology support for businesses in California and remotely across the United States.\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "BB369TECH | Business Website Design & Digital Services",
+        "property": "og:title"
+      },
+      {
+        "content": "BB369TECH provides professional business websites, customer-facing digital services and practical technology support for businesses in California and remotely across the United States.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [
+      {
+        "href": "https://bb369tech.com/",
+        "language": "en"
+      },
+      {
+        "href": "https://bb369tech.com/zh/index.html",
+        "language": "zh-Hans"
+      },
+      {
+        "href": "https://bb369tech.com/",
+        "language": "x-default"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "中文"
+      },
+      {
+        "href": "/products.html",
+        "text": "Explore Products"
+      },
+      {
+        "href": "/services.html",
+        "text": "View Services"
+      },
+      {
+        "href": "/services.html",
+        "text": "Improve customer accessCreate clear contact paths, request forms, appointment entry points, and service information."
+      },
+      {
+        "href": "/services.html",
+        "text": "Build or improve a business websitePresent services, locations, products, and contact information clearly."
+      },
+      {
+        "href": "/contact.html",
+        "text": "Discuss a business projectTell us the goal and current situation. We will identify the next practical step."
+      },
+      {
+        "href": "https://platform.bb369tech.com/business-website/",
+        "text": "Explore website service →"
+      },
+      {
+        "href": "https://platform.bb369tech.com/business-website/#monthly-support",
+        "text": "Explore ongoing support →"
+      },
+      {
+        "href": "https://platform.bb369tech.com/merchant/",
+        "text": "Request a consultation →"
+      },
+      {
+        "href": "/services.html",
+        "text": "View service →"
+      },
+      {
+        "href": "https://tools.bb369tech.com",
+        "text": "Open tools →"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Discuss a pilot →"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Start a conversation"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/company.html",
+    "finalUrl": "https://bb369tech.com/company.html",
+    "title": "About BB369TECH | Business Website & Digital Services Company",
+    "canonical": "https://bb369tech.com/company.html",
+    "robots": "index,follow",
+    "h1": [
+      "Technology that supports real organizations."
+    ],
+    "paragraphs": [
+      "BB369TECH develops and maintains practical digital products while helping businesses and institutions improve how they present information, serve customers, and complete everyday work.",
+      "What we focus on",
+      "Our work centers on clear business presentation, useful customer entry points, multilingual communication, and maintainable digital operations.",
+      "We work with merchants, schools, service providers, manufacturers, professional organizations, and growing businesses that need tools grounded in real tasks.",
+      "How we work",
+      "Each project begins with a specific business need. We identify the information, steps, people, and output required, then build the smallest useful solution that can be maintained and improved.",
+      "BB369TECH",
+      "Digital products, business websites, and implementation services.",
+      "Explore BB369TECH products",
+      "See current products, live applications, and release status."
+    ],
+    "description": [
+      "Learn about BB369TECH, a Los Angeles technology company developing practical digital products and business services."
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/company.html#webpage\",\"url\":\"https://bb369tech.com/company.html\",\"name\":\"About BB369TECH | Business Website & Digital Services Company\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "About BB369TECH | Business Website & Digital Services Company",
+        "property": "og:title"
+      },
+      {
+        "content": "Learn about BB369TECH, a Los Angeles technology company developing practical digital products and business services.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/company.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "中文"
+      },
+      {
+        "href": "/products.html",
+        "text": "View Products"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/services.html",
+    "finalUrl": "https://bb369tech.com/services.html",
+    "title": "Business Website Design & Digital Services | BB369TECH",
+    "canonical": "https://bb369tech.com/services.html",
+    "robots": "index,follow",
+    "h1": [
+      "Digital work that moves a business forward."
+    ],
+    "paragraphs": [
+      "Focused implementation services for organizations that need a clearer website, easier customer access, practical internal tools, or reliable ongoing support.",
+      "Business Website Design",
+      "Company and service pages, product or location information, multilingual presentation where needed, and customer contact options.",
+      "Get More Customers",
+      "Ongoing digital services to support your online presence and customer inquiries. No guaranteed search ranking or sales results.",
+      "Custom Business Solutions",
+      "Discuss your business requirements and receive a scope review for work outside standard offerings.",
+      "Business Websites",
+      "Company websites, service pages, location information, multilingual content, contact forms, and ongoing updates.",
+      "Customer Access & Forms",
+      "Clear inquiry forms, appointment entry points, contact paths, and practical digital support for everyday customer communication.",
+      "Business Information Setup",
+      "Consistent company, service, location, and contact information across the business website and public profiles.",
+      "Multilingual Presentation",
+      "English and Chinese content, with additional language support based on audience and project requirements.",
+      "Product Implementation",
+      "Configuration, deployment, staff onboarding, and practical adaptation of BB369TECH products for a business.",
+      "Long-Term Support",
+      "Content updates, technical maintenance, issue resolution, and controlled product improvements over time.",
+      "Need a clear starting point?",
+      "Send the current website, document, or workflow and describe what is slowing the business down."
+    ],
+    "description": [
+      "Explore BB369TECH business website design, customer inquiry pages, multilingual websites, and ongoing digital support for businesses."
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/services.html#webpage\",\"url\":\"https://bb369tech.com/services.html\",\"name\":\"Business Website Design & Digital Services | BB369TECH\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"Service\",\"@id\":\"https://bb369tech.com/services.html#business-websites\",\"name\":\"Business Website Design\",\"description\":\"Business websites, service pages, location information, multilingual content, contact forms, and ongoing updates.\",\"provider\":{\"@id\":\"https://bb369tech.com/#organization\"},\"url\":\"https://bb369tech.com/services.html\",\"serviceType\":\"Business website design\"},{\"@type\":\"Service\",\"@id\":\"https://bb369tech.com/services.html#customer-access\",\"name\":\"Customer Access & Forms\",\"description\":\"Inquiry forms, appointment entry points, and contact paths for everyday customer communication.\",\"provider\":{\"@id\":\"https://bb369tech.com/#organization\"},\"url\":\"https://bb369tech.com/services.html\",\"serviceType\":\"Business inquiry and contact forms\"},{\"@type\":\"Service\",\"@id\":\"https://bb369tech.com/services.html#multilingual\",\"name\":\"Multilingual Website Presentation\",\"description\":\"English and Chinese business website content with additional language support based on project requirements.\",\"provider\":{\"@id\":\"https://bb369tech.com/#organization\"},\"url\":\"https://bb369tech.com/services.html\",\"serviceType\":\"Multilingual website presentation\"},{\"@type\":\"Service\",\"@id\":\"https://bb369tech.com/services.html#ongoing-support\",\"name\":\"Get More Customers\",\"description\":\"Ongoing digital support for public business information, website updates and customer inquiries. Search rankings and sales outcomes are not guaranteed.\",\"provider\":{\"@id\":\"https://bb369tech.com/#organization\"},\"url\":\"https://platform.bb369tech.com/business-website/#monthly-support\",\"serviceType\":\"Ongoing business digital support\"},{\"@type\":\"Service\",\"@id\":\"https://bb369tech.com/services.html#custom-solutions\",\"name\":\"Custom Business Solutions\",\"description\":\"Consultation for business digital requirements outside standard service offerings. Scope, terms, price and timing require confirmation.\",\"provider\":{\"@id\":\"https://bb369tech.com/#organization\"},\"url\":\"https://platform.bb369tech.com/merchant/\",\"serviceType\":\"Custom business digital services\"}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "Business Website Design & Digital Services | BB369TECH",
+        "property": "og:title"
+      },
+      {
+        "content": "Explore BB369TECH business website design, customer inquiry pages, multilingual websites, and ongoing digital support for businesses.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/services.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [
+      {
+        "href": "https://bb369tech.com/services.html",
+        "language": "en"
+      },
+      {
+        "href": "https://bb369tech.com/zh/services.html",
+        "language": "zh-Hans"
+      },
+      {
+        "href": "https://bb369tech.com/services.html",
+        "language": "x-default"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/zh/services.html",
+        "text": "中文"
+      },
+      {
+        "href": "https://platform.bb369tech.com/business-website/",
+        "text": "View website service →"
+      },
+      {
+        "href": "https://platform.bb369tech.com/business-website/#monthly-support",
+        "text": "Explore ongoing support →"
+      },
+      {
+        "href": "https://platform.bb369tech.com/merchant/",
+        "text": "Request a consultation →"
+      },
+      {
+        "href": "https://platform.bb369tech.com/business-website/",
+        "text": "Explore business website services →"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Discuss a project"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/products.html",
+    "finalUrl": "https://bb369tech.com/products.html",
+    "title": "Business Website Products & Digital Tools | BB369TECH",
+    "canonical": "https://bb369tech.com/products.html",
+    "robots": "index,follow",
+    "h1": [
+      "Practical products for customer and business work."
+    ],
+    "paragraphs": [
+      "Each product has a clear purpose, a current status, and an official usage entry.",
+      "Business Website System",
+      "Structured business websites for service presentation, multilingual public information, locations, products, contact, and ongoing updates.",
+      "Source & Attribution Tools",
+      "Public tools for source identity, version clarity, attribution, and verifiable digital records.",
+      "School Recruitment Support",
+      "Course presentation, inquiries, appointments, admissions follow-up, and enrollment support for schools."
+    ],
+    "description": [
+      "Official BB369TECH public offerings for business websites, attribution tools, and school recruitment support."
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/products.html#webpage\",\"url\":\"https://bb369tech.com/products.html\",\"name\":\"Business Website Products & Digital Tools | BB369TECH\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "Business Website Products & Digital Tools | BB369TECH",
+        "property": "og:title"
+      },
+      {
+        "content": "Official BB369TECH public offerings for business websites, attribution tools, and school recruitment support.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/products.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "中文"
+      },
+      {
+        "href": "/services.html",
+        "text": "Learn more →"
+      },
+      {
+        "href": "https://tools.bb369tech.com",
+        "text": "Open tools →"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Discuss a pilot →"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/projects.html",
+    "finalUrl": "https://bb369tech.com/projects.html",
+    "title": "Business Website & Digital Project Examples | BB369TECH",
+    "canonical": "https://bb369tech.com/projects.html",
+    "robots": "index,follow",
+    "h1": [
+      "Products and services applied to real work."
+    ],
+    "paragraphs": [
+      "Selected project areas that show how BB369TECH products and implementation services support organizations.",
+      "Home Improvement Business Presence",
+      "Service presentation, project request entry, contact information, and multilingual customer communication for home improvement businesses.",
+      "Local Business Website",
+      "Structured service pages, contact entry points, locations, multilingual information, and ongoing maintenance.",
+      "School Enrollment Support",
+      "Course pages, inquiry intake, consultation appointments, and admissions follow-up for a school environment."
+    ],
+    "description": [
+      "Examples of BB369TECH product implementations and business website projects."
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/projects.html#webpage\",\"url\":\"https://bb369tech.com/projects.html\",\"name\":\"Business Website & Digital Project Examples | BB369TECH\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "Business Website & Digital Project Examples | BB369TECH",
+        "property": "og:title"
+      },
+      {
+        "content": "Examples of BB369TECH product implementations and business website projects.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/projects.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "中文"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/industries.html",
+    "finalUrl": "https://bb369tech.com/industries.html",
+    "title": "Digital Services for Local Businesses & Organizations | BB369TECH",
+    "canonical": "https://bb369tech.com/industries.html",
+    "robots": "index,follow",
+    "h1": [
+      "Built around real business contexts."
+    ],
+    "paragraphs": [
+      "Products and services are adapted to the documents, customers, terminology, and operating needs of each industry.",
+      "Home Improvement",
+      "Cabinets, countertops, windows, doors, flooring, blinds, repairs, and related project services.",
+      "Local Service Businesses",
+      "Customer inquiries, appointments, service presentation, and local business websites.",
+      "Schools & Training Providers",
+      "Course presentation, inquiries, appointments, admissions follow-up, and student-facing information.",
+      "Manufacturers & Suppliers",
+      "Product information, distributor presentation, contact paths, and multilingual business websites.",
+      "Professional Organizations",
+      "Company presentation, services, resources, public records, and ongoing digital maintenance.",
+      "Retail & Local Businesses",
+      "Product and location information, available services, and clear customer contact options.",
+      "Real Estate",
+      "Residential and commercial service presentation, project information, and buyer or seller inquiries."
+    ],
+    "description": [
+      "BB369TECH supports home improvement, local services, schools, manufacturers, suppliers, and professional organizations."
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/industries.html#webpage\",\"url\":\"https://bb369tech.com/industries.html\",\"name\":\"Digital Services for Local Businesses & Organizations | BB369TECH\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "Digital Services for Local Businesses & Organizations | BB369TECH",
+        "property": "og:title"
+      },
+      {
+        "content": "BB369TECH supports home improvement, local services, schools, manufacturers, suppliers, and professional organizations.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/industries.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [
+      {
+        "href": "https://bb369tech.com/industries.html",
+        "language": "en"
+      },
+      {
+        "href": "https://bb369tech.com/zh/industries.html",
+        "language": "zh-Hans"
+      },
+      {
+        "href": "https://bb369tech.com/industries.html",
+        "language": "x-default"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/zh/industries.html",
+        "text": "中文"
+      },
+      {
+        "href": "/services.html",
+        "text": "Explore services →"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Discuss a project →"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/resources.html",
+    "finalUrl": "https://bb369tech.com/resources.html",
+    "title": "Business Website & Digital Resources | BB369TECH",
+    "canonical": "https://bb369tech.com/resources.html",
+    "robots": "index,follow",
+    "h1": [
+      "Official company and product references."
+    ],
+    "paragraphs": [
+      "Direct links to current BB369TECH products, public tools, company information, and support.",
+      "Business Website Services",
+      "Company websites, multilingual presentation, and ongoing digital support.",
+      "Public Tools",
+      "Open BB369TECH tools and product utilities.",
+      "GitHub",
+      "Public software and release records maintained by BB369TECH.",
+      "Company Information",
+      "Company focus, services, and contact information.",
+      "Business Support",
+      "Contact BB369TECH about product implementation or a new project."
+    ],
+    "description": [
+      "Official BB369TECH product, company, tools, GitHub, and support references."
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/resources.html#webpage\",\"url\":\"https://bb369tech.com/resources.html\",\"name\":\"Business Website & Digital Resources | BB369TECH\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "Business Website & Digital Resources | BB369TECH",
+        "property": "og:title"
+      },
+      {
+        "content": "Official BB369TECH product, company, tools, GitHub, and support references.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/resources.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "中文"
+      },
+      {
+        "href": "/services.html",
+        "text": "View services →"
+      },
+      {
+        "href": "https://tools.bb369tech.com",
+        "text": "Open tools →"
+      },
+      {
+        "href": "https://github.com/bb369tech",
+        "text": "Open GitHub →"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company page →"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact →"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/faq.html",
+    "finalUrl": "https://bb369tech.com/faq.html",
+    "title": "Business Website & Digital Services FAQ | BB369TECH",
+    "canonical": "https://bb369tech.com/faq.html",
+    "robots": "index,follow",
+    "h1": [
+      "Common questions"
+    ],
+    "paragraphs": [
+      "Basic information about BB369TECH products and services.",
+      "Does BB369TECH provide both products and services?",
+      "Yes. BB369TECH develops its own digital products and also provides implementation, website, multilingual content, and ongoing support services.",
+      "Can a product be configured for one business?",
+      "Implementation can include business information, branding, page structure, customer entry points, and staff onboarding.",
+      "Which languages are supported?",
+      "English and Chinese are commonly supported. Additional languages may be added based on the project.",
+      "How do we start?",
+      "Send the current website, sample document, or a short description of the business task through the contact page.",
+      "What services does BB369TECH offer?",
+      "We offer business website design, digital support, and consultations for custom business solutions. View services.",
+      "Do I need an existing website?",
+      "No. You can ask about a new business website or discuss improvements to an existing one.",
+      "Can you update an existing business website?",
+      "Website improvements may be available depending on the current website and project requirements. Contact us to review the scope.",
+      "What is included in a business website?",
+      "Website content and functionality depend on the selected service. Common needs include service pages, business contact information, mobile-friendly presentation and inquiry options. View the current service details.",
+      "Do you support Google Business Profile?",
+      "Business profile support may be discussed as part of our public-facing digital services. Profile ownership and platform policies remain with the business and the respective provider.",
+      "Can you support English and Chinese websites?",
+      "Yes, English and Chinese presentation is available for suitable projects. Additional language requirements can be discussed.",
+      "Do you guarantee search rankings or new customers?",
+      "No. Search visibility and customer inquiries depend on many factors outside any single website or service provider's control.",
+      "How are prices and timelines confirmed?",
+      "Review the published service information, then confirm the applicable scope, terms, price and schedule before work begins. Contact us for project-specific questions.",
+      "Can businesses outside California work with BB369TECH?",
+      "Remote digital service requests from elsewhere in the United States may be considered depending on project scope.",
+      "Who owns the website and business materials?",
+      "Ownership and usage rights depend on the applicable written agreement. Please review the agreed terms before starting a project.",
+      "How do I get started?",
+      "Choose a service or send an inquiry with a brief description of your business needs. Do not send passwords or sensitive customer records through the public form."
+    ],
+    "description": [
+      "Frequently asked questions about BB369TECH products, services, implementation, and support."
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/faq.html#webpage\",\"url\":\"https://bb369tech.com/faq.html\",\"name\":\"Business Website & Digital Services FAQ | BB369TECH\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "Business Website & Digital Services FAQ | BB369TECH",
+        "property": "og:title"
+      },
+      {
+        "content": "Frequently asked questions about BB369TECH products, services, implementation, and support.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/faq.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [
+      {
+        "href": "https://bb369tech.com/faq.html",
+        "language": "en"
+      },
+      {
+        "href": "https://bb369tech.com/zh/faq.html",
+        "language": "zh-Hans"
+      },
+      {
+        "href": "https://bb369tech.com/faq.html",
+        "language": "x-default"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/zh/faq.html",
+        "text": "中文"
+      },
+      {
+        "href": "/services.html",
+        "text": "View services"
+      },
+      {
+        "href": "https://platform.bb369tech.com/business-website/",
+        "text": "View the current service details"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact us"
+      },
+      {
+        "href": "/contact.html",
+        "text": "send an inquiry"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/contact.html",
+    "finalUrl": "https://bb369tech.com/contact.html",
+    "title": "Contact BB369TECH | Business Website & Digital Services",
+    "canonical": "https://bb369tech.com/contact.html",
+    "robots": "index,follow",
+    "h1": [
+      "Tell us what the business needs to accomplish."
+    ],
+    "paragraphs": [
+      "Share the current situation, the people involved, and the result you need. A short description is enough to begin.",
+      "Business inquiries",
+      "Email: business@bb369tech.com",
+      "Location: Los Angeles, California",
+      "Languages: English and Chinese",
+      "Ask about our services, then submit your business needs when ready. Custom projects require human confirmation of scope and price. Business inquiry form",
+      "Please do not send passwords, payment details, or confidential customer documents through this form.",
+      ""
+    ],
+    "description": [
+      "Contact BB369TECH about business websites, customer access, product implementation, and digital services."
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/contact.html#webpage\",\"url\":\"https://bb369tech.com/contact.html\",\"name\":\"Contact BB369TECH | Business Website & Digital Services\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "Contact BB369TECH | Business Website & Digital Services",
+        "property": "og:title"
+      },
+      {
+        "content": "Contact BB369TECH about business websites, customer access, product implementation, and digital services.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/contact.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [
+      {
+        "href": "https://bb369tech.com/contact.html",
+        "language": "en"
+      },
+      {
+        "href": "https://bb369tech.com/zh/contact.html",
+        "language": "zh-Hans"
+      },
+      {
+        "href": "https://bb369tech.com/contact.html",
+        "language": "x-default"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "中文"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://platform.bb369tech.com/merchant/",
+        "text": "Business inquiry form"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://bb369-sendgrid-api.onrender.com/api/corporate-inquiry",
+        "controls": [
+          {
+            "name": "name",
+            "required": true,
+            "tag": "input",
+            "type": null
+          },
+          {
+            "name": "company",
+            "required": false,
+            "tag": "input",
+            "type": null
+          },
+          {
+            "name": "email",
+            "required": true,
+            "tag": "input",
+            "type": "email"
+          },
+          {
+            "name": "inquiryType",
+            "required": true,
+            "tag": "select",
+            "type": null
+          },
+          {
+            "name": "message",
+            "required": true,
+            "tag": "textarea",
+            "type": null
+          },
+          {
+            "name": "privacyConsent",
+            "required": true,
+            "tag": "input",
+            "type": "checkbox"
+          },
+          {
+            "name": null,
+            "required": false,
+            "tag": "button",
+            "type": "submit"
+          }
+        ],
+        "method": "post"
+      }
+    ]
+  },
+  {
+    "requestedPath": "/privacy.html",
+    "finalUrl": "https://bb369tech.com/privacy.html",
+    "title": "Privacy Policy | BB369TECH",
+    "canonical": "https://bb369tech.com/privacy.html",
+    "robots": "index,follow",
+    "h1": [
+      "Privacy Policy"
+    ],
+    "paragraphs": [
+      "How information submitted through the BB369TECH company website is handled.",
+      "Effective date: July 31, 2026",
+      "Information you provide",
+      "We may receive contact information and project details that you choose to submit through forms or email.",
+      "How information is used",
+      "Information is used to respond to inquiries, evaluate requested work, provide services, maintain business records, and protect the website.",
+      "Third-party services",
+      "The website may use hosting, email delivery, analytics, or security providers needed to operate the service.",
+      "Your choices",
+      "You may contact business@bb369tech.com to request correction or deletion of information you submitted, subject to legal and operational requirements."
+    ],
+    "description": [
+      "BB369TECH company website privacy policy."
+    ],
+    "schema": [
+      "{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Organization\", \"@id\": \"https://bb369tech.com/#organization\", \"name\": \"BB369TECH\", \"url\": \"https://bb369tech.com/\", \"logo\": \"https://bb369tech.com/assets/logo-512.png\", \"email\": \"business@bb369tech.com\", \"areaServed\": \"Global\", \"sameAs\": [\"https://github.com/bb369tech\"]}, {\"@type\": \"WebSite\", \"@id\": \"https://bb369tech.com/#website\", \"url\": \"https://bb369tech.com/\", \"name\": \"BB369TECH\", \"publisher\": {\"@id\": \"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "Privacy Policy | BB369TECH",
+        "property": "og:title"
+      },
+      {
+        "content": "BB369TECH company website privacy policy.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/privacy.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/terms.html",
+    "finalUrl": "https://bb369tech.com/terms.html",
+    "title": "Terms of Use | BB369TECH",
+    "canonical": "https://bb369tech.com/terms.html",
+    "robots": "index,follow",
+    "h1": [
+      "Terms of Use"
+    ],
+    "paragraphs": [
+      "Terms for use of the BB369TECH company website.",
+      "Effective date: July 31, 2026",
+      "Website information",
+      "Website content is provided for general business information and may be updated without notice.",
+      "Products and services",
+      "Specific scope, pricing, delivery, support, and responsibilities are defined by the applicable proposal, order, subscription, or agreement.",
+      "Intellectual property",
+      "Website text, design, software, product names, and related materials are owned by BB369TECH or used with permission, unless stated otherwise.",
+      "Acceptable use",
+      "You may not misuse the website, interfere with its operation, attempt unauthorized access, or use it unlawfully.",
+      "Contact",
+      "Questions may be sent to business@bb369tech.com."
+    ],
+    "description": [
+      "Terms of use for the BB369TECH company website."
+    ],
+    "schema": [
+      "{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Organization\", \"@id\": \"https://bb369tech.com/#organization\", \"name\": \"BB369TECH\", \"url\": \"https://bb369tech.com/\", \"logo\": \"https://bb369tech.com/assets/logo-512.png\", \"email\": \"business@bb369tech.com\", \"areaServed\": \"Global\", \"sameAs\": [\"https://github.com/bb369tech\"]}, {\"@type\": \"WebSite\", \"@id\": \"https://bb369tech.com/#website\", \"url\": \"https://bb369tech.com/\", \"name\": \"BB369TECH\", \"publisher\": {\"@id\": \"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "Terms of Use | BB369TECH",
+        "property": "og:title"
+      },
+      {
+        "content": "Terms of use for the BB369TECH company website.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/terms.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/security.html",
+    "finalUrl": "https://bb369tech.com/security.html",
+    "title": "Security | BB369TECH",
+    "canonical": "https://bb369tech.com/security.html",
+    "robots": "index,follow",
+    "h1": [
+      "Security Contact"
+    ],
+    "paragraphs": [
+      "Report a security concern privately.",
+      "Please do not post suspected vulnerabilities, credentials, customer records, or sensitive files in public issues or social media.",
+      "Send a concise report to business@bb369tech.com with the affected URL, observed behavior, and reproduction steps."
+    ],
+    "description": [
+      "Private security reporting contact for BB369TECH."
+    ],
+    "schema": [
+      "{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Organization\", \"@id\": \"https://bb369tech.com/#organization\", \"name\": \"BB369TECH\", \"url\": \"https://bb369tech.com/\", \"logo\": \"https://bb369tech.com/assets/logo-512.png\", \"email\": \"business@bb369tech.com\", \"areaServed\": \"Global\", \"sameAs\": [\"https://github.com/bb369tech\"]}, {\"@type\": \"WebSite\", \"@id\": \"https://bb369tech.com/#website\", \"url\": \"https://bb369tech.com/\", \"name\": \"BB369TECH\", \"publisher\": {\"@id\": \"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "Security | BB369TECH",
+        "property": "og:title"
+      },
+      {
+        "content": "Private security reporting contact for BB369TECH.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/security.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/zh/index.html",
+    "finalUrl": "https://bb369tech.com/zh/index.html",
+    "title": "BB369TECH｜企业网站与数字服务",
+    "canonical": [
+      "https://bb369tech.com/zh/index.html"
+    ],
+    "robots": [
+      "index,follow"
+    ],
+    "h1": [
+      "让客户更容易找到、了解并联系你的企业。"
+    ],
+    "paragraphs": [
+      "为本地商家、学校、零售、制造及专业服务机构提供清楚实用的企业网站和数字支持。服务加州企业，也接受美国其他地区适合远程交付的项目咨询。",
+      "服务范围、费用、交付时间及条款，在开始工作前另行确认。",
+      "从你当前的需求开始",
+      "选择适合你的服务",
+      "企业网站",
+      "清楚展示企业、产品、服务和联系方式，支持手机访问；具体范围以书面约定为准。",
+      "持续业务支持",
+      "持续维护公开业务信息与网站内容，支持客户发现和咨询；不保证搜索排名、询盘或成交。",
+      "定制业务方案",
+      "标准服务之外的数字化需求，可先咨询，再确认范围、价格、条款和时间。",
+      "产品与公开工具",
+      "企业网站系统",
+      "企业与服务页面、多语言展示、客户联系入口及持续维护。",
+      "来源与归属工具",
+      "用于公开来源身份、版本信息和归属记录的实用工具。",
+      "学校招生支持",
+      "课程展示、咨询、预约及招生跟进支持；试点范围需另行确认。",
+      "服务不同类型的真实企业",
+      "本地商家与零售",
+      "清楚说明商品、营业地点、可用服务及联系方式。",
+      "家装与房地产",
+      "展示项目与服务，为潜在客户提供咨询入口。",
+      "教育与专业服务",
+      "展示课程、服务对象、预约及联系信息。",
+      "带着一个真实业务问题来聊聊。",
+      "说明现状和希望改善的结果，我们会与你确认适合的服务范围。"
+    ],
+    "description": [
+      "BB369TECH 为企业提供网站、多语言展示、公开业务信息和数字支持服务，服务加州及适合远程交付的美国项目。"
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/zh/index.html#webpage\",\"url\":\"https://bb369tech.com/zh/index.html\",\"name\":\"BB369TECH｜企业网站与数字服务\",\"description\":\"BB369TECH 为企业提供网站、多语言展示、公开业务信息和数字支持服务，服务加州及适合远程交付的美国项目。\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"},\"inLanguage\":\"zh-Hans\"}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "BB369TECH｜企业网站与数字服务",
+        "property": "og:title"
+      },
+      {
+        "content": "BB369TECH 为企业提供网站、多语言展示、公开业务信息和数字支持服务，服务加州及适合远程交付的美国项目。",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/zh/index.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [
+      {
+        "href": "https://bb369tech.com/",
+        "language": "en"
+      },
+      {
+        "href": "https://bb369tech.com/zh/index.html",
+        "language": "zh-Hans"
+      },
+      {
+        "href": "https://bb369tech.com/",
+        "language": "x-default"
+      }
+    ],
+    "links": [
+      {
+        "href": "/zh/index.html",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "首页"
+      },
+      {
+        "href": "/company.html",
+        "text": "公司（英文）"
+      },
+      {
+        "href": "/zh/services.html",
+        "text": "服务"
+      },
+      {
+        "href": "/products.html",
+        "text": "产品（英文）"
+      },
+      {
+        "href": "/zh/industries.html",
+        "text": "行业"
+      },
+      {
+        "href": "/projects.html",
+        "text": "项目（英文）"
+      },
+      {
+        "href": "/resources.html",
+        "text": "资源（英文）"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "联系"
+      },
+      {
+        "href": "/",
+        "text": "EN"
+      },
+      {
+        "href": "/zh/services.html",
+        "text": "了解服务 →"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "咨询业务需求"
+      },
+      {
+        "href": "https://platform.bb369tech.com/business-website/",
+        "text": "新建或改善企业网站 →展示业务、产品、地点与联系方式。"
+      },
+      {
+        "href": "https://platform.bb369tech.com/business-website/#monthly-support",
+        "text": "持续业务支持 →了解公开数字形象维护与客户咨询支持。"
+      },
+      {
+        "href": "https://platform.bb369tech.com/merchant/",
+        "text": "咨询定制需求 →说明你希望改善的实际业务问题。"
+      },
+      {
+        "href": "https://platform.bb369tech.com/business-website/",
+        "text": "查看建站服务（英文） →"
+      },
+      {
+        "href": "https://platform.bb369tech.com/business-website/#monthly-support",
+        "text": "查看持续支持（英文） →"
+      },
+      {
+        "href": "https://platform.bb369tech.com/merchant/",
+        "text": "提交需求 →"
+      },
+      {
+        "href": "https://platform.bb369tech.com/business-website/",
+        "text": "查看服务 →"
+      },
+      {
+        "href": "https://tools.bb369tech.com",
+        "text": "打开工具（英文） →"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "咨询试点 →"
+      },
+      {
+        "href": "/zh/industries.html",
+        "text": "了解行业 →"
+      },
+      {
+        "href": "/zh/industries.html",
+        "text": "了解行业 →"
+      },
+      {
+        "href": "/projects.html",
+        "text": "查看项目（英文） →"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "联系我们 →"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "公司（英文）"
+      },
+      {
+        "href": "/zh/services.html",
+        "text": "服务"
+      },
+      {
+        "href": "/products.html",
+        "text": "产品（英文）"
+      },
+      {
+        "href": "/projects.html",
+        "text": "项目（英文）"
+      },
+      {
+        "href": "/zh/industries.html",
+        "text": "行业"
+      },
+      {
+        "href": "/resources.html",
+        "text": "资源（英文）"
+      },
+      {
+        "href": "/zh/faq.html",
+        "text": "常见问题"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "联系"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "隐私政策（英文）"
+      },
+      {
+        "href": "/terms.html",
+        "text": "服务条款（英文）"
+      },
+      {
+        "href": "/security.html",
+        "text": "安全说明（英文）"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/zh/services.html",
+    "finalUrl": "https://bb369tech.com/zh/services.html",
+    "title": "企业网站与数字支持服务｜BB369TECH",
+    "canonical": [
+      "https://bb369tech.com/zh/services.html"
+    ],
+    "robots": [
+      "index,follow"
+    ],
+    "h1": [
+      "选择适合你企业的支持。"
+    ],
+    "paragraphs": [
+      "企业网站、持续数字支持，以及标准服务之外的定制需求。具体范围与条款在开始工作前确认。",
+      "三种清楚的服务入口",
+      "企业网站",
+      "清楚展示企业、产品、服务和联系方式，支持手机访问；具体范围以书面约定为准。",
+      "持续业务支持",
+      "持续维护公开业务信息与网站内容，支持客户发现和咨询；不保证搜索排名、询盘或成交。",
+      "定制业务方案",
+      "标准服务之外的数字化需求，可先咨询，再确认范围、价格、条款和时间。",
+      "其他可讨论的服务",
+      "企业网站",
+      "企业、服务、地点、产品与联系页面。",
+      "客户联系与表单",
+      "业务咨询、预约入口及客户联系选项。",
+      "公开业务信息维护",
+      "企业名称、服务、地点和联系方式的公开展示。",
+      "多语言展示",
+      "支持中英文，其他语言按项目需要讨论。",
+      "产品实施支持",
+      "产品配置、部署、员工上手和业务适配，具体范围另行确认。",
+      "长期维护",
+      "内容更新、技术维护及问题处理。",
+      "不确定哪种服务适合？",
+      "告诉我们你的业务和当前需要改善的问题。"
+    ],
+    "description": [
+      "了解 BB369TECH 企业网站、持续数字支持、客户联系表单、多语言展示及定制业务咨询。"
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/zh/services.html#webpage\",\"url\":\"https://bb369tech.com/zh/services.html\",\"name\":\"企业网站与数字支持服务｜BB369TECH\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"},\"description\":\"了解 BB369TECH 企业网站、持续数字支持、客户联系表单、多语言展示及定制业务咨询。\",\"inLanguage\":\"zh-Hans\"},{\"@type\":\"Service\",\"@id\":\"https://bb369tech.com/services.html#business-websites\",\"name\":\"Business Website Design\",\"description\":\"Business websites, service pages, location information, multilingual content, contact forms, and ongoing updates.\",\"provider\":{\"@id\":\"https://bb369tech.com/#organization\"},\"url\":\"https://bb369tech.com/services.html\",\"serviceType\":\"Business website design\",\"inLanguage\":[\"en\",\"zh-Hans\"]},{\"@type\":\"Service\",\"@id\":\"https://bb369tech.com/services.html#customer-access\",\"name\":\"Customer Access & Forms\",\"description\":\"Inquiry forms, appointment entry points, and contact paths for everyday customer communication.\",\"provider\":{\"@id\":\"https://bb369tech.com/#organization\"},\"url\":\"https://bb369tech.com/services.html\",\"serviceType\":\"Business inquiry and contact forms\",\"inLanguage\":[\"en\",\"zh-Hans\"]},{\"@type\":\"Service\",\"@id\":\"https://bb369tech.com/services.html#multilingual\",\"name\":\"Multilingual Website Presentation\",\"description\":\"English and Chinese business website content with additional language support based on project requirements.\",\"provider\":{\"@id\":\"https://bb369tech.com/#organization\"},\"url\":\"https://bb369tech.com/services.html\",\"serviceType\":\"Multilingual website presentation\",\"inLanguage\":[\"en\",\"zh-Hans\"]},{\"@type\":\"Service\",\"@id\":\"https://bb369tech.com/services.html#ongoing-support\",\"name\":\"Get More Customers\",\"description\":\"Ongoing digital support for public business information, website updates and customer inquiries. Search rankings and sales outcomes are not guaranteed.\",\"provider\":{\"@id\":\"https://bb369tech.com/#organization\"},\"url\":\"https://platform.bb369tech.com/business-website/#monthly-support\",\"serviceType\":\"Ongoing business digital support\",\"inLanguage\":[\"en\",\"zh-Hans\"]},{\"@type\":\"Service\",\"@id\":\"https://bb369tech.com/services.html#custom-solutions\",\"name\":\"Custom Business Solutions\",\"description\":\"Consultation for business digital requirements outside standard service offerings. Scope, terms, price and timing require confirmation.\",\"provider\":{\"@id\":\"https://bb369tech.com/#organization\"},\"url\":\"https://platform.bb369tech.com/merchant/\",\"serviceType\":\"Custom business digital services\",\"inLanguage\":[\"en\",\"zh-Hans\"]}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "企业网站与数字支持服务｜BB369TECH",
+        "property": "og:title"
+      },
+      {
+        "content": "了解 BB369TECH 企业网站、持续数字支持、客户联系表单、多语言展示及定制业务咨询。",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/zh/services.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [
+      {
+        "href": "https://bb369tech.com/services.html",
+        "language": "en"
+      },
+      {
+        "href": "https://bb369tech.com/zh/services.html",
+        "language": "zh-Hans"
+      },
+      {
+        "href": "https://bb369tech.com/services.html",
+        "language": "x-default"
+      }
+    ],
+    "links": [
+      {
+        "href": "/zh/index.html",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "首页"
+      },
+      {
+        "href": "/company.html",
+        "text": "公司（英文）"
+      },
+      {
+        "href": "/zh/services.html",
+        "text": "服务"
+      },
+      {
+        "href": "/products.html",
+        "text": "产品（英文）"
+      },
+      {
+        "href": "/zh/industries.html",
+        "text": "行业"
+      },
+      {
+        "href": "/projects.html",
+        "text": "项目（英文）"
+      },
+      {
+        "href": "/resources.html",
+        "text": "资源（英文）"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "联系"
+      },
+      {
+        "href": "/services.html",
+        "text": "EN"
+      },
+      {
+        "href": "https://platform.bb369tech.com/business-website/",
+        "text": "查看建站服务（英文） →"
+      },
+      {
+        "href": "https://platform.bb369tech.com/business-website/#monthly-support",
+        "text": "查看持续支持（英文） →"
+      },
+      {
+        "href": "https://platform.bb369tech.com/merchant/",
+        "text": "提交需求 →"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "联系我们 →"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "公司（英文）"
+      },
+      {
+        "href": "/zh/services.html",
+        "text": "服务"
+      },
+      {
+        "href": "/products.html",
+        "text": "产品（英文）"
+      },
+      {
+        "href": "/projects.html",
+        "text": "项目（英文）"
+      },
+      {
+        "href": "/zh/industries.html",
+        "text": "行业"
+      },
+      {
+        "href": "/resources.html",
+        "text": "资源（英文）"
+      },
+      {
+        "href": "/zh/faq.html",
+        "text": "常见问题"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "联系"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "隐私政策（英文）"
+      },
+      {
+        "href": "/terms.html",
+        "text": "服务条款（英文）"
+      },
+      {
+        "href": "/security.html",
+        "text": "安全说明（英文）"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/zh/industries.html",
+    "finalUrl": "https://bb369tech.com/zh/industries.html",
+    "title": "服务行业｜BB369TECH",
+    "canonical": [
+      "https://bb369tech.com/zh/industries.html"
+    ],
+    "robots": [
+      "index,follow"
+    ],
+    "h1": [
+      "围绕真实的业务场景。"
+    ],
+    "paragraphs": [
+      "不同企业需要不同的公开信息与客户联系入口。项目范围根据实际业务需求确认。",
+      "家装与家居服务",
+      "橱柜、台面、门窗、地板、百叶窗、维修及相关项目服务。",
+      "本地服务商家",
+      "业务展示、客户咨询、预约及企业网站。",
+      "学校与培训机构",
+      "课程展示、咨询、预约、招生跟进及学生信息。",
+      "制造商与供应商",
+      "产品信息、经销业务展示、联系入口与多语言企业网站。",
+      "专业机构",
+      "企业与服务介绍、公开资料和持续数字维护。",
+      "零售商家",
+      "商品、地点、可用服务和客户联系方式。",
+      "房地产",
+      "住宅与商业地产服务介绍、项目展示及买卖双方咨询。",
+      "没有看到你的行业？",
+      "我们服务多种业务类型，可以先讨论你的具体需求。"
+    ],
+    "description": [
+      "BB369TECH 为本地商家、家装、零售、学校、制造商、供应商和专业服务机构提供数字服务。"
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/zh/industries.html#webpage\",\"url\":\"https://bb369tech.com/zh/industries.html\",\"name\":\"服务行业｜BB369TECH\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"},\"description\":\"BB369TECH 为本地商家、家装、零售、学校、制造商、供应商和专业服务机构提供数字服务。\",\"inLanguage\":\"zh-Hans\"}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "服务行业｜BB369TECH",
+        "property": "og:title"
+      },
+      {
+        "content": "BB369TECH 为本地商家、家装、零售、学校、制造商、供应商和专业服务机构提供数字服务。",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/zh/industries.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [
+      {
+        "href": "https://bb369tech.com/industries.html",
+        "language": "en"
+      },
+      {
+        "href": "https://bb369tech.com/zh/industries.html",
+        "language": "zh-Hans"
+      },
+      {
+        "href": "https://bb369tech.com/industries.html",
+        "language": "x-default"
+      }
+    ],
+    "links": [
+      {
+        "href": "/zh/index.html",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "首页"
+      },
+      {
+        "href": "/company.html",
+        "text": "公司（英文）"
+      },
+      {
+        "href": "/zh/services.html",
+        "text": "服务"
+      },
+      {
+        "href": "/products.html",
+        "text": "产品（英文）"
+      },
+      {
+        "href": "/zh/industries.html",
+        "text": "行业"
+      },
+      {
+        "href": "/projects.html",
+        "text": "项目（英文）"
+      },
+      {
+        "href": "/resources.html",
+        "text": "资源（英文）"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "联系"
+      },
+      {
+        "href": "/industries.html",
+        "text": "EN"
+      },
+      {
+        "href": "/zh/services.html",
+        "text": "了解服务 →"
+      },
+      {
+        "href": "/zh/services.html",
+        "text": "了解服务 →"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "咨询需求 →"
+      },
+      {
+        "href": "/zh/services.html",
+        "text": "了解服务 →"
+      },
+      {
+        "href": "/zh/services.html",
+        "text": "了解服务 →"
+      },
+      {
+        "href": "/zh/services.html",
+        "text": "了解服务 →"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "咨询需求 →"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "联系我们 →"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "公司（英文）"
+      },
+      {
+        "href": "/zh/services.html",
+        "text": "服务"
+      },
+      {
+        "href": "/products.html",
+        "text": "产品（英文）"
+      },
+      {
+        "href": "/projects.html",
+        "text": "项目（英文）"
+      },
+      {
+        "href": "/zh/industries.html",
+        "text": "行业"
+      },
+      {
+        "href": "/resources.html",
+        "text": "资源（英文）"
+      },
+      {
+        "href": "/zh/faq.html",
+        "text": "常见问题"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "联系"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "隐私政策（英文）"
+      },
+      {
+        "href": "/terms.html",
+        "text": "服务条款（英文）"
+      },
+      {
+        "href": "/security.html",
+        "text": "安全说明（英文）"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/zh/faq.html",
+    "finalUrl": "https://bb369tech.com/zh/faq.html",
+    "title": "常见问题｜BB369TECH",
+    "canonical": [
+      "https://bb369tech.com/zh/faq.html"
+    ],
+    "robots": [
+      "index,follow"
+    ],
+    "h1": [
+      "开始前，先把问题问清楚。"
+    ],
+    "paragraphs": [
+      "关于企业网站与数字服务的常见问题；最终范围、价格和条款按项目确认。",
+      "BB369TECH 同时提供产品和服务吗？",
+      "是的。我们开发数字产品，也提供企业网站、多语言内容、产品实施和持续支持服务。",
+      "产品可以适配一家企业吗？",
+      "可以讨论企业信息、品牌、页面结构、客户入口和员工上手支持，最终以项目约定为准。",
+      "支持哪些语言？",
+      "常见项目支持英文和中文，其他语言根据项目需要另行讨论。",
+      "如何开始？",
+      "通过联系页面提供现有网站、示例材料或简短需求说明；请勿提交密码或敏感客户记录。",
+      "没有网站也可以咨询吗？",
+      "可以。你可以咨询新建网站，也可以讨论现有网站的改善。",
+      "企业网站包含什么？",
+      "常见内容包括服务介绍、联系方式、手机页面和咨询入口，具体以所选服务及书面范围为准。",
+      "可以支持 Google 商家资料吗？",
+      "可以讨论公开商家资料支持。资料所有权及相关平台规则仍由商家和平台各自管理。",
+      "保证搜索排名或新客户吗？",
+      "不保证。搜索展示、客户咨询和成交受到多种因素影响。",
+      "价格和交付时间如何确认？",
+      "先查看公开服务信息，再确认适用的服务范围、条款、费用与时间。",
+      "加州以外的企业可以合作吗？",
+      "可以按具体范围讨论适合远程交付的美国地区项目。",
+      "网站和资料归谁所有？",
+      "所有权和使用权以适用的书面协议为准，请在开始项目前确认。"
+    ],
+    "description": [
+      "关于 BB369TECH 企业网站、服务范围、语言、项目咨询和条款确认的常见问题。"
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/zh/faq.html#webpage\",\"url\":\"https://bb369tech.com/zh/faq.html\",\"name\":\"常见问题｜BB369TECH\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"},\"description\":\"关于 BB369TECH 企业网站、服务范围、语言、项目咨询和条款确认的常见问题。\",\"inLanguage\":\"zh-Hans\"}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "常见问题｜BB369TECH",
+        "property": "og:title"
+      },
+      {
+        "content": "关于 BB369TECH 企业网站、服务范围、语言、项目咨询和条款确认的常见问题。",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/zh/faq.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [
+      {
+        "href": "https://bb369tech.com/faq.html",
+        "language": "en"
+      },
+      {
+        "href": "https://bb369tech.com/zh/faq.html",
+        "language": "zh-Hans"
+      },
+      {
+        "href": "https://bb369tech.com/faq.html",
+        "language": "x-default"
+      }
+    ],
+    "links": [
+      {
+        "href": "/zh/index.html",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "首页"
+      },
+      {
+        "href": "/company.html",
+        "text": "公司（英文）"
+      },
+      {
+        "href": "/zh/services.html",
+        "text": "服务"
+      },
+      {
+        "href": "/products.html",
+        "text": "产品（英文）"
+      },
+      {
+        "href": "/zh/industries.html",
+        "text": "行业"
+      },
+      {
+        "href": "/projects.html",
+        "text": "项目（英文）"
+      },
+      {
+        "href": "/resources.html",
+        "text": "资源（英文）"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "联系"
+      },
+      {
+        "href": "/faq.html",
+        "text": "EN"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "公司（英文）"
+      },
+      {
+        "href": "/zh/services.html",
+        "text": "服务"
+      },
+      {
+        "href": "/products.html",
+        "text": "产品（英文）"
+      },
+      {
+        "href": "/projects.html",
+        "text": "项目（英文）"
+      },
+      {
+        "href": "/zh/industries.html",
+        "text": "行业"
+      },
+      {
+        "href": "/resources.html",
+        "text": "资源（英文）"
+      },
+      {
+        "href": "/zh/faq.html",
+        "text": "常见问题"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "联系"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "隐私政策（英文）"
+      },
+      {
+        "href": "/terms.html",
+        "text": "服务条款（英文）"
+      },
+      {
+        "href": "/security.html",
+        "text": "安全说明（英文）"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/zh/contact.html",
+    "finalUrl": "https://bb369tech.com/zh/contact.html",
+    "title": "联系我们｜BB369TECH",
+    "canonical": [
+      "https://bb369tech.com/zh/contact.html"
+    ],
+    "robots": [
+      "index,follow"
+    ],
+    "h1": [
+      "告诉我们你的企业需要解决什么问题。"
+    ],
+    "paragraphs": [
+      "简短说明当前情况和希望达到的结果，就可以开始讨论。",
+      "业务咨询",
+      "邮箱： business@bb369tech.com",
+      "所在地：美国加州洛杉矶",
+      "服务语言：英文、中文",
+      "普通服务可先咨询，再自主提交商家需求；定制项目由人工确认范围与报价。 填写商家需求",
+      "请勿通过此表单提交密码、支付信息或客户机密文件。",
+      ""
+    ],
+    "description": [
+      "联系 BB369TECH，咨询企业网站、客户联系入口和数字支持需求。"
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/zh/contact.html#webpage\",\"url\":\"https://bb369tech.com/zh/contact.html\",\"name\":\"联系我们｜BB369TECH\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"},\"description\":\"联系 BB369TECH，咨询企业网站、客户联系入口和数字支持需求。\",\"inLanguage\":\"zh-Hans\"}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "联系我们｜BB369TECH",
+        "property": "og:title"
+      },
+      {
+        "content": "联系 BB369TECH，咨询企业网站、客户联系入口和数字支持需求。",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/zh/contact.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [
+      {
+        "href": "https://bb369tech.com/contact.html",
+        "language": "en"
+      },
+      {
+        "href": "https://bb369tech.com/zh/contact.html",
+        "language": "zh-Hans"
+      },
+      {
+        "href": "https://bb369tech.com/contact.html",
+        "language": "x-default"
+      }
+    ],
+    "links": [
+      {
+        "href": "/zh/index.html",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "首页"
+      },
+      {
+        "href": "/company.html",
+        "text": "公司（英文）"
+      },
+      {
+        "href": "/zh/services.html",
+        "text": "服务"
+      },
+      {
+        "href": "/products.html",
+        "text": "产品（英文）"
+      },
+      {
+        "href": "/zh/industries.html",
+        "text": "行业"
+      },
+      {
+        "href": "/projects.html",
+        "text": "项目（英文）"
+      },
+      {
+        "href": "/resources.html",
+        "text": "资源（英文）"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "联系"
+      },
+      {
+        "href": "/contact.html",
+        "text": "EN"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "隐私政策（英文）"
+      },
+      {
+        "href": "https://platform.bb369tech.com/merchant/",
+        "text": "填写商家需求"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "公司（英文）"
+      },
+      {
+        "href": "/zh/services.html",
+        "text": "服务"
+      },
+      {
+        "href": "/products.html",
+        "text": "产品（英文）"
+      },
+      {
+        "href": "/projects.html",
+        "text": "项目（英文）"
+      },
+      {
+        "href": "/zh/industries.html",
+        "text": "行业"
+      },
+      {
+        "href": "/resources.html",
+        "text": "资源（英文）"
+      },
+      {
+        "href": "/zh/faq.html",
+        "text": "常见问题"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "联系"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "隐私政策（英文）"
+      },
+      {
+        "href": "/terms.html",
+        "text": "服务条款（英文）"
+      },
+      {
+        "href": "/security.html",
+        "text": "安全说明（英文）"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://bb369-sendgrid-api.onrender.com/api/corporate-inquiry",
+        "controls": [
+          {
+            "name": "name",
+            "required": true,
+            "tag": "input",
+            "type": null
+          },
+          {
+            "name": "company",
+            "required": false,
+            "tag": "input",
+            "type": null
+          },
+          {
+            "name": "email",
+            "required": true,
+            "tag": "input",
+            "type": "email"
+          },
+          {
+            "name": "inquiryType",
+            "required": true,
+            "tag": "select",
+            "type": null
+          },
+          {
+            "name": "message",
+            "required": true,
+            "tag": "textarea",
+            "type": null
+          },
+          {
+            "name": "privacyConsent",
+            "required": true,
+            "tag": "input",
+            "type": "checkbox"
+          },
+          {
+            "name": null,
+            "required": false,
+            "tag": "button",
+            "type": "submit"
+          }
+        ],
+        "method": "post"
+      }
+    ]
+  },
+  {
+    "requestedPath": "/404.html",
+    "finalUrl": "https://bb369tech.com/404.html",
+    "title": "Page Not Found | BB369TECH",
+    "canonical": [
+      "https://bb369tech.com/404.html"
+    ],
+    "robots": [
+      "index,follow"
+    ],
+    "h1": [
+      "Page not found"
+    ],
+    "paragraphs": [
+      "The requested page may have moved or no longer exists."
+    ],
+    "description": [
+      "The requested BB369TECH page was not found."
+    ],
+    "schema": [
+      "{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Organization\", \"@id\": \"https://bb369tech.com/#organization\", \"name\": \"BB369TECH\", \"url\": \"https://bb369tech.com/\", \"logo\": \"https://bb369tech.com/assets/logo-512.png\", \"email\": \"business@bb369tech.com\", \"areaServed\": \"Global\", \"sameAs\": [\"https://github.com/bb369tech\"]}, {\"@type\": \"WebSite\", \"@id\": \"https://bb369tech.com/#website\", \"url\": \"https://bb369tech.com/\", \"name\": \"BB369TECH\", \"publisher\": {\"@id\": \"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "Page Not Found | BB369TECH",
+        "property": "og:title"
+      },
+      {
+        "content": "The requested BB369TECH page was not found.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/404.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/",
+        "text": "Return home"
+      },
+      {
+        "href": "/products.html",
+        "text": "View products"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/credentials.html",
+    "finalUrl": "https://bb369tech.com/company.html",
+    "title": "About BB369TECH | Business Website & Digital Services Company",
+    "canonical": [
+      "https://bb369tech.com/company.html"
+    ],
+    "robots": [
+      "index,follow"
+    ],
+    "h1": [
+      "Technology that supports real organizations."
+    ],
+    "paragraphs": [
+      "BB369TECH develops and maintains practical digital products while helping businesses and institutions improve how they present information, serve customers, and complete everyday work.",
+      "What we focus on",
+      "Our work centers on clear business presentation, useful customer entry points, multilingual communication, and maintainable digital operations.",
+      "We work with merchants, schools, service providers, manufacturers, professional organizations, and growing businesses that need tools grounded in real tasks.",
+      "How we work",
+      "Each project begins with a specific business need. We identify the information, steps, people, and output required, then build the smallest useful solution that can be maintained and improved.",
+      "BB369TECH",
+      "Digital products, business websites, and implementation services.",
+      "Explore BB369TECH products",
+      "See current products, live applications, and release status."
+    ],
+    "description": [
+      "Learn about BB369TECH, a Los Angeles technology company developing practical digital products and business services."
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/company.html#webpage\",\"url\":\"https://bb369tech.com/company.html\",\"name\":\"About BB369TECH | Business Website & Digital Services Company\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "About BB369TECH | Business Website & Digital Services Company",
+        "property": "og:title"
+      },
+      {
+        "content": "Learn about BB369TECH, a Los Angeles technology company developing practical digital products and business services.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/company.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "中文"
+      },
+      {
+        "href": "/products.html",
+        "text": "View Products"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/media.html",
+    "finalUrl": "https://bb369tech.com/resources.html",
+    "title": "Business Website & Digital Resources | BB369TECH",
+    "canonical": [
+      "https://bb369tech.com/resources.html"
+    ],
+    "robots": [
+      "index,follow"
+    ],
+    "h1": [
+      "Official company and product references."
+    ],
+    "paragraphs": [
+      "Direct links to current BB369TECH products, public tools, company information, and support.",
+      "Business Website Services",
+      "Company websites, multilingual presentation, and ongoing digital support.",
+      "Public Tools",
+      "Open BB369TECH tools and product utilities.",
+      "GitHub",
+      "Public software and release records maintained by BB369TECH.",
+      "Company Information",
+      "Company focus, services, and contact information.",
+      "Business Support",
+      "Contact BB369TECH about product implementation or a new project."
+    ],
+    "description": [
+      "Official BB369TECH product, company, tools, GitHub, and support references."
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/resources.html#webpage\",\"url\":\"https://bb369tech.com/resources.html\",\"name\":\"Business Website & Digital Resources | BB369TECH\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "Business Website & Digital Resources | BB369TECH",
+        "property": "og:title"
+      },
+      {
+        "content": "Official BB369TECH product, company, tools, GitHub, and support references.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/resources.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "中文"
+      },
+      {
+        "href": "/services.html",
+        "text": "View services →"
+      },
+      {
+        "href": "https://tools.bb369tech.com",
+        "text": "Open tools →"
+      },
+      {
+        "href": "https://github.com/bb369tech",
+        "text": "Open GitHub →"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company page →"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact →"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/news.html",
+    "finalUrl": "https://bb369tech.com/resources.html",
+    "title": "Business Website & Digital Resources | BB369TECH",
+    "canonical": [
+      "https://bb369tech.com/resources.html"
+    ],
+    "robots": [
+      "index,follow"
+    ],
+    "h1": [
+      "Official company and product references."
+    ],
+    "paragraphs": [
+      "Direct links to current BB369TECH products, public tools, company information, and support.",
+      "Business Website Services",
+      "Company websites, multilingual presentation, and ongoing digital support.",
+      "Public Tools",
+      "Open BB369TECH tools and product utilities.",
+      "GitHub",
+      "Public software and release records maintained by BB369TECH.",
+      "Company Information",
+      "Company focus, services, and contact information.",
+      "Business Support",
+      "Contact BB369TECH about product implementation or a new project."
+    ],
+    "description": [
+      "Official BB369TECH product, company, tools, GitHub, and support references."
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/resources.html#webpage\",\"url\":\"https://bb369tech.com/resources.html\",\"name\":\"Business Website & Digital Resources | BB369TECH\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "Business Website & Digital Resources | BB369TECH",
+        "property": "og:title"
+      },
+      {
+        "content": "Official BB369TECH product, company, tools, GitHub, and support references.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/resources.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "中文"
+      },
+      {
+        "href": "/services.html",
+        "text": "View services →"
+      },
+      {
+        "href": "https://tools.bb369tech.com",
+        "text": "Open tools →"
+      },
+      {
+        "href": "https://github.com/bb369tech",
+        "text": "Open GitHub →"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company page →"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact →"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/partners.html",
+    "finalUrl": "https://bb369tech.com/contact.html",
+    "title": "Contact BB369TECH | Business Website & Digital Services",
+    "canonical": [
+      "https://bb369tech.com/contact.html"
+    ],
+    "robots": [
+      "index,follow"
+    ],
+    "h1": [
+      "Tell us what the business needs to accomplish."
+    ],
+    "paragraphs": [
+      "Share the current situation, the people involved, and the result you need. A short description is enough to begin.",
+      "Business inquiries",
+      "Email: business@bb369tech.com",
+      "Location: Los Angeles, California",
+      "Languages: English and Chinese",
+      "Ask about our services, then submit your business needs when ready. Custom projects require human confirmation of scope and price. Business inquiry form",
+      "Please do not send passwords, payment details, or confidential customer documents through this form.",
+      ""
+    ],
+    "description": [
+      "Contact BB369TECH about business websites, customer access, product implementation, and digital services."
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/contact.html#webpage\",\"url\":\"https://bb369tech.com/contact.html\",\"name\":\"Contact BB369TECH | Business Website & Digital Services\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "Contact BB369TECH | Business Website & Digital Services",
+        "property": "og:title"
+      },
+      {
+        "content": "Contact BB369TECH about business websites, customer access, product implementation, and digital services.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/contact.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [
+      {
+        "href": "https://bb369tech.com/contact.html",
+        "language": "en"
+      },
+      {
+        "href": "https://bb369tech.com/zh/contact.html",
+        "language": "zh-Hans"
+      },
+      {
+        "href": "https://bb369tech.com/contact.html",
+        "language": "x-default"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/zh/contact.html",
+        "text": "中文"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://platform.bb369tech.com/merchant/",
+        "text": "Business inquiry form"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://bb369-sendgrid-api.onrender.com/api/corporate-inquiry",
+        "controls": [
+          {
+            "name": "name",
+            "required": true,
+            "tag": "input",
+            "type": null
+          },
+          {
+            "name": "company",
+            "required": false,
+            "tag": "input",
+            "type": null
+          },
+          {
+            "name": "email",
+            "required": true,
+            "tag": "input",
+            "type": "email"
+          },
+          {
+            "name": "inquiryType",
+            "required": true,
+            "tag": "select",
+            "type": null
+          },
+          {
+            "name": "message",
+            "required": true,
+            "tag": "textarea",
+            "type": null
+          },
+          {
+            "name": "privacyConsent",
+            "required": true,
+            "tag": "input",
+            "type": "checkbox"
+          },
+          {
+            "name": null,
+            "required": false,
+            "tag": "button",
+            "type": "submit"
+          }
+        ],
+        "method": "post"
+      }
+    ]
+  },
+  {
+    "requestedPath": "/platforms.html",
+    "finalUrl": "https://bb369tech.com/products.html",
+    "title": "Business Website Products & Digital Tools | BB369TECH",
+    "canonical": [
+      "https://bb369tech.com/products.html"
+    ],
+    "robots": [
+      "index,follow"
+    ],
+    "h1": [
+      "Practical products for customer and business work."
+    ],
+    "paragraphs": [
+      "Each product has a clear purpose, a current status, and an official usage entry.",
+      "Business Website System",
+      "Structured business websites for service presentation, multilingual public information, locations, products, contact, and ongoing updates.",
+      "Source & Attribution Tools",
+      "Public tools for source identity, version clarity, attribution, and verifiable digital records.",
+      "School Recruitment Support",
+      "Course presentation, inquiries, appointments, admissions follow-up, and enrollment support for schools."
+    ],
+    "description": [
+      "Official BB369TECH public offerings for business websites, attribution tools, and school recruitment support."
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/products.html#webpage\",\"url\":\"https://bb369tech.com/products.html\",\"name\":\"Business Website Products & Digital Tools | BB369TECH\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "Business Website Products & Digital Tools | BB369TECH",
+        "property": "og:title"
+      },
+      {
+        "content": "Official BB369TECH public offerings for business websites, attribution tools, and school recruitment support.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/products.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "中文"
+      },
+      {
+        "href": "/services.html",
+        "text": "Learn more →"
+      },
+      {
+        "href": "https://tools.bb369tech.com",
+        "text": "Open tools →"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Discuss a pilot →"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  },
+  {
+    "requestedPath": "/why-us.html",
+    "finalUrl": "https://bb369tech.com/company.html",
+    "title": "About BB369TECH | Business Website & Digital Services Company",
+    "canonical": [
+      "https://bb369tech.com/company.html"
+    ],
+    "robots": [
+      "index,follow"
+    ],
+    "h1": [
+      "Technology that supports real organizations."
+    ],
+    "paragraphs": [
+      "BB369TECH develops and maintains practical digital products while helping businesses and institutions improve how they present information, serve customers, and complete everyday work.",
+      "What we focus on",
+      "Our work centers on clear business presentation, useful customer entry points, multilingual communication, and maintainable digital operations.",
+      "We work with merchants, schools, service providers, manufacturers, professional organizations, and growing businesses that need tools grounded in real tasks.",
+      "How we work",
+      "Each project begins with a specific business need. We identify the information, steps, people, and output required, then build the smallest useful solution that can be maintained and improved.",
+      "BB369TECH",
+      "Digital products, business websites, and implementation services.",
+      "Explore BB369TECH products",
+      "See current products, live applications, and release status."
+    ],
+    "description": [
+      "Learn about BB369TECH, a Los Angeles technology company developing practical digital products and business services."
+    ],
+    "schema": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://bb369tech.com/#organization\",\"name\":\"BB369TECH\",\"url\":\"https://bb369tech.com/\",\"logo\":\"https://bb369tech.com/assets/logo-512.png\",\"email\":\"business@bb369tech.com\",\"areaServed\":\"Global\",\"sameAs\":[\"https://github.com/bb369tech\"]},{\"@type\":\"WebSite\",\"@id\":\"https://bb369tech.com/#website\",\"url\":\"https://bb369tech.com/\",\"name\":\"BB369TECH\",\"publisher\":{\"@id\":\"https://bb369tech.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://bb369tech.com/company.html#webpage\",\"url\":\"https://bb369tech.com/company.html\",\"name\":\"About BB369TECH | Business Website & Digital Services Company\",\"isPartOf\":{\"@id\":\"https://bb369tech.com/#website\"},\"about\":{\"@id\":\"https://bb369tech.com/#organization\"}}]}"
+    ],
+    "openGraph": [
+      {
+        "content": "About BB369TECH | Business Website & Digital Services Company",
+        "property": "og:title"
+      },
+      {
+        "content": "Learn about BB369TECH, a Los Angeles technology company developing practical digital products and business services.",
+        "property": "og:description"
+      },
+      {
+        "content": "website",
+        "property": "og:type"
+      },
+      {
+        "content": "https://bb369tech.com/company.html",
+        "property": "og:url"
+      },
+      {
+        "content": "BB369TECH",
+        "property": "og:site_name"
+      }
+    ],
+    "hreflang": [],
+    "links": [
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/zh/index.html",
+        "text": "中文"
+      },
+      {
+        "href": "/products.html",
+        "text": "View Products"
+      },
+      {
+        "href": "/",
+        "text": "369BB369TECH"
+      },
+      {
+        "href": "/company.html",
+        "text": "Company"
+      },
+      {
+        "href": "/services.html",
+        "text": "Services"
+      },
+      {
+        "href": "/products.html",
+        "text": "Products"
+      },
+      {
+        "href": "/projects.html",
+        "text": "Projects"
+      },
+      {
+        "href": "/industries.html",
+        "text": "Industries"
+      },
+      {
+        "href": "/resources.html",
+        "text": "Resources"
+      },
+      {
+        "href": "/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "/contact.html",
+        "text": "Contact"
+      },
+      {
+        "href": "/privacy.html",
+        "text": "Privacy"
+      },
+      {
+        "href": "/terms.html",
+        "text": "Terms"
+      },
+      {
+        "href": "/security.html",
+        "text": "Security"
+      },
+      {
+        "href": "mailto:business@bb369tech.com",
+        "text": "business@bb369tech.com"
+      }
+    ],
+    "forms": []
+  }
+]

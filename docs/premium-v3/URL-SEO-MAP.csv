@@ -1,0 +1,22 @@
+path,canonical,robots,local_file,production_http,preview_http,metadata
+/404.html,https://bb369tech.com/404.html,"noindex,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/company.html,https://bb369tech.com/company.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/contact.html,https://bb369tech.com/contact.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/faq.html,https://bb369tech.com/faq.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/index.html,https://bb369tech.com/,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/industries.html,https://bb369tech.com/industries.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/privacy.html,https://bb369tech.com/privacy.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/products.html,https://bb369tech.com/products.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/projects.html,https://bb369tech.com/projects.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/resources.html,https://bb369tech.com/resources.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/security.html,https://bb369tech.com/security.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/services.html,https://bb369tech.com/services.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/terms.html,https://bb369tech.com/terms.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/zh/company.html,https://bb369tech.com/zh/company.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/zh/contact.html,https://bb369tech.com/zh/contact.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/zh/faq.html,https://bb369tech.com/zh/faq.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/zh/index.html,https://bb369tech.com/zh/index.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/zh/industries.html,https://bb369tech.com/zh/industries.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/zh/products.html,https://bb369tech.com/zh/products.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/zh/projects.html,https://bb369tech.com/zh/projects.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/zh/services.html,https://bb369tech.com/zh/services.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS

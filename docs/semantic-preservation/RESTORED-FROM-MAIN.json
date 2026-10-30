@@ -1,0 +1,107 @@
+[
+  {
+    "source": "index.html",
+    "before": "Clear digital tools for real business work.",
+    "after_url": "/services.html",
+    "status": "RELOCATED",
+    "href": null
+  },
+  {
+    "source": "index.html",
+    "before": "Start with what you need",
+    "after_url": "/services.html",
+    "status": "RELOCATED",
+    "href": null
+  },
+  {
+    "source": "index.html",
+    "before": "Three clear ways to work with us.",
+    "after_url": "/services.html",
+    "status": "RELOCATED",
+    "href": null
+  },
+  {
+    "source": "index.html",
+    "before": "Explore Products",
+    "after_url": "/services.html",
+    "status": "RELOCATED",
+    "href": "/products.html"
+  },
+  {
+    "source": "index.html",
+    "before": "View Services",
+    "after_url": "/contact.html",
+    "status": "RELOCATED",
+    "href": "/services.html"
+  },
+  {
+    "source": "index.html",
+    "before": "Improve customer accessCreate clear contact paths, request forms, appointment entry points, and service information.",
+    "after_url": "/services.html",
+    "status": "RELOCATED",
+    "href": "/services.html"
+  },
+  {
+    "source": "index.html",
+    "before": "Build or improve a business websitePresent services, locations, products, and contact information clearly.",
+    "after_url": "/services.html",
+    "status": "RELOCATED",
+    "href": "/services.html"
+  },
+  {
+    "source": "index.html",
+    "before": "Discuss a business projectTell us the goal and current situation. We will identify the next practical step.",
+    "after_url": "/services.html",
+    "status": "RELOCATED",
+    "href": "/contact.html"
+  },
+  {
+    "source": "projects.html",
+    "before": "Products and services applied to real work.",
+    "after_url": "/services.html",
+    "status": "RELOCATED",
+    "href": null
+  },
+  {
+    "source": "public/zh/index.html",
+    "before": "让客户更容易找到、了解并联系你的企业。",
+    "after_url": "/zh/services.html",
+    "status": "RELOCATED",
+    "href": null
+  },
+  {
+    "source": "public/zh/index.html",
+    "before": "从你当前的需求开始",
+    "after_url": "/zh/services.html",
+    "status": "RELOCATED",
+    "href": null
+  },
+  {
+    "source": "public/zh/index.html",
+    "before": "咨询业务需求",
+    "after_url": "/zh/services.html",
+    "status": "RELOCATED",
+    "href": "/zh/contact.html"
+  },
+  {
+    "source": "public/zh/index.html",
+    "before": "新建或改善企业网站 →展示业务、产品、地点与联系方式。",
+    "after_url": "/zh/services.html",
+    "status": "RELOCATED",
+    "href": "https://platform.bb369tech.com/business-website/"
+  },
+  {
+    "source": "public/zh/index.html",
+    "before": "持续业务支持 →了解公开数字形象维护与客户咨询支持。",
+    "after_url": "/zh/services.html",
+    "status": "RELOCATED",
+    "href": "https://platform.bb369tech.com/business-website/#monthly-support"
+  },
+  {
+    "source": "public/zh/index.html",
+    "before": "咨询定制需求 →说明你希望改善的实际业务问题。",
+    "after_url": "/zh/services.html",
+    "status": "RELOCATED",
+    "href": "https://platform.bb369tech.com/merchant/"
+  }
+]

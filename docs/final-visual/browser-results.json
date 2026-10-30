@@ -1,0 +1,24 @@
+{
+  "origin": "local isolated preview",
+  "widths": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "pages_per_width": 20,
+  "responsive_checks": 80,
+  "overflow_failures": 0,
+  "h1_failures": 0,
+  "visible_image_failures_after_decode": 0,
+  "menu_language_paths": 12,
+  "filter_checks": 6,
+  "empty_form_checks": 2,
+  "mocked_browser_form_checks": 8,
+  "real_posts": 0,
+  "real_payments": 0,
+  "website_origin_console_errors_seen": 0,
+  "remote_candidate_deployment": "NOT UPDATED",
+  "post_semantic_restoration_checks": 12,
+  "post_semantic_restoration_failures": 0
+}

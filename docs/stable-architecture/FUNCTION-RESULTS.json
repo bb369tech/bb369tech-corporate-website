@@ -1,0 +1,231 @@
+{
+  "entries": [
+    {
+      "entry": 0,
+      "h1": "Digital work that moves a business forward.",
+      "lang": "en",
+      "path": "/services.html"
+    },
+    {
+      "entry": 1,
+      "h1": "Practical products for customer and business work.",
+      "lang": "en",
+      "path": "/products.html"
+    },
+    {
+      "entry": 2,
+      "h1": "Digital work that moves a business forward.",
+      "lang": "en",
+      "path": "/services.html"
+    },
+    {
+      "entry": 3,
+      "h1": "Practical products for customer and business work.",
+      "lang": "en",
+      "path": "/products.html"
+    },
+    {
+      "entry": 0,
+      "h1": "选择适合你企业的支持。",
+      "lang": "zh",
+      "path": "/zh/services.html"
+    },
+    {
+      "entry": 1,
+      "h1": "清楚实用的企业产品与工具。",
+      "lang": "zh",
+      "path": "/zh/products.html"
+    },
+    {
+      "entry": 2,
+      "h1": "选择适合你企业的支持。",
+      "lang": "zh",
+      "path": "/zh/services.html"
+    },
+    {
+      "entry": 3,
+      "h1": "清楚实用的企业产品与工具。",
+      "lang": "zh",
+      "path": "/zh/products.html"
+    }
+  ],
+  "forms": [
+    {
+      "lang": "en",
+      "emptyBlocked": true
+    },
+    {
+      "capture": {
+        "calls": 1,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Local non-delivery fixture only",
+          "name": "Stable architecture QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "lang": "en",
+      "mode": "success",
+      "preserved": false,
+      "status": "Your inquiry was submitted. Please check your inbox and spam folder for a confirmation."
+    },
+    {
+      "capture": {
+        "calls": 2,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Local non-delivery fixture only",
+          "name": "Stable architecture QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "lang": "en",
+      "mode": "server-error",
+      "preserved": true,
+      "status": "We could not confirm the result. Please email business@bb369tech.com to avoid a duplicate submission."
+    },
+    {
+      "capture": {
+        "calls": 3,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Local non-delivery fixture only",
+          "name": "Stable architecture QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "lang": "en",
+      "mode": "false-success",
+      "preserved": true,
+      "status": "We could not confirm the result. Please email business@bb369tech.com to avoid a duplicate submission."
+    },
+    {
+      "capture": {
+        "calls": 4,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Local non-delivery fixture only",
+          "name": "Stable architecture QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "lang": "en",
+      "mode": "network-error",
+      "preserved": true,
+      "status": "We could not confirm the result. Please email business@bb369tech.com to avoid a duplicate submission."
+    },
+    {
+      "lang": "zh",
+      "emptyBlocked": true
+    },
+    {
+      "capture": {
+        "calls": 1,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Local non-delivery fixture only",
+          "name": "Stable architecture QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "lang": "zh",
+      "mode": "success",
+      "preserved": false,
+      "status": "咨询已提交。请留意确认邮件及垃圾邮件文件夹。"
+    },
+    {
+      "capture": {
+        "calls": 2,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Local non-delivery fixture only",
+          "name": "Stable architecture QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "lang": "zh",
+      "mode": "server-error",
+      "preserved": true,
+      "status": "未能确认提交结果。请发送邮件至 business@bb369tech.com，避免重复提交。"
+    },
+    {
+      "capture": {
+        "calls": 3,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Local non-delivery fixture only",
+          "name": "Stable architecture QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "lang": "zh",
+      "mode": "false-success",
+      "preserved": true,
+      "status": "未能确认提交结果。请发送邮件至 business@bb369tech.com，避免重复提交。"
+    },
+    {
+      "capture": {
+        "calls": 4,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Local non-delivery fixture only",
+          "name": "Stable architecture QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "lang": "zh",
+      "mode": "network-error",
+      "preserved": true,
+      "status": "未能确认提交结果。请发送邮件至 business@bb369tech.com，避免重复提交。"
+    }
+  ],
+  "realNetworkRequests": 0
+}

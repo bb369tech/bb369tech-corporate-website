@@ -1,0 +1,842 @@
+[
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/index.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/services.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/products.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/projects.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/company.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/contact.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/services.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/products.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/projects.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/company.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/contact.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/industries.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/industries.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/resources.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/faq.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/faq.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/privacy.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/terms.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/security.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/404.html",
+    "width": "320"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/index.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/services.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/products.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/projects.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/company.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/contact.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/services.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/products.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/projects.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/company.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/contact.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/industries.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/industries.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/resources.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/faq.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/faq.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/privacy.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/terms.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/security.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/404.html",
+    "width": "390"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/index.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/services.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/products.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/projects.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/company.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/contact.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/services.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/products.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/projects.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/company.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/contact.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/industries.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/industries.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/resources.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/faq.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/faq.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/privacy.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/terms.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/security.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/404.html",
+    "width": "768"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/index.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/services.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/products.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/projects.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/company.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/contact.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/services.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/products.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/projects.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/company.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/contact.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/industries.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/industries.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/resources.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/faq.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/zh/faq.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/privacy.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/terms.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/security.html",
+    "width": "1440"
+  },
+  {
+    "badVisibleImages": 0,
+    "footerBackground": "rgb(11, 23, 48)",
+    "footerText": "rgb(193, 204, 220)",
+    "h1": 1,
+    "overflow": false,
+    "patchLoaded": true,
+    "path": "/404.html",
+    "width": "1440"
+  }
+]

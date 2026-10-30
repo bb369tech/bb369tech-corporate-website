@@ -1,0 +1,16 @@
+{
+  "baseline_main": "b553356528d097632f4f30da40258af4501f8212",
+  "production_urls_observed": 24,
+  "source_documents_root_and_public": 36,
+  "preservation_rows": 2409,
+  "counts": {
+    "PRESERVED": 2049,
+    "IMPROVED": 27,
+    "RELOCATED": 333
+  },
+  "missing_assets_or_semantics": [],
+  "production_main_mismatches": [],
+  "status": "PASS",
+  "numeric_http": "NOT VERIFIED",
+  "inbound_external_citations": "NOT VERIFIED"
+}

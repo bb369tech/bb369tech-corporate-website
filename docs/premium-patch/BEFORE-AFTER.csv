@@ -1,0 +1,152 @@
+path,status,evidence
+.gitignore,PRESERVED,Byte-identical
+404.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+CNAME,PRESERVED,Byte-identical
+DEPLOYMENT.md,PRESERVED,Byte-identical
+NOTICE.md,PRESERVED,Byte-identical
+README.md,PRESERVED,Byte-identical
+RECOVERY-NOTE.md,PRESERVED,Byte-identical
+SECURITY.md,PRESERVED,Byte-identical
+UPGRADE-REVIEW.md,PRESERVED,Byte-identical
+VERSION.md,PRESERVED,Byte-identical
+_redirects,PRESERVED,Byte-identical
+assets/botanica-website.jpg,PRESERVED,Byte-identical
+assets/corporate-contact.css,PRESERVED,Byte-identical
+assets/corporate-contact.js,PRESERVED,Byte-identical
+assets/logo-512.png,PRESERVED,Byte-identical
+assets/logo.svg,PRESERVED,Byte-identical
+assets/project-filter.js,PRESERVED,Byte-identical
+assets/project-rosa.jpg,PRESERVED,Byte-identical
+assets/project-sj.jpg,PRESERVED,Byte-identical
+assets/site.css,PRESERVED,Byte-identical
+assets/site.js,PRESERVED,Byte-identical
+company.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+contact.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+credentials.html,PRESERVED,Byte-identical
+data/organization.json,PRESERVED,Byte-identical
+docs/final-release-review/BROWSER-RESULTS.json,PRESERVED,Byte-identical
+docs/final-release-review/CASE-AND-BUILD-EVIDENCE.json,PRESERVED,Byte-identical
+docs/final-release-review/CONTACT-INVENTORY.json,PRESERVED,Byte-identical
+docs/final-release-review/DETAILS-ALL-TEXT-AND-LINKS.json,PRESERVED,Byte-identical
+docs/final-release-review/DETAILS-BEFORE-AFTER.json,PRESERVED,Byte-identical
+docs/final-release-review/HTTP-RESULTS.json,PRESERVED,Byte-identical
+docs/final-release-review/REPORT.md,PRESERVED,Byte-identical
+docs/final-release-review/STATIC-TESTS.txt,PRESERVED,Byte-identical
+docs/final-visual/ACCEPTANCE.md,PRESERVED,Byte-identical
+docs/final-visual/CASE-AUDIT.md,PRESERVED,Byte-identical
+docs/final-visual/CONTACT-TESTS.txt,PRESERVED,Byte-identical
+docs/final-visual/CONTENT-AND-URL-MAP.md,PRESERVED,Byte-identical
+docs/final-visual/FILES.txt,PRESERVED,Byte-identical
+docs/final-visual/ROLLBACK.md,PRESERVED,Byte-identical
+docs/final-visual/STATIC-TESTS.txt,PRESERVED,Byte-identical
+docs/final-visual/URL-MAP.csv,PRESERVED,Byte-identical
+docs/final-visual/baseline.json,PRESERVED,Byte-identical
+docs/final-visual/browser-results.json,PRESERVED,Byte-identical
+docs/premium-v3/ACCEPTANCE.md,PRESERVED,Byte-identical
+docs/premium-v3/CHANGE-SUMMARY.txt,PRESERVED,Byte-identical
+docs/premium-v3/CONTENT-TEMPLATES.md,PRESERVED,Byte-identical
+docs/premium-v3/EXISTING-DIFF.txt,PRESERVED,Byte-identical
+docs/premium-v3/PREIMPLEMENTATION.md,PRESERVED,Byte-identical
+docs/premium-v3/ROLLBACK.md,PRESERVED,Byte-identical
+docs/premium-v3/URL-SEO-MAP.csv,PRESERVED,Byte-identical
+docs/premium-v3/baseline-inventory.json,PRESERVED,Byte-identical
+docs/premium-v3/browser-results.json,PRESERVED,Byte-identical
+docs/premium-v3/production-http.json,PRESERVED,Byte-identical
+docs/premium-v3/static-results.json,PRESERVED,Byte-identical
+docs/semantic-preservation/BEFORE-AFTER.csv,PRESERVED,Byte-identical
+docs/semantic-preservation/FILES-THIS-ADDENDUM.txt,PRESERVED,Byte-identical
+docs/semantic-preservation/REGRESSION-TESTS.txt,PRESERVED,Byte-identical
+docs/semantic-preservation/REPORT.md,PRESERVED,Byte-identical
+docs/semantic-preservation/RESTORED-FROM-MAIN.json,PRESERVED,Byte-identical
+docs/semantic-preservation/RESULTS.json,PRESERVED,Byte-identical
+docs/semantic-preservation/URL-BEFORE-AFTER.csv,PRESERVED,Byte-identical
+docs/semantic-preservation/main-source-inventory.json,PRESERVED,Byte-identical
+docs/semantic-preservation/production-baseline.json,PRESERVED,Byte-identical
+faq.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+index.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+industries.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+llms.txt,PRESERVED,Byte-identical
+media.html,PRESERVED,Byte-identical
+news.html,PRESERVED,Byte-identical
+partners.html,PRESERVED,Byte-identical
+platforms.html,PRESERVED,Byte-identical
+privacy.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+products.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+products.json,PRESERVED,Byte-identical
+projects.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+projects.json,PRESERVED,Byte-identical
+public/404.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/CNAME,PRESERVED,Byte-identical
+public/_redirects,PRESERVED,Byte-identical
+public/assets/botanica-website.jpg,PRESERVED,Byte-identical
+public/assets/corporate-contact.css,PRESERVED,Byte-identical
+public/assets/corporate-contact.js,PRESERVED,Byte-identical
+public/assets/logo-512.png,PRESERVED,Byte-identical
+public/assets/logo.svg,PRESERVED,Byte-identical
+public/assets/project-filter.js,PRESERVED,Byte-identical
+public/assets/project-rosa.jpg,PRESERVED,Byte-identical
+public/assets/project-sj.jpg,PRESERVED,Byte-identical
+public/assets/site.css,PRESERVED,Byte-identical
+public/assets/site.js,PRESERVED,Byte-identical
+public/company.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/contact.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/credentials.html,PRESERVED,Byte-identical
+public/data/organization.json,PRESERVED,Byte-identical
+public/faq.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/index.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/industries.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/llms.txt,PRESERVED,Byte-identical
+public/media.html,PRESERVED,Byte-identical
+public/news.html,PRESERVED,Byte-identical
+public/partners.html,PRESERVED,Byte-identical
+public/platforms.html,PRESERVED,Byte-identical
+public/privacy.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/products.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/products.json,PRESERVED,Byte-identical
+public/projects.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/projects.json,PRESERVED,Byte-identical
+public/resources.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/robots.txt,PRESERVED,Byte-identical
+public/security.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/services.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/sitemap.xml,PRESERVED,Byte-identical
+public/terms.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/why-us.html,PRESERVED,Byte-identical
+public/zh/company.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/zh/contact.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/zh/faq.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/zh/index.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/zh/industries.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/zh/products.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/zh/projects.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+public/zh/services.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+resources.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+robots.txt,PRESERVED,Byte-identical
+scripts/audit-semantic-preservation.py,PRESERVED,Byte-identical
+scripts/build-qa-contact.py,PRESERVED,Byte-identical
+scripts/final-details-audit.py,PRESERVED,Byte-identical
+scripts/final-release-http.py,PRESERVED,Byte-identical
+scripts/render-projects.py,PRESERVED,Byte-identical
+scripts/sync-public-mirror.py,PRESERVED,Byte-identical
+scripts/verify-premium.py,PRESERVED,Byte-identical
+security.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+services.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+sitemap.xml,PRESERVED,Byte-identical
+terms.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+tests/browser_public_site.cjs,PRESERVED,Byte-identical
+tests/corporate-contact-contract.test.cjs,PRESERVED,Byte-identical
+tests/corporate-contact-recovery.test.cjs,PRESERVED,Byte-identical
+tests/final-visual-regression.py,PRESERVED,Byte-identical
+tests/fixtures/contact-browser-mock.js,PRESERVED,Byte-identical
+tests/fixtures/corporate-inquiry-handler.js,PRESERVED,Byte-identical
+tests/regression_public_site.py,PRESERVED,Byte-identical
+why-us.html,PRESERVED,Byte-identical
+wrangler.jsonc,PRESERVED,Byte-identical
+zh/company.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+zh/contact.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+zh/faq.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+zh/index.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+zh/industries.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+zh/products.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+zh/projects.html,PRESERVED,All original HTML bytes; one additional stylesheet link only
+zh/services.html,PRESERVED,All original HTML bytes; one additional stylesheet link only

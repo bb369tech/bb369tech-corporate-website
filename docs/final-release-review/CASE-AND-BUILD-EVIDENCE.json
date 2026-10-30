@@ -1,0 +1,38 @@
+{
+  "platformTree": "e1b2c679fe8c6d448840e435251ac73f6d415e3c",
+  "records": [
+    {
+      "number": 14,
+      "merged": true,
+      "head": "92f6b6a55e0b13b43debeca2d93b5c23474086d5",
+      "title": "Add SJ company Featured card to homepage",
+      "body": "Adds SJ Home Upgrade Services immediately after Rosemead College. Only index.html changes; all six existing Featured cards and their order are preserved, including the PVC special. Reuses the existing SJ storefront photo. Search, catalog feed, merchant intake, SJ pages, backends, orders and prices are unchanged.\n\nValidation: exact bilingual card fields and URL verified; existing Featured entries compared unchanged; diff is index.html only; SJ destination opens successfully. User authorized production merge after this gate, then existing automatic deployment only.",
+      "url": "https://github.com/bb369tech/bb369-platform/pull/14"
+    },
+    {
+      "number": 33,
+      "merged": true,
+      "head": "950a1f5ead9fa014e3263b22d45cef66b88179a6",
+      "title": "Productos La Rosa Spanish and English product inquiry landing page",
+      "body": "Adds only /clients/productos-la-rosa/index.html and its store shelf image. Spanish and English switch, official website, store phone, address/map link, and consent-required product inquiry form use the existing /submit endpoint with merchant ID productos-la-rosa-001. Public indexing is activated following the user's release approval.\n\nBackend exact commit aca877f3a7d9591d37672e49e27a18917e7ec93f is live with bilingual merchant/customer/platform emails and a designed product inquiry PDF. Backend isolated tests: 13/13 PASS. Prior synthetic API submission confirmed all three send acceptance flags, and company customer/archive copies were received. Merchant inbox delivery still needs merchant confirmation.\n\nExisting pages, backend endpoints, prices, orders, payments and other merchants are not changed. No new production inquiry is submitted as part of this merge.",
+      "url": "https://github.com/bb369tech/bb369-platform/pull/33"
+    },
+    {
+      "number": 34,
+      "merged": true,
+      "head": "cc0e6d6921d8d7b2757cf169518f24efb03e2ec6",
+      "title": "Publish Botanica de la Luz storefront and separate product catalog",
+      "body": "Publish the approved Botánica de la Luz / JML MISCELLANEOUS design at /clients/botanica-de-la-luz/.\n\nOnly two new files are added under this merchant's independent directory: index.html and products.html. The homepage shows the supplied new storefront photo and video; original-store product photographs are confined to the separate catalog page. Includes Spanish/English switching, GEO structured data, Maps directions, and one original UENI store link.\n\nMedia reuse: both pages reference the already published, publicly accessible merchant Site assets at https://botanica-luz-geo-review-20261028.brawny-rhino-7751.chatgpt.site/assets/ . No media are re-uploaded or recompressed. This public asset host must remain available.\n\nValidation: compared against main (733a7ff): only the two added merchant files, no changes to SJ, furniture, other clients, shared pages, or Render configuration. Tested cross-origin storefront photo (1448px), video playback (512x910), separate catalog navigation, image enlargement, and language switching. Render is configured to automatically deploy main.",
+      "url": "https://github.com/bb369tech/bb369-platform/pull/34"
+    }
+  ],
+  "runtimeBuild": [
+    {
+      "head_sha": "29bd38e66e825176e60b99c1218c56a4df41e04e",
+      "status": "completed",
+      "conclusion": "success",
+      "details_url": "https://dash.cloudflare.com/21815359350c01efa36d84059cf18a3b/workers/services/view/bb369tech-corporate-website/production/previews/design-premium-visual-baseline-2026/builds/9d7c7256-5776-48d0-b65a-72c3520b89ea",
+      "summary": "\nBuild ID: [9d7c7256-5776-48d0-b65a-72c3520b89ea](https://dash.cloudflare.com/21815359350c01efa36d84059cf18a3b/workers/services/view/bb369tech-corporate-website/production/previews/design-premium-visual-baseline-2026/builds/9d7c7256-5776-48d0-b65a-72c3520b89ea)\nScript: [bb369tech-corporate-website](https://dash.cloudflare.com/21815359350c01efa36d84059cf18a3b/workers/services/view/bb369tech-corporate-website/production)\n"
+    }
+  ]
+}

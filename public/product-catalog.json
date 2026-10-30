@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "products": [
+    {
+      "id": "business-website",
+      "status": "service",
+      "public_display_approved": true,
+      "publication_evidence": "Existing public Products page at 7e4f49566eaef1759d2bd60c5822661687ef29e9",
+      "content": {
+        "en": {
+          "status_label": "Available through service",
+          "name": "Business Website System",
+          "description": "Structured business websites for service presentation, multilingual public information, locations, products, contact, and ongoing updates.",
+          "entry_label": "Learn more →",
+          "entry_url": "/services.html",
+          "entry_lang": null,
+          "audience_label": "For:",
+          "audience": "Businesses and local merchants"
+        },
+        "zh": {
+          "status_label": "通过服务提供",
+          "name": "企业网站系统",
+          "description": "提供业务展示、多语言公开信息、服务区域、产品介绍、客户联系入口和后续更新支持。",
+          "entry_label": "了解服务 →",
+          "entry_url": "/zh/services.html",
+          "entry_lang": null,
+          "audience_label": "适用客户:",
+          "audience": "企业与本地商家"
+        }
+      }
+    },
+    {
+      "id": "source-tools",
+      "status": "public_unconfirmed",
+      "public_display_approved": true,
+      "publication_evidence": "Existing public Products page at 7e4f49566eaef1759d2bd60c5822661687ef29e9",
+      "content": {
+        "en": {
+          "status_label": "Public tools · Availability to confirm",
+          "name": "Source & Attribution Tools",
+          "description": "Public tools for source identity, version clarity, attribution, and verifiable digital records.",
+          "entry_label": "Open tools →",
+          "entry_url": "https://tools.bb369tech.com",
+          "entry_lang": null,
+          "audience_label": "For:",
+          "audience": "Publishers working with public source records"
+        },
+        "zh": {
+          "status_label": "公开工具 · 可用性需确认",
+          "name": "来源与归属工具",
+          "description": "帮助说明来源身份、版本信息、内容归属及可核实的数字记录。",
+          "entry_label": "打开工具（英文） →",
+          "entry_url": "https://tools.bb369tech.com",
+          "entry_lang": "en",
+          "audience_label": "适用客户:",
+          "audience": "需要公开来源记录的内容发布者"
+        }
+      }
+    },
+    {
+      "id": "school-support",
+      "status": "pilot",
+      "public_display_approved": true,
+      "publication_evidence": "Existing public Products page at 7e4f49566eaef1759d2bd60c5822661687ef29e9",
+      "content": {
+        "en": {
+          "status_label": "Pilot consultation · Not a general release",
+          "name": "School Recruitment Support",
+          "description": "Course presentation, inquiries, appointments, admissions follow-up, and enrollment support for schools.",
+          "entry_label": "Discuss a pilot →",
+          "entry_url": "/contact.html",
+          "entry_lang": null,
+          "audience_label": "For:",
+          "audience": "Schools and education providers"
+        },
+        "zh": {
+          "status_label": "试点咨询 · 非正式发布",
+          "name": "学校招生支持",
+          "description": "面向学校的课程展示、咨询登记、预约及招生跟进支持，具体范围需要确认。",
+          "entry_label": "咨询试点 →",
+          "entry_url": "/zh/contact.html",
+          "entry_lang": null,
+          "audience_label": "适用客户:",
+          "audience": "学校与教育机构"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "forms": [
+    {
+      "buttonEnabled": true,
+      "capture": {
+        "calls": 1,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic isolated release review",
+          "name": "Isolated QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "lang": "en",
+      "mode": "success",
+      "name": "",
+      "status": "Your inquiry was submitted. Please check your inbox and spam folder for a confirmation."
+    },
+    {
+      "buttonEnabled": true,
+      "capture": {
+        "calls": 2,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic isolated release review",
+          "name": "Isolated QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "lang": "en",
+      "mode": "server-error",
+      "name": "Isolated QA",
+      "status": "We could not confirm the result. Please email business@bb369tech.com to avoid a duplicate submission."
+    },
+    {
+      "buttonEnabled": true,
+      "capture": {
+        "calls": 3,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic isolated release review",
+          "name": "Isolated QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "lang": "en",
+      "mode": "false-success",
+      "name": "Isolated QA",
+      "status": "We could not confirm the result. Please email business@bb369tech.com to avoid a duplicate submission."
+    },
+    {
+      "buttonEnabled": true,
+      "capture": {
+        "calls": 4,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic isolated release review",
+          "name": "Isolated QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "lang": "en",
+      "mode": "network-error",
+      "name": "Isolated QA",
+      "status": "We could not confirm the result. Please email business@bb369tech.com to avoid a duplicate submission."
+    },
+    {
+      "buttonEnabled": true,
+      "capture": {
+        "calls": 1,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic isolated release review",
+          "name": "Isolated QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "lang": "zh",
+      "mode": "success",
+      "name": "",
+      "status": "咨询已提交。请留意确认邮件及垃圾邮件文件夹。"
+    },
+    {
+      "buttonEnabled": true,
+      "capture": {
+        "calls": 2,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic isolated release review",
+          "name": "Isolated QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "lang": "zh",
+      "mode": "server-error",
+      "name": "Isolated QA",
+      "status": "未能确认提交结果。请发送邮件至 business@bb369tech.com，避免重复提交。"
+    },
+    {
+      "buttonEnabled": true,
+      "capture": {
+        "calls": 3,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic isolated release review",
+          "name": "Isolated QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "lang": "zh",
+      "mode": "false-success",
+      "name": "Isolated QA",
+      "status": "未能确认提交结果。请发送邮件至 business@bb369tech.com，避免重复提交。"
+    },
+    {
+      "buttonEnabled": true,
+      "capture": {
+        "calls": 4,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic isolated release review",
+          "name": "Isolated QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "lang": "zh",
+      "mode": "network-error",
+      "name": "Isolated QA",
+      "status": "未能确认提交结果。请发送邮件至 business@bb369tech.com，避免重复提交。"
+    }
+  ],
+  "mobile": [
+    {
+      "h1": 1,
+      "menuPresent": true,
+      "overflow": false,
+      "path": "/",
+      "url": "https://design-premium-visual-baseline-2026-bb369tech-corporate-website.bb369-ai.workers.dev/",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "menuPresent": true,
+      "overflow": false,
+      "path": "/zh/index.html",
+      "url": "https://design-premium-visual-baseline-2026-bb369tech-corporate-website.bb369-ai.workers.dev/zh/index.html",
+      "width": 375
+    },
+    {
+      "h1": 1,
+      "menuPresent": true,
+      "overflow": false,
+      "path": "/projects.html",
+      "url": "https://design-premium-visual-baseline-2026-bb369tech-corporate-website.bb369-ai.workers.dev/projects.html",
+      "width": 375
+    },
+    {
+      "h1": 1,
+      "menuPresent": true,
+      "overflow": false,
+      "path": "/zh/projects.html",
+      "url": "https://design-premium-visual-baseline-2026-bb369tech-corporate-website.bb369-ai.workers.dev/zh/projects.html",
+      "width": 375
+    },
+    {
+      "h1": 1,
+      "menuPresent": true,
+      "overflow": false,
+      "path": "/contact.html",
+      "url": "https://design-premium-visual-baseline-2026-bb369tech-corporate-website.bb369-ai.workers.dev/contact.html",
+      "width": 375
+    },
+    {
+      "h1": 1,
+      "menuPresent": true,
+      "overflow": false,
+      "path": "/zh/contact.html",
+      "url": "https://design-premium-visual-baseline-2026-bb369tech-corporate-website.bb369-ai.workers.dev/zh/contact.html",
+      "width": 375
+    }
+  ],
+  "aliases": [
+    {
+      "actual": "https://design-premium-visual-baseline-2026-bb369tech-corporate-website.bb369-ai.workers.dev/company.html",
+      "h1": "Technology that supports real organizations.",
+      "requested": "/credentials.html"
+    },
+    {
+      "actual": "https://design-premium-visual-baseline-2026-bb369tech-corporate-website.bb369-ai.workers.dev/resources.html",
+      "h1": "Official company and product references.",
+      "requested": "/media.html"
+    },
+    {
+      "actual": "https://design-premium-visual-baseline-2026-bb369tech-corporate-website.bb369-ai.workers.dev/resources.html",
+      "h1": "Official company and product references.",
+      "requested": "/news.html"
+    },
+    {
+      "actual": "https://design-premium-visual-baseline-2026-bb369tech-corporate-website.bb369-ai.workers.dev/contact.html",
+      "h1": "Tell us what the business needs to accomplish.",
+      "requested": "/partners.html"
+    },
+    {
+      "actual": "https://design-premium-visual-baseline-2026-bb369tech-corporate-website.bb369-ai.workers.dev/products.html",
+      "h1": "Practical products for customer and business work.",
+      "requested": "/platforms.html"
+    },
+    {
+      "actual": "https://design-premium-visual-baseline-2026-bb369tech-corporate-website.bb369-ai.workers.dev/company.html",
+      "h1": "Technology that supports real organizations.",
+      "requested": "/why-us.html"
+    }
+  ],
+  "menuOpenClose": "PASS",
+  "languageRoundtrip": "PASS",
+  "websiteConsoleErrors": [],
+  "custom404": {
+    "canonical": "https://bb369tech.com/404.html",
+    "h1": "Page not found",
+    "returnHome": "/",
+    "robots": "noindex,follow",
+    "title": "Page Not Found | BB369TECH",
+    "url": "https://design-premium-visual-baseline-2026-bb369tech-corporate-website.bb369-ai.workers.dev/__release-check-404-browser-29bd38e6"
+  },
+  "realPosts": 0
+}
