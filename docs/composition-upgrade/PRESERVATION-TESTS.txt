@@ -1,0 +1,8 @@
+test_all_runtime_files_and_original_html (__main__.Composition.test_all_runtime_files_and_original_html) ... ok
+test_mirror_and_static_templates (__main__.Composition.test_mirror_and_static_templates) ... ok
+test_no_new_runtime_or_external_asset (__main__.Composition.test_no_new_runtime_or_external_asset) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.339s
+
+OK

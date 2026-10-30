@@ -1,0 +1,8 @@
+test_all_original_files_preserved (__main__.PatchPreservation.test_all_original_files_preserved) ... ok
+test_new_stylesheet_is_local_and_non_destructive (__main__.PatchPreservation.test_new_stylesheet_is_local_and_non_destructive) ... ok
+test_root_mirror (__main__.PatchPreservation.test_root_mirror) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.346s
+
+OK
