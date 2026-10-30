@@ -1,0 +1,399 @@
+{
+  "interaction": [
+    {
+      "path": "/",
+      "opened": "true",
+      "closed": "false"
+    },
+    {
+      "path": "/zh/index.html",
+      "opened": "true",
+      "closed": "false"
+    },
+    {
+      "path": "/projects.html",
+      "filter": "all",
+      "pressed": "true",
+      "visible": 3
+    },
+    {
+      "path": "/projects.html",
+      "filter": "home-improvement",
+      "pressed": "true",
+      "visible": 1
+    },
+    {
+      "path": "/projects.html",
+      "filter": "retail",
+      "pressed": "true",
+      "visible": 2
+    },
+    {
+      "path": "/zh/projects.html",
+      "filter": "all",
+      "pressed": "true",
+      "visible": 3
+    },
+    {
+      "path": "/zh/projects.html",
+      "filter": "home-improvement",
+      "pressed": "true",
+      "visible": 1
+    },
+    {
+      "path": "/zh/projects.html",
+      "filter": "retail",
+      "pressed": "true",
+      "visible": 2
+    }
+  ],
+  "keyboardForms": [
+    {
+      "lang": "en",
+      "emptyBlocked": true
+    },
+    {
+      "capture": {
+        "calls": 1,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic local-only visual patch test",
+          "name": "Isolated CSS QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "inputPreserved": false,
+      "lang": "en",
+      "mode": "success",
+      "status": "Your inquiry was submitted. Please check your inbox and spam folder for a confirmation."
+    },
+    {
+      "capture": {
+        "calls": 2,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic local-only visual patch test",
+          "name": "Isolated CSS QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "inputPreserved": true,
+      "lang": "en",
+      "mode": "server-error",
+      "status": "We could not confirm the result. Please email business@bb369tech.com to avoid a duplicate submission."
+    },
+    {
+      "capture": {
+        "calls": 3,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic local-only visual patch test",
+          "name": "Isolated CSS QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "inputPreserved": true,
+      "lang": "en",
+      "mode": "false-success",
+      "status": "We could not confirm the result. Please email business@bb369tech.com to avoid a duplicate submission."
+    },
+    {
+      "capture": {
+        "calls": 4,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic local-only visual patch test",
+          "name": "Isolated CSS QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "inputPreserved": true,
+      "lang": "en",
+      "mode": "network-error",
+      "status": "We could not confirm the result. Please email business@bb369tech.com to avoid a duplicate submission."
+    },
+    {
+      "lang": "zh",
+      "emptyBlocked": true
+    },
+    {
+      "capture": {
+        "calls": 1,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic local-only visual patch test",
+          "name": "Isolated CSS QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "inputPreserved": false,
+      "lang": "zh",
+      "mode": "success",
+      "status": "咨询已提交。请留意确认邮件及垃圾邮件文件夹。"
+    },
+    {
+      "capture": {
+        "calls": 2,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic local-only visual patch test",
+          "name": "Isolated CSS QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "inputPreserved": true,
+      "lang": "zh",
+      "mode": "server-error",
+      "status": "未能确认提交结果。请发送邮件至 business@bb369tech.com，避免重复提交。"
+    },
+    {
+      "capture": {
+        "calls": 3,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic local-only visual patch test",
+          "name": "Isolated CSS QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "inputPreserved": true,
+      "lang": "zh",
+      "mode": "false-success",
+      "status": "未能确认提交结果。请发送邮件至 business@bb369tech.com，避免重复提交。"
+    },
+    {
+      "capture": {
+        "calls": 4,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic local-only visual patch test",
+          "name": "Isolated CSS QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "inputPreserved": true,
+      "lang": "zh",
+      "mode": "network-error",
+      "status": "未能确认提交结果。请发送邮件至 business@bb369tech.com，避免重复提交。"
+    }
+  ],
+  "pointerForms": [
+    {
+      "capture": {
+        "calls": 1,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic local-only visual patch test",
+          "name": "Isolated CSS QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "inputPreserved": false,
+      "lang": "en",
+      "mode": "success",
+      "status": "Your inquiry was submitted. Please check your inbox and spam folder for a confirmation."
+    },
+    {
+      "capture": {
+        "calls": 2,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic local-only visual patch test",
+          "name": "Isolated CSS QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "inputPreserved": true,
+      "lang": "en",
+      "mode": "server-error",
+      "status": "We could not confirm the result. Please email business@bb369tech.com to avoid a duplicate submission."
+    },
+    {
+      "capture": {
+        "calls": 3,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic local-only visual patch test",
+          "name": "Isolated CSS QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "inputPreserved": true,
+      "lang": "en",
+      "mode": "false-success",
+      "status": "We could not confirm the result. Please email business@bb369tech.com to avoid a duplicate submission."
+    },
+    {
+      "capture": {
+        "calls": 4,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic local-only visual patch test",
+          "name": "Isolated CSS QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "inputPreserved": true,
+      "lang": "en",
+      "mode": "network-error",
+      "status": "We could not confirm the result. Please email business@bb369tech.com to avoid a duplicate submission."
+    },
+    {
+      "capture": {
+        "calls": 1,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic local-only visual patch test",
+          "name": "Isolated CSS QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "inputPreserved": false,
+      "lang": "zh",
+      "mode": "success",
+      "status": "咨询已提交。请留意确认邮件及垃圾邮件文件夹。"
+    },
+    {
+      "capture": {
+        "calls": 2,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic local-only visual patch test",
+          "name": "Isolated CSS QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "inputPreserved": true,
+      "lang": "zh",
+      "mode": "server-error",
+      "status": "未能确认提交结果。请发送邮件至 business@bb369tech.com，避免重复提交。"
+    },
+    {
+      "capture": {
+        "calls": 3,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic local-only visual patch test",
+          "name": "Isolated CSS QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "inputPreserved": true,
+      "lang": "zh",
+      "mode": "false-success",
+      "status": "未能确认提交结果。请发送邮件至 business@bb369tech.com，避免重复提交。"
+    },
+    {
+      "capture": {
+        "calls": 4,
+        "fields": {
+          "company": "",
+          "email": "qa@example.invalid",
+          "inquiryType": "Business website",
+          "message": "Synthetic local-only visual patch test",
+          "name": "Isolated CSS QA",
+          "privacyConsent": "accepted",
+          "topic": "Business website"
+        },
+        "method": "POST",
+        "networkRequests": 0
+      },
+      "enabled": true,
+      "inputPreserved": true,
+      "lang": "zh",
+      "mode": "network-error",
+      "status": "未能确认提交结果。请发送邮件至 business@bb369tech.com，避免重复提交。"
+    }
+  ],
+  "realNetworkRequests": 0
+}
