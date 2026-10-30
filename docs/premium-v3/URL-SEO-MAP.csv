@@ -1,5 +1,5 @@
 path,canonical,robots,local_file,production_http,preview_http,metadata
-/404.html,https://bb369tech.com/404.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
+/404.html,https://bb369tech.com/404.html,"noindex,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
 /company.html,https://bb369tech.com/company.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
 /contact.html,https://bb369tech.com/contact.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS
 /faq.html,https://bb369tech.com/faq.html,"index,follow",PASS,NOT VERIFIED,NOT VERIFIED,PASS

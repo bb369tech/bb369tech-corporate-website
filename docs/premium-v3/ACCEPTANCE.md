@@ -16,7 +16,7 @@ Date: October 30, 2026 (Los Angeles). **RELEASE HOLD — not approved for produc
 | Check | Result | Scope |
 |---|---|---|
 | Main/design comparison | PASS | design contained latest main, 58 commits ahead, 0 behind at start |
-| Metadata preservation | PASS | Titles, descriptions, robots, canonicals and JSON-LD byte content compared against design baseline |
+| Metadata preservation | PASS | Titles, descriptions, canonicals and JSON-LD content compared against design baseline; 404 robots corrected from inherited index,follow to noindex,follow |
 | Page and link checks | PASS | 21 full HTML pages, local links, anchors and assets; retained historical paths |
 | XML sitemap | PASS | Original entries retained; 3 real Chinese page URLs added |
 | Reciprocal hreflang | PASS | Every declared target exists and links back |
@@ -36,7 +36,7 @@ Date: October 30, 2026 (Los Angeles). **RELEASE HOLD — not approved for produc
 | Live production homepage | PASS | Browser showed existing old homepage, not this isolated candidate |
 | Live case page | PASS | Browser opened named client site; public footer attributes technology services to BB369TECH |
 | Production HTTP status map | NOT VERIFIED | Executor requests returned 403; not evidence that the user-facing site is broken. Browser homepage loaded, but numeric HTTP map unavailable |
-| Missing URL real HTTP 404 | NOT VERIFIED | Existing 404 file/noindex retained; Cloudflare edge status needs preview verification |
+| Missing URL real HTTP 404 | NOT VERIFIED | Existing 404 file retained and robots corrected to noindex,follow; Cloudflare edge status needs preview verification |
 | Full HTML standards validator | NOT VERIFIED | Parsed structurally and checked semantic contracts; no complete standards-validator run |
 | Full browser console / page performance | NOT VERIFIED | No invented Lighthouse score or zero-console claim |
 | Real mail/CRM end-to-end | NOT VERIFIED | No real submission or customer records written |

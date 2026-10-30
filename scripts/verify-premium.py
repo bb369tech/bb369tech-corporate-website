@@ -21,7 +21,7 @@ for p in sorted(P.rglob('*.html')):
  require(len(d.xpath('//h1'))==1,rel+': H1')
  if b is not None:
   for xp in ['//title/text()','//meta[@name="description"]/@content','//meta[@name="robots"]/@content','//link[@rel="canonical"]/@href','//script[@type="application/ld+json"]/text()']:
-   require(d.xpath(xp)==b.xpath(xp),rel+': protected metadata '+xp)
+   require(d.xpath(xp)==b.xpath(xp) or (rel=='404.html' and xp=='//meta[@name="robots"]/@content' and d.xpath(xp)==['noindex,follow']),rel+': protected metadata '+xp)
   require(signature(d)==signature(b),rel+': form contract')
   if p.name in ['privacy.html','terms.html','security.html']:
    require(d.xpath('string(//main)')==b.xpath('string(//main)'),rel+': legal body')
@@ -54,6 +54,6 @@ require(urls(old(P/'sitemap.xml'))<=urls((P/'sitemap.xml').read_text()),'sitemap
 for u in urls((P/'sitemap.xml').read_text()):
  q=P/urlsplit(u).path.lstrip('/');q=q/'index.html' if q.is_dir() else q;require(q.is_file(),'sitemap broken '+u)
 with (D/'URL-SEO-MAP.csv').open('w') as f:
- w=csv.DictWriter(f,fieldnames=rows[0].keys());w.writeheader();w.writerows(rows)
+ w=csv.DictWriter(f,fieldnames=rows[0].keys(),lineterminator='\n');w.writeheader();w.writerows(rows)
 result={'status':'FAIL' if fail else 'PASS','html_pages':len(rows),'failures':fail,'form_posts':0,'production_http':'NOT VERIFIED','cloudflare_preview':'NOT VERIFIED'}
 (D/'static-results.json').write_text(json.dumps(result,indent=2,ensure_ascii=False));print(json.dumps(result,indent=2,ensure_ascii=False));raise SystemExit(bool(fail))
