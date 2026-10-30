@@ -63,3 +63,27 @@ body{letter-spacing:-.008em;-webkit-font-smoothing:antialiased}
 @media(max-width:380px){.brand{font-size:.98rem}.nav{gap:6px}.menu{padding:8px 9px}.locale-link{padding:6px 8px}.visual-flow{gap:4px}}
 
 /* Preview build trigger 2026-10-30: no visual or behavior changes. */
+
+/* 2026 design system: consistent editorial hierarchy on every public page */
+:root{--navy:#101e37;--blue:#165cce;--ink:#16243a;--muted:#617188;--line:#e7ebf2;--soft:#f7f9fc;--radius:20px;--max:1200px}
+body{background:#fff;color:var(--ink);font-size:16px;line-height:1.65}
+.header{border-bottom:1px solid #e8edf4;box-shadow:0 3px 18px rgba(15,31,57,.025)}
+.nav{min-height:82px}.links{font-weight:600}.links a:not(.nav-cta){padding:8px 0}
+.nav-cta{background:#145dcf!important;color:white!important;padding:11px 22px;border-radius:999px}
+.page-hero{padding:115px 0 100px;background:radial-gradient(ellipse at 85% 0%,#e7f1ff 0%,transparent 42%),linear-gradient(130deg,#f8fbff,#fff 68%);border-bottom:1px solid #edf1f6}
+.page-hero .container{max-width:1200px}.page-hero h1{max-width:930px;font-size:clamp(2.9rem,5.3vw,5.1rem);line-height:1.09;letter-spacing:-.055em;text-wrap:balance}
+.page-hero p{max-width:720px;font-size:1.15rem;line-height:1.75}
+.eyebrow,.label{color:#2364c3;letter-spacing:.14em;font-weight:750}
+.section-head{max-width:780px}.section-head h2{line-height:1.12;letter-spacing:-.045em}
+section:not(.hero):not(.page-hero){scroll-margin-top:85px}
+.card{border:1px solid #e7ecf4;border-radius:22px;padding:32px;background:linear-gradient(155deg,#fff,#fcfdff);box-shadow:0 10px 34px rgba(13,32,65,.045)}
+.card h3{font-size:1.3rem;letter-spacing:-.028em}.card p{line-height:1.72}
+.card-link{font-weight:750;text-underline-offset:4px}.card-link:hover{text-decoration:underline}
+.grid-3,.grid-2{gap:22px}.pill{border-radius:8px;letter-spacing:.01em}
+.prose{font-size:1.04rem;line-height:1.83}.prose h2{letter-spacing:-.035em}
+.facts{gap:12px}.fact{background:#f7faff}.fact strong{font-size:1.08rem}
+.cta{background:linear-gradient(120deg,#0a1a33,#173d70);box-shadow:0 20px 45px rgba(10,26,51,.1)}
+.footer{background:#0a172b}.footer-grid{gap:40px}
+.contact-form{box-shadow:0 16px 55px rgba(12,34,69,.07)}.contact-form input:focus,.contact-form textarea:focus,.contact-form select:focus{outline:2px solid #3578db;outline-offset:1px}
+@media(max-width:900px){.page-hero{padding:75px 0 65px}.nav{min-height:74px}.links{top:74px}.grid-3{gap:15px}}
+@media(max-width:620px){.page-hero{padding:62px 0 50px}.page-hero h1{font-size:clamp(2.45rem,10vw,3.25rem)}.page-hero p{font-size:1rem}.card{padding:23px}.nav{min-height:70px}.links{top:70px}.footer-grid{gap:20px}}
