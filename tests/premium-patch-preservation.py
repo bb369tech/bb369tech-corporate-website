@@ -10,7 +10,7 @@ class PatchPreservation(unittest.TestCase):
   for name in files:
    before=subprocess.check_output(['git','show',BASE+':'+name],cwd=R);p=R/name
    self.assertTrue(p.is_file(),name)
-   after=p.read_bytes()
+   after=p.read_bytes();moved=False
    if name.endswith('.html') and LINK.encode() in after:
     self.assertEqual(after.count(LINK.encode()),1,name)
     stripped=after.replace(LINK.encode(),b'')
@@ -20,11 +20,11 @@ class PatchPreservation(unittest.TestCase):
       for m in re.finditer(rb'<div\b[^>]*>|</div>',data[start:]):
        depth+=-1 if m.group().startswith(b'</') else 1
        if not depth:return data[start:start+m.end()]
-     block=take_visual(before);self.assertEqual(take_visual(stripped),block,name)
+     moved=True;block=take_visual(before);self.assertEqual(take_visual(stripped),block,name)
      self.assertEqual(stripped.replace(block,b'',1),before.replace(block,b'',1),name)
     else:self.assertEqual(stripped,before,name)
     self.assertIn(b'/assets/site.css">'+LINK.encode(),after,name)
-    rows.append([name,'PRESERVED','All original HTML bytes; one additional stylesheet link only'])
+    rows.append([name,'RELOCATED' if moved else 'PRESERVED','Interface block relocated intact; all other original bytes and added stylesheet link preserved' if moved else 'All original HTML bytes; one additional stylesheet link only'])
    else:
     self.assertEqual(after,before,name);rows.append([name,'PRESERVED','Byte-identical'])
  def test_root_mirror(self):
@@ -39,6 +39,6 @@ if __name__=='__main__':
  result=unittest.TextTestRunner(verbosity=2).run(unittest.defaultTestLoader.loadTestsFromTestCase(PatchPreservation))
  out=R/'docs/composition-upgrade/patch-baseline-check';out.mkdir(exist_ok=True)
  with (out/'BEFORE-AFTER.csv').open('w') as f:
-  w=csv.writer(f);w.writerow(['path','status','evidence']);w.writerows(rows)
+  w=csv.writer(f,lineterminator="\n");w.writerow(['path','status','evidence']);w.writerows(rows)
  (out/'PRESERVATION-RESULTS.json').write_text(json.dumps({'baseline':BASE,'original_files_checked':len(rows),'html_link_only':sum('HTML' in x[2]for x in rows),'removed':0 if result.wasSuccessful()else'CHECK FAILURE','status':'PASS'if result.wasSuccessful()else'FAIL'},indent=2))
  raise SystemExit(not result.wasSuccessful())

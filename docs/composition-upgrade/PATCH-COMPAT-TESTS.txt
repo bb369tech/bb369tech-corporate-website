@@ -3,6 +3,6 @@ test_new_stylesheet_is_local_and_non_destructive (__main__.PatchPreservation.tes
 test_root_mirror (__main__.PatchPreservation.test_root_mirror) ... ok
 
 ----------------------------------------------------------------------
-Ran 3 tests in 0.346s
+Ran 3 tests in 0.321s
 
 OK
