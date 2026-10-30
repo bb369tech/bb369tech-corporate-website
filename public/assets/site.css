@@ -21,7 +21,7 @@ section {padding:92px 0}
 .header {position:sticky;top:0;z-index:50;background:rgba(255,255,255,.96);border-bottom:1px solid var(--line);backdrop-filter:blur(16px)}
 .nav {min-height:80px;display:flex;align-items:center;gap:30px}
 .brand {display:inline-flex;align-items:center;gap:10px;font-size:18px;font-weight:750;letter-spacing:-.6px;white-space:nowrap}
-.mark {display:inline-grid;place-items:center;width:32px;height:32px;flex:none;border:1px solid #d1e3f9;border-radius:9px;background:#f2f7ff;color:var(--blue);font-size:11px;font-weight:800;letter-spacing:-.3px}
+.mark {display:inline-grid;place-items:center;width:32px;height:32px;flex:none;border:0;border-radius:0;background:transparent url("/assets/bb-brand-mark.png") center/contain no-repeat;color:transparent;overflow:hidden;font-size:11px;font-weight:800;letter-spacing:-.3px}
 .links {display:flex;align-items:center;gap:25px;margin-left:auto;font-size:13px;font-weight:550}
 .links a {padding:8px 0}
 .links .active {color:var(--blue)}
