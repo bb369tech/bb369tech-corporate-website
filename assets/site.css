@@ -61,3 +61,5 @@ body{letter-spacing:-.008em;-webkit-font-smoothing:antialiased}
 @media(max-width:900px){.nav{position:relative}.links.open{box-shadow:0 24px 42px rgba(9,28,54,.12)}.visual-host{width:100%;max-width:660px}.hero-grid{gap:32px}}
 @media(max-width:620px){.nav{min-height:70px}.links{top:70px}.brand{font-size:1.08rem}.mark{width:34px;height:34px}.locale-link{font-size:.8rem;padding:6px 10px}.visual-host{padding:16px!important}.trust-visual-top{flex-wrap:wrap}.visual-demo{margin-left:0}.visual-flow span{font-size:.68rem}.visual-flow b{font-size:.72rem}.actions{gap:10px}.actions .btn{max-width:100%}.hero p{font-size:1rem}}
 @media(max-width:380px){.brand{font-size:.98rem}.nav{gap:6px}.menu{padding:8px 9px}.locale-link{padding:6px 8px}.visual-flow{gap:4px}}
+
+/* Preview build trigger 2026-10-30: no visual or behavior changes. */
