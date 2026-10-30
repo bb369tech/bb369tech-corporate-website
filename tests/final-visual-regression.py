@@ -35,7 +35,8 @@ class FinalVisual(unittest.TestCase):
    self.assertEqual(x['state'],'published');self.assertTrue(x['public_display_approved']);self.assertTrue((P/x['image'].lstrip('/')).is_file())
    self.assertNotRegex(x['name'].lower(),r'demo|supermarket|antique')
   for rel in ['projects.html','zh/projects.html']:
-   self.assertEqual(len(pages[rel].xpath('//button[@data-project-filter]')),3)
+   self.assertEqual(set(pages[rel].xpath('//button[@data-project-filter]/@data-project-filter')), {'all'} | {x['category'] for x in records})
+   self.assertEqual(len(pages[rel].xpath('//article[@data-project-category]')),len(records))
  def test_existing_forms_and_business_scripts_unchanged(self):
   for rel in ['contact.html','zh/contact.html']:
    prev=d(old(rel));doc=pages[rel]

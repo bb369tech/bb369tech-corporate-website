@@ -45,7 +45,12 @@ class StableAssets(unittest.TestCase):
     rows.append([name,'PRESERVED','Original HTML byte-for-byte; static generation markers added only'])
    elif name in DIRECTORIES:
     ga=marked(a,b'<!-- projects:directory:start -->',b'<!-- projects:directory:end -->');gb=marked(b,b'<!-- projects:directory:start -->',b'<!-- projects:directory:end -->')
-    self.assertEqual(a.replace(ga,b'',1),b.replace(gb,b'',1),name)
+    clean=b.replace(gb,b'',1)
+    for cat in [b'real-estate',b'education']:
+     clean=re.sub(rb'<button type="button" data-project-filter="'+cat+rb'" aria-pressed="false">[^<]+</button>',b'',clean)
+    old_count=re.search(rb'(<p class="project-count"[^>]*>).*?(</p>)',a).group()
+    clean=re.sub(rb'(<p class="project-count"[^>]*>).*?(</p>)',lambda m:old_count,clean)
+    self.assertEqual(a.replace(ga,b'',1),clean,name)
     for card in re.findall(rb'<article class="project-card".*?</article>',ga):self.assertIn(card,gb,name)
     rows.append([name,'PRESERVED','All original case cards and surrounding HTML retained; directory permits approved additions'])
    elif name in {'projects.json','public/projects.json'}:
@@ -59,6 +64,12 @@ class StableAssets(unittest.TestCase):
     addition=b" elif path in ['assets/corporate-contact.js','public/assets/corporate-contact.js']:\n  original=__import__('runpy').run_path(str(R/'scripts/contact-status-preservation.py'))['original_contact_status'](after.decode()).encode()\n  status='IMPROVED' if original==before else 'REMOVED';reason='Exact additive saved/pending notification status; all original script bytes and form contract retained'\n"
     self.assertEqual(b.count(addition),1);self.assertEqual(a,b.replace(addition,b'',1),name)
     rows.append([name,'IMPROVED','Exact additional audited contact-status comparison; all original checks retained'])
+   elif name in {'assets/site.css','public/assets/site.css'}:
+    original=re.search(rb'^\.mark \{[^\n]+',a,re.M).group()
+    approved=b'.mark {display:inline-grid;place-items:center;width:32px;height:32px;flex:none;border:0;border-radius:0;background:transparent url("/assets/bb-brand-mark.png") center/contain no-repeat;color:transparent;overflow:hidden;font-size:11px;font-weight:800;letter-spacing:-.3px}'
+    self.assertEqual(b.count(approved),1)
+    self.assertEqual(a,b.replace(approved,original,1),name)
+    rows.append([name,'IMPROVED','User-approved transparent BB mark only; every other CSS byte retained'])
    elif name in STYLE or name=='scripts/render-projects.py':rows.append([name,'IMPROVED','Unified stable visual system or bounded featured-case selection'])
    else:self.assertEqual(a,b,name);rows.append([name,'PRESERVED','Byte-identical'])
  def test_all_page_metadata_and_forms(self):
