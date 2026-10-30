@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "id": "sj",
+      "name": "SJ Home Improvement",
+      "category": "home-improvement",
+      "industry": {
+        "en": "Home improvement",
+        "zh": "家装与门窗"
+      },
+      "url": "https://platform.bb369tech.com/clients/sj-blinds-closets-windows/",
+      "image": "/assets/project-sj.jpg",
+      "languages": {
+        "en": "English / Chinese",
+        "zh": "英语 / 中文"
+      },
+      "scope": {
+        "en": "Product categories, standard and custom options, and product inquiry entry points.",
+        "zh": "产品分类、标准与定制选项，以及产品询价入口。"
+      },
+      "features": {
+        "en": [
+          "Product presentation",
+          "Bilingual experience",
+          "Inquiry pathways"
+        ],
+        "zh": [
+          "产品展示",
+          "中英文体验",
+          "询价入口"
+        ]
+      },
+      "state": "published",
+      "featured": true,
+      "public_display_approved": true
+    },
+    {
+      "id": "botanica",
+      "name": "Botánica de la Luz",
+      "category": "retail",
+      "industry": {
+        "en": "Specialty retail",
+        "zh": "特色零售"
+      },
+      "url": "https://platform.bb369tech.com/clients/botanica-de-la-luz/",
+      "image": "/assets/botanica-website.jpg",
+      "languages": {
+        "en": "Spanish / English",
+        "zh": "西班牙语 / 英语"
+      },
+      "scope": {
+        "en": "Store presentation, a separate product catalog, language switching and visit information.",
+        "zh": "商家介绍、独立商品目录、语言切换与到店信息。"
+      },
+      "features": {
+        "en": [
+          "Business website",
+          "Product catalog",
+          "Visit & contact"
+        ],
+        "zh": [
+          "商家网站",
+          "商品目录",
+          "到店与联系"
+        ]
+      },
+      "state": "published",
+      "featured": true,
+      "public_display_approved": true
+    },
+    {
+      "id": "rosa",
+      "name": "Productos La Rosa",
+      "category": "retail",
+      "industry": {
+        "en": "Retail",
+        "zh": "零售"
+      },
+      "url": "https://platform.bb369tech.com/clients/productos-la-rosa/",
+      "image": "/assets/project-rosa.jpg",
+      "languages": {
+        "en": "Spanish / English",
+        "zh": "西班牙语 / 英语"
+      },
+      "scope": {
+        "en": "Bilingual product information, store details and a consent-based product inquiry form.",
+        "zh": "双语商品介绍、门店信息，以及需隐私同意的商品咨询表单。"
+      },
+      "features": {
+        "en": [
+          "Product information",
+          "Bilingual page",
+          "Inquiry form"
+        ],
+        "zh": [
+          "商品介绍",
+          "双语页面",
+          "咨询表单"
+        ]
+      },
+      "state": "published",
+      "featured": true,
+      "public_display_approved": true
+    }
+  ]
+}

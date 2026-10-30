@@ -1,0 +1,25 @@
+before_url,after_url,status,canonical_before,canonical_after,existing_redirect,numeric_http
+/404.html,/404.html,PRESERVED,https://bb369tech.com/404.html,https://bb369tech.com/404.html,,NOT VERIFIED
+/company.html,/company.html,PRESERVED,https://bb369tech.com/company.html,https://bb369tech.com/company.html,,NOT VERIFIED
+/contact.html,/contact.html,PRESERVED,https://bb369tech.com/contact.html,https://bb369tech.com/contact.html,,NOT VERIFIED
+/credentials.html,/credentials.html,PRESERVED,https://bb369tech.com/company.html,https://bb369tech.com/company.html,0; url=/company.html,NOT VERIFIED
+/faq.html,/faq.html,PRESERVED,https://bb369tech.com/faq.html,https://bb369tech.com/faq.html,,NOT VERIFIED
+/index.html,/index.html,PRESERVED,https://bb369tech.com/,https://bb369tech.com/,,NOT VERIFIED
+/industries.html,/industries.html,PRESERVED,https://bb369tech.com/industries.html,https://bb369tech.com/industries.html,,NOT VERIFIED
+/media.html,/media.html,PRESERVED,https://bb369tech.com/resources.html,https://bb369tech.com/resources.html,0; url=/resources.html,NOT VERIFIED
+/news.html,/news.html,PRESERVED,https://bb369tech.com/resources.html,https://bb369tech.com/resources.html,0; url=/resources.html,NOT VERIFIED
+/partners.html,/partners.html,PRESERVED,https://bb369tech.com/contact.html,https://bb369tech.com/contact.html,0; url=/contact.html,NOT VERIFIED
+/platforms.html,/platforms.html,PRESERVED,https://bb369tech.com/products.html,https://bb369tech.com/products.html,0; url=/products.html,NOT VERIFIED
+/privacy.html,/privacy.html,PRESERVED,https://bb369tech.com/privacy.html,https://bb369tech.com/privacy.html,,NOT VERIFIED
+/products.html,/products.html,PRESERVED,https://bb369tech.com/products.html,https://bb369tech.com/products.html,,NOT VERIFIED
+/projects.html,/projects.html,PRESERVED,https://bb369tech.com/projects.html,https://bb369tech.com/projects.html,,NOT VERIFIED
+/resources.html,/resources.html,PRESERVED,https://bb369tech.com/resources.html,https://bb369tech.com/resources.html,,NOT VERIFIED
+/security.html,/security.html,PRESERVED,https://bb369tech.com/security.html,https://bb369tech.com/security.html,,NOT VERIFIED
+/services.html,/services.html,PRESERVED,https://bb369tech.com/services.html,https://bb369tech.com/services.html,,NOT VERIFIED
+/terms.html,/terms.html,PRESERVED,https://bb369tech.com/terms.html,https://bb369tech.com/terms.html,,NOT VERIFIED
+/why-us.html,/why-us.html,PRESERVED,https://bb369tech.com/company.html,https://bb369tech.com/company.html,0; url=/company.html,NOT VERIFIED
+/zh/contact.html,/zh/contact.html,PRESERVED,https://bb369tech.com/zh/contact.html,https://bb369tech.com/zh/contact.html,,NOT VERIFIED
+/zh/faq.html,/zh/faq.html,PRESERVED,https://bb369tech.com/zh/faq.html,https://bb369tech.com/zh/faq.html,,NOT VERIFIED
+/zh/index.html,/zh/index.html,PRESERVED,https://bb369tech.com/zh/index.html,https://bb369tech.com/zh/index.html,,NOT VERIFIED
+/zh/industries.html,/zh/industries.html,PRESERVED,https://bb369tech.com/zh/industries.html,https://bb369tech.com/zh/industries.html,,NOT VERIFIED
+/zh/services.html,/zh/services.html,PRESERVED,https://bb369tech.com/zh/services.html,https://bb369tech.com/zh/services.html,,NOT VERIFIED

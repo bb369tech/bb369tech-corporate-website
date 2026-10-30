@@ -1,0 +1,20 @@
+✔ English and Chinese status recovery never resets failed input (11.543558ms)
+✔ network ambiguity uses contact fallback instead of encouraging retry (0.716044ms)
+✔ published script mirror matches source (0.408855ms)
+ℹ tests 3
+ℹ suites 0
+ℹ pass 3
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 106.290034
+✔ original topic-only form is rejected before email; corrected fields are accepted (2.702629ms)
+ℹ tests 1
+ℹ suites 0
+ℹ pass 1
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 102.600425
