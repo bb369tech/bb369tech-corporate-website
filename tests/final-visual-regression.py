@@ -43,7 +43,10 @@ class FinalVisual(unittest.TestCase):
   for rel in ['assets/site.js','assets/corporate-contact.js','assets/corporate-contact.css','robots.txt','data/organization.json','products.json']:
    self.assertEqual((P/rel).read_text(),old(rel),rel)
   wrangler=subprocess.check_output(['git','show',BASE+':wrangler.jsonc'],cwd=R,text=True)
-  self.assertEqual((R/'wrangler.jsonc').read_text(),wrangler)
+  before=json.loads(wrangler); after=json.loads((R/'wrangler.jsonc').read_text())
+  self.assertEqual(after['assets'].pop('html_handling'),'none')
+  self.assertEqual(after['assets'].pop('not_found_handling'),'404-page')
+  self.assertEqual(after,before)
  def test_legal_bodies_unchanged(self):
   for rel in ['privacy.html','terms.html','security.html']:self.assertEqual(maintext(pages[rel]),maintext(d(old(rel))))
  def test_internal_links_and_language_targets(self):
