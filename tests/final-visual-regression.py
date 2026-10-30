@@ -47,6 +47,9 @@ class FinalVisual(unittest.TestCase):
   self.assertEqual(after['assets'].pop('html_handling'),'none')
   self.assertEqual(after['assets'].pop('not_found_handling'),'404-page')
   self.assertEqual(after,before)
+  rules=(P/'_redirects').read_text()
+  self.assertIn('/ /index.html 200',rules)
+  self.assertIn('/zh/ /zh/index.html 200',rules)
  def test_legal_bodies_unchanged(self):
   for rel in ['privacy.html','terms.html','security.html']:self.assertEqual(maintext(pages[rel]),maintext(d(old(rel))))
  def test_internal_links_and_language_targets(self):

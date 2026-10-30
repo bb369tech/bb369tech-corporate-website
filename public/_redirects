@@ -1,0 +1,3 @@
+# Preserve existing directory entry URLs without changing their canonical paths.
+/ /index.html 200
+/zh/ /zh/index.html 200
