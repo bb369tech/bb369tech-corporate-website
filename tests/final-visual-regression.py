@@ -2,7 +2,7 @@
 from pathlib import Path
 from lxml import html
 from urllib.parse import urlsplit,unquote
-import json,subprocess,unittest,xml.etree.ElementTree as ET
+import json,subprocess,unittest,runpy,xml.etree.ElementTree as ET
 R=Path(__file__).resolve().parents[1];P=R/'public';BASE='49c4bf9ce734b44694d1f33fcf85973cbe8b60d8'
 def old(rel):return subprocess.check_output(['git','show',BASE+':public/'+rel],cwd=R,text=True)
 def d(s):return html.document_fromstring(s)
@@ -41,7 +41,9 @@ class FinalVisual(unittest.TestCase):
    prev=d(old(rel));doc=pages[rel]
    self.assertEqual([html.tostring(x) for x in prev.xpath('//form')],[html.tostring(x) for x in doc.xpath('//form')])
   for rel in ['assets/site.js','assets/corporate-contact.js','assets/corporate-contact.css','robots.txt','data/organization.json','products.json']:
-   self.assertEqual((P/rel).read_text(),old(rel),rel)
+   current=(P/rel).read_text()
+   if rel=='assets/corporate-contact.js':current=runpy.run_path(str(R/'scripts/contact-status-preservation.py'))['original_contact_status'](current)
+   self.assertEqual(current,old(rel),rel)
   wrangler=subprocess.check_output(['git','show',BASE+':wrangler.jsonc'],cwd=R,text=True)
   before=json.loads(wrangler); after=json.loads((R/'wrangler.jsonc').read_text())
   self.assertEqual(after['assets'].pop('html_handling'),'none')

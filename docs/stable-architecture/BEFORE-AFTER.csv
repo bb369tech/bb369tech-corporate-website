@@ -12,7 +12,7 @@ VERSION.md,PRESERVED,Byte-identical
 _redirects,PRESERVED,Byte-identical
 assets/botanica-website.jpg,PRESERVED,Byte-identical
 assets/corporate-contact.css,PRESERVED,Byte-identical
-assets/corporate-contact.js,PRESERVED,Byte-identical
+assets/corporate-contact.js,IMPROVED,Exact additive saved/pending status; every original byte preserved
 assets/logo-512.png,PRESERVED,Byte-identical
 assets/logo.svg,PRESERVED,Byte-identical
 assets/premium-polish.css,IMPROVED,Unified stable visual system or bounded featured-case selection
@@ -43,7 +43,7 @@ public/CNAME,PRESERVED,Byte-identical
 public/_redirects,PRESERVED,Byte-identical
 public/assets/botanica-website.jpg,PRESERVED,Byte-identical
 public/assets/corporate-contact.css,PRESERVED,Byte-identical
-public/assets/corporate-contact.js,PRESERVED,Byte-identical
+public/assets/corporate-contact.js,IMPROVED,Exact additive saved/pending status; every original byte preserved
 public/assets/logo-512.png,PRESERVED,Byte-identical
 public/assets/logo.svg,PRESERVED,Byte-identical
 public/assets/premium-polish.css,IMPROVED,Unified stable visual system or bounded featured-case selection
@@ -86,7 +86,7 @@ public/zh/projects.html,PRESERVED,All original case cards and surrounding HTML r
 public/zh/services.html,RELOCATED,All old Services bytes unchanged; complete original homepage interface added as visible HTML
 resources.html,PRESERVED,Byte-identical
 robots.txt,PRESERVED,Byte-identical
-scripts/audit-semantic-preservation.py,PRESERVED,Byte-identical
+scripts/audit-semantic-preservation.py,IMPROVED,Exact additional audited contact-status comparison; all original checks retained
 scripts/build-qa-contact.py,PRESERVED,Byte-identical
 scripts/final-details-audit.py,PRESERVED,Byte-identical
 scripts/final-release-http.py,PRESERVED,Byte-identical

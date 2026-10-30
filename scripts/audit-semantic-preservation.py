@@ -83,6 +83,9 @@ for path in paths:
   a=geturls(before);b=geturls(after);status='IMPROVED' if a<=b else 'REMOVED';reason='All existing sitemap URLs retained; real Chinese counterparts added'
  elif path in ['assets/site.css','public/assets/site.css']:
   status='IMPROVED';reason='Authorized visual design-system consolidation; semantic HTML and functional regression verified separately'
+ elif path in ['assets/corporate-contact.js','public/assets/corporate-contact.js']:
+  original=__import__('runpy').run_path(str(R/'scripts/contact-status-preservation.py'))['original_contact_status'](after.decode()).encode()
+  status='IMPROVED' if original==before else 'REMOVED';reason='Exact additive saved/pending notification status; all original script bytes and form contract retained'
  elif path in ['assets/site.js','public/assets/site.js']:
   status='IMPROVED';reason='Original menu/year behavior retained; keyboard Escape and aria state improvements validated on 12 bilingual routes'
  else:status='REMOVED';reason='Unexpected protected asset or machine-readable content change'

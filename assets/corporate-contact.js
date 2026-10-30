@@ -30,9 +30,15 @@
           error.status = response.status;
           throw error;
         }
+        if (data.dataSaved === true && data.notificationStatus === 'pending') {
+          status.textContent = zh
+            ? '咨询已保存，邮件通知暂未发出。团队将人工跟进，请勿重复提交。'
+            : 'Your inquiry has been saved. Email notifications are pending. Our team will follow up; please do not resubmit.';
+        } else {
         status.textContent = zh
           ? '咨询已提交。请留意确认邮件及垃圾邮件文件夹。'
           : 'Your inquiry was submitted. Please check your inbox and spam folder for a confirmation.';
+        }
         form.reset();
       } catch (error) {
         status.setAttribute('role', 'alert');

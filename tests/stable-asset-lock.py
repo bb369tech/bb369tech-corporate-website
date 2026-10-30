@@ -52,6 +52,13 @@ class StableAssets(unittest.TestCase):
     before=json.loads(a)['projects'];after=json.loads(b)['projects']
     for item in before:self.assertIn(item,after,name)
     rows.append([name,'PRESERVED','All original case records retained; approved append-only additions allowed'])
+   elif name in {'assets/corporate-contact.js','public/assets/corporate-contact.js'}:
+    original=runpy.run_path(str(R/'scripts/contact-status-preservation.py'))['original_contact_status'](b.decode()).encode()
+    self.assertEqual(a,original,name);rows.append([name,'IMPROVED','Exact additive saved/pending status; every original byte preserved'])
+   elif name=='scripts/audit-semantic-preservation.py':
+    addition=b" elif path in ['assets/corporate-contact.js','public/assets/corporate-contact.js']:\n  original=__import__('runpy').run_path(str(R/'scripts/contact-status-preservation.py'))['original_contact_status'](after.decode()).encode()\n  status='IMPROVED' if original==before else 'REMOVED';reason='Exact additive saved/pending notification status; all original script bytes and form contract retained'\n"
+    self.assertEqual(b.count(addition),1);self.assertEqual(a,b.replace(addition,b'',1),name)
+    rows.append([name,'IMPROVED','Exact additional audited contact-status comparison; all original checks retained'])
    elif name in STYLE or name=='scripts/render-projects.py':rows.append([name,'IMPROVED','Unified stable visual system or bounded featured-case selection'])
    else:self.assertEqual(a,b,name);rows.append([name,'PRESERVED','Byte-identical'])
  def test_all_page_metadata_and_forms(self):

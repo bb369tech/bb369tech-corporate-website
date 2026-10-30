@@ -35,7 +35,7 @@
 | 视觉层及精选选择模板 | 单一视觉层收敛，精选固定最多3个 | IMPROVED |
 | 原资产删除 | 无 | 0 REMOVED |
 
-正式 main／生产观察基线的2,409条语义记录也再次通过：2,051 PRESERVED、333 RELOCATED、25 IMPROVED、0 REMOVED（包含镜像和重复观察，不是2,409个独立资产）。
+正式 main／生产观察基线的2,409条语义记录也再次通过：2,049 PRESERVED、333 RELOCATED、27 IMPROVED、0 REMOVED（包含镜像和重复观察，不是2,409个独立资产）。
 
 108个原运行文件：97 PRESERVED、8 RELOCATED（四对移动来源/目标含镜像）、3 IMPROVED（两份CSS和案例生成器）。新增公共目录资料及脚本属于扩展设施，不冒充旧资产。详表 BEFORE-AFTER.csv。
 
@@ -57,3 +57,5 @@
 只更新现有设计分支和 Cloudflare 独立预览。预览：https://design-premium-visual-baseline-2026-bb369tech-corporate-website.bb369-ai.workers.dev/
 
 用户审阅通过并明确批准后才可正式发布。保持 RELEASE HOLD。需要回退时，在设计分支 revert 本次稳定架构提交，恢复7e4f495候选；不要重置/强推 main，也不修改DNS或生产流量。
+
+本轮咨询状态补充：原 HTML、SEO、表单和接口地址不变。仅在原提交成功提示外围增加已审的中英文“CRM已保存、通知待处理”分支；移除该精确新增分支后，与旧业务脚本字节一致。详见 scripts/contact-status-preservation.py 与新增状态测试。
