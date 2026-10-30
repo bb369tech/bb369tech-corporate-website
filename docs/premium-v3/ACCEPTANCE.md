@@ -42,12 +42,20 @@ Date: October 30, 2026 (Los Angeles). **RELEASE HOLD — not approved for produc
 | Real mail/CRM end-to-end | NOT VERIFIED | No real submission or customer records written |
 | Existing chatbot | NOT VERIFIED | No robot embed/AI endpoint exists in inspected current baseline. No replacement or unverified AI integration added |
 | External tools/platform accounts/payments | NOT VERIFIED | Links retained; no transactions, account changes or backend changes |
-| Cloudflare independent preview | NOT VERIFIED | Pending existing Worker build/deployment evidence and browser access |
+| Cloudflare independent preview | PASS | Candidate 2ce4aa810d36ef91ec5499783336dc8aca008ced built successfully; live branch preview opened and verified with new headline, supporting sections and real case screenshot |
 
 ## Remaining release gates
 
-Obtain and open the actual Cloudflare candidate URL, verify edge HTTP/404/redirect behavior, inspect console and performance, and run an explicitly isolated browser-level mocked success/failure form test. The existing legacy regression suite asserts old additive-only byte/word invariants and is retained; it is not presented as passing this redesign. `scripts/verify-premium.py` is the task-specific preservation check.
+Verify edge HTTP/404/redirect behavior, inspect console and performance, and run an explicitly isolated browser-level mocked success/failure form test. The existing legacy regression suite asserts old additive-only byte/word invariants and is retained; it is not presented as passing this redesign. `scripts/verify-premium.py` is the task-specific preservation check.
 
 No production merge, deployment, DNS, traffic, domain, payment or customer-data changes were performed. No fees or new infrastructure were created.
 
 See PREIMPLEMENTATION.md, EXISTING-DIFF.txt, baseline-inventory.json, URL-SEO-MAP.csv, static-results.json, production-http.json, CONTENT-TEMPLATES.md and ROLLBACK.md.
+
+## Verified Cloudflare candidate
+
+Shipping-code commit: `2ce4aa810d36ef91ec5499783336dc8aca008ced`.
+
+Preview opened in the live browser: https://design-premium-visual-baseline-2026-bb369tech-corporate-website.bb369-ai.workers.dev/
+
+Build ID: `1e4c4424-d0e3-4fa6-9870-0cb81e742a93`. Cloudflare check completed with success and its details URL explicitly identifies the branch preview. This is a preview, not production approval.
