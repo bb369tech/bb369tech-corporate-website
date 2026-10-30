@@ -1,0 +1,35 @@
+{
+  "source": "Live cloud browser DOM checks in same-origin responsive frames",
+  "widths": [
+    390,
+    768,
+    1440
+  ],
+  "page_paths": [
+    "/",
+    "/zh/index.html",
+    "/services.html",
+    "/products.html",
+    "/projects.html",
+    "/company.html",
+    "/contact.html",
+    "/zh/services.html",
+    "/zh/products.html",
+    "/zh/projects.html",
+    "/zh/company.html",
+    "/zh/contact.html",
+    "/industries.html",
+    "/zh/industries.html",
+    "/resources.html",
+    "/faq.html",
+    "/zh/faq.html",
+    "/privacy.html",
+    "/terms.html",
+    "/security.html"
+  ],
+  "checks": 60,
+  "horizontal_overflow_failures": 0,
+  "h1_failures": 0,
+  "menu_language_checks": 12,
+  "real_posts": 0
+}
