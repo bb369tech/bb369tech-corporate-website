@@ -50,6 +50,8 @@ class FinalVisual(unittest.TestCase):
   rules=(P/'_redirects').read_text()
   self.assertIn('/ /index.html 200',rules)
   self.assertIn('/zh/ /zh/index.html 200',rules)
+ def test_original_collapsed_text_and_links_visible(self):
+  subprocess.run(['python',str(R/'scripts/final-details-audit.py')],cwd=R,check=True,capture_output=True)
  def test_legal_bodies_unchanged(self):
   for rel in ['privacy.html','terms.html','security.html']:self.assertEqual(maintext(pages[rel]),maintext(d(old(rel))))
  def test_internal_links_and_language_targets(self):

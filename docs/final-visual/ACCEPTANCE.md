@@ -1,3 +1,5 @@
+> 后续状态：本文件为前轮本地验收快照。2026-10-30 最终 Cloudflare 运行验收及发布结论见 [Final Release Review](../final-release-review/REPORT.md)。
+
 # Final visual and case-integration candidate
 
 Date: October 30, 2026, Los Angeles. Base: `49c4bf9ce734b44694d1f33fcf85973cbe8b60d8`.

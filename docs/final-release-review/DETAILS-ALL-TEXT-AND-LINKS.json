@@ -1,0 +1,931 @@
+{
+  "baseline": "49c4bf9ce734b44694d1f33fcf85973cbe8b60d8",
+  "rows": [
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Simple solutions for growing businesses.",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Services",
+      "after_pages": [
+        "/privacy.html",
+        "/services.html",
+        "/products.html",
+        "/industries.html",
+        "/faq.html",
+        "/terms.html",
+        "/contact.html",
+        "/company.html",
+        "/index.html",
+        "/resources.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Simple solutions for growing businesses.",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Start with the service that fits your current business needs. Detailed scope and terms are confirmed before engagement.",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Website design",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Business Website",
+      "after_pages": [
+        "/services.html",
+        "/products.html",
+        "/industries.html",
+        "/company.html",
+        "/index.html",
+        "/projects.html",
+        "/resources.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Professional business websites with clear services, mobile-friendly pages, and contact options.",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Explore website service →",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Ongoing service",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Get More Customers",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Digital support focused on helping potential customers discover your business and make inquiries. Results are not guaranteed.",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Explore ongoing support →",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "By consultation",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Custom Business Solutions",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Discuss digital requirements that do not fit a standard website or ongoing service package.",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Request a consultation →",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Public products and services",
+      "after_pages": [
+        "/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Products",
+      "after_pages": [
+        "/services.html",
+        "/products.html",
+        "/industries.html",
+        "/faq.html",
+        "/404.html",
+        "/terms.html",
+        "/company.html",
+        "/index.html",
+        "/resources.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Public products and services",
+      "after_pages": [
+        "/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Clear offerings with a defined purpose and a direct way to learn more.",
+      "after_pages": [
+        "/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Available service",
+      "after_pages": [
+        "/industries.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Business Website System",
+      "after_pages": [
+        "/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Structured company websites with clear service pages, multilingual presentation, contact paths, and ongoing maintenance.",
+      "after_pages": [
+        "/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "View service →",
+      "after_pages": [
+        "/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Public tools",
+      "after_pages": [
+        "/products.html",
+        "/resources.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Source & Attribution Tools",
+      "after_pages": [
+        "/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Public utilities for source identity, version information, and attribution records.",
+      "after_pages": [
+        "/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Open tools →",
+      "after_pages": [
+        "/products.html",
+        "/resources.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Pilot",
+      "after_pages": [
+        "/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "School Recruitment Support",
+      "after_pages": [
+        "/products.html",
+        "/contact.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Course presentation, inquiry entry, appointment support, and enrollment follow-up for schools.",
+      "after_pages": [
+        "/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Discuss a pilot →",
+      "after_pages": [
+        "/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "From public presentation to daily operations",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "What we do",
+      "after_pages": [
+        "/index.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "From public presentation to daily operations",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "BB369TECH combines product development with implementation support for organizations that need useful, maintainable digital systems.",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Business websites",
+      "after_pages": [
+        "/services.html",
+        "/products.html",
+        "/industries.html",
+        "/company.html",
+        "/index.html",
+        "/projects.html",
+        "/resources.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Company, service, location, product, and contact pages that are easy to understand and maintain.",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Customer access",
+      "after_pages": [
+        "/services.html",
+        "/index.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Clear request forms, appointment paths, contact options, and service information for customers.",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Multilingual presentation",
+      "after_pages": [
+        "/services.html",
+        "/products.html",
+        "/resources.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "visible_text",
+      "before": "Clear public information for businesses serving customers across languages and markets.",
+      "after_pages": [
+        "/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "link",
+      "before": "https://platform.bb369tech.com/business-website/",
+      "text": "Explore website service →",
+      "after_pages": [
+        "/services.html",
+        "/zh/services.html",
+        "/zh/products.html"
+      ],
+      "status": "PRESERVED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "link",
+      "before": "https://platform.bb369tech.com/business-website/#monthly-support",
+      "text": "Explore ongoing support →",
+      "after_pages": [
+        "/services.html",
+        "/zh/services.html"
+      ],
+      "status": "PRESERVED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "link",
+      "before": "https://platform.bb369tech.com/merchant/",
+      "text": "Request a consultation →",
+      "after_pages": [
+        "/services.html",
+        "/contact.html",
+        "/zh/services.html",
+        "/zh/contact.html"
+      ],
+      "status": "PRESERVED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "link",
+      "before": "/services.html",
+      "text": "View service →",
+      "after_pages": [
+        "/services.html",
+        "/products.html",
+        "/industries.html",
+        "/contact.html",
+        "/index.html",
+        "/resources.html"
+      ],
+      "status": "PRESERVED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "link",
+      "before": "https://tools.bb369tech.com",
+      "text": "Open tools →",
+      "after_pages": [
+        "/products.html",
+        "/resources.html",
+        "/zh/products.html"
+      ],
+      "status": "PRESERVED"
+    },
+    {
+      "before_page": "public/index.html",
+      "kind": "link",
+      "before": "/contact.html",
+      "text": "Discuss a pilot →",
+      "after_pages": [
+        "/services.html",
+        "/products.html",
+        "/industries.html",
+        "/index.html",
+        "/projects.html",
+        "/resources.html"
+      ],
+      "status": "PRESERVED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "选择适合你的服务",
+      "after_pages": [
+        "/zh/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "企业服务",
+      "after_pages": [
+        "/zh/services.html",
+        "/zh/index.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "选择适合你的服务",
+      "after_pages": [
+        "/zh/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "企业网站",
+      "after_pages": [
+        "/zh/services.html",
+        "/zh/products.html",
+        "/zh/industries.html",
+        "/zh/faq.html",
+        "/zh/company.html",
+        "/zh/index.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "清楚展示企业、产品、服务和联系方式，支持手机访问；具体范围以书面约定为准。",
+      "after_pages": [
+        "/zh/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "查看建站服务（英文） →",
+      "after_pages": [
+        "/zh/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "持续业务支持",
+      "after_pages": [
+        "/zh/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "持续维护公开业务信息与网站内容，支持客户发现和咨询；不保证搜索排名、询盘或成交。",
+      "after_pages": [
+        "/zh/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "查看持续支持（英文） →",
+      "after_pages": [
+        "/zh/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "定制业务方案",
+      "after_pages": [
+        "/zh/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "标准服务之外的数字化需求，可先咨询，再确认范围、价格、条款和时间。",
+      "after_pages": [
+        "/zh/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "提交需求 →",
+      "after_pages": [
+        "/zh/services.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "产品与公开工具",
+      "after_pages": [
+        "/zh/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "产品",
+      "after_pages": [
+        "/zh/services.html",
+        "/zh/products.html",
+        "/zh/industries.html",
+        "/zh/contact.html",
+        "/zh/company.html",
+        "/zh/index.html",
+        "/zh/projects.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "产品与公开工具",
+      "after_pages": [
+        "/zh/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "企业网站系统",
+      "after_pages": [
+        "/zh/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "企业与服务页面、多语言展示、客户联系入口及持续维护。",
+      "after_pages": [
+        "/zh/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "查看服务 →",
+      "after_pages": [
+        "/zh/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "来源与归属工具",
+      "after_pages": [
+        "/zh/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "用于公开来源身份、版本信息和归属记录的实用工具。",
+      "after_pages": [
+        "/zh/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "打开工具（英文） →",
+      "after_pages": [
+        "/zh/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "学校招生支持",
+      "after_pages": [
+        "/zh/services.html",
+        "/zh/products.html",
+        "/zh/contact.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "课程展示、咨询、预约及招生跟进支持；试点范围需另行确认。",
+      "after_pages": [
+        "/zh/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "咨询试点 →",
+      "after_pages": [
+        "/zh/products.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "服务不同类型的真实企业",
+      "after_pages": [
+        "/zh/industries.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "服务不同类型的真实企业",
+      "after_pages": [
+        "/zh/industries.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "本地商家与零售",
+      "after_pages": [
+        "/zh/industries.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "清楚说明商品、营业地点、可用服务及联系方式。",
+      "after_pages": [
+        "/zh/industries.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "了解行业 →",
+      "after_pages": [
+        "/zh/industries.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "家装与房地产",
+      "after_pages": [
+        "/zh/industries.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "展示项目与服务，为潜在客户提供咨询入口。",
+      "after_pages": [
+        "/zh/industries.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "了解行业 →",
+      "after_pages": [
+        "/zh/industries.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "教育与专业服务",
+      "after_pages": [
+        "/zh/industries.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "展示课程、服务对象、预约及联系信息。",
+      "after_pages": [
+        "/zh/industries.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "visible_text",
+      "before": "查看项目（英文） →",
+      "after_pages": [
+        "/zh/industries.html"
+      ],
+      "status": "RELOCATED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "link",
+      "before": "https://platform.bb369tech.com/business-website/",
+      "text": "查看建站服务（英文） →",
+      "after_pages": [
+        "/services.html",
+        "/zh/services.html",
+        "/zh/products.html"
+      ],
+      "status": "PRESERVED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "link",
+      "before": "https://platform.bb369tech.com/business-website/#monthly-support",
+      "text": "查看持续支持（英文） →",
+      "after_pages": [
+        "/services.html",
+        "/zh/services.html"
+      ],
+      "status": "PRESERVED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "link",
+      "before": "https://platform.bb369tech.com/merchant/",
+      "text": "提交需求 →",
+      "after_pages": [
+        "/services.html",
+        "/contact.html",
+        "/zh/services.html",
+        "/zh/contact.html"
+      ],
+      "status": "PRESERVED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "link",
+      "before": "https://platform.bb369tech.com/business-website/",
+      "text": "查看服务 →",
+      "after_pages": [
+        "/services.html",
+        "/zh/services.html",
+        "/zh/products.html"
+      ],
+      "status": "PRESERVED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "link",
+      "before": "https://tools.bb369tech.com",
+      "text": "打开工具（英文） →",
+      "after_pages": [
+        "/products.html",
+        "/resources.html",
+        "/zh/products.html"
+      ],
+      "status": "PRESERVED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "link",
+      "before": "/zh/contact.html",
+      "text": "咨询试点 →",
+      "after_pages": [
+        "/zh/services.html",
+        "/zh/products.html",
+        "/zh/industries.html",
+        "/zh/index.html",
+        "/zh/projects.html"
+      ],
+      "status": "PRESERVED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "link",
+      "before": "/zh/industries.html",
+      "text": "了解行业 →",
+      "after_pages": [
+        "/zh/industries.html"
+      ],
+      "status": "PRESERVED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "link",
+      "before": "/zh/industries.html",
+      "text": "了解行业 →",
+      "after_pages": [
+        "/zh/industries.html"
+      ],
+      "status": "PRESERVED"
+    },
+    {
+      "before_page": "public/zh/index.html",
+      "kind": "link",
+      "before": "/projects.html",
+      "text": "查看项目（英文） →",
+      "after_pages": [
+        "/index.html",
+        "/zh/industries.html"
+      ],
+      "status": "PRESERVED"
+    }
+  ],
+  "missing": []
+}

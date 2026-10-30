@@ -1,0 +1,257 @@
+[
+  {
+    "path": "public/privacy.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/services.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/security.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com",
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/products.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/credentials.html",
+    "emails": [],
+    "mailto": [],
+    "form_actions": []
+  },
+  {
+    "path": "public/industries.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/faq.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/platforms.html",
+    "emails": [],
+    "mailto": [],
+    "form_actions": []
+  },
+  {
+    "path": "public/404.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/terms.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/contact.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com",
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": [
+      "https://bb369-sendgrid-api.onrender.com/api/corporate-inquiry"
+    ]
+  },
+  {
+    "path": "public/company.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/index.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com",
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/media.html",
+    "emails": [],
+    "mailto": [],
+    "form_actions": []
+  },
+  {
+    "path": "public/news.html",
+    "emails": [],
+    "mailto": [],
+    "form_actions": []
+  },
+  {
+    "path": "public/projects.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/partners.html",
+    "emails": [],
+    "mailto": [],
+    "form_actions": []
+  },
+  {
+    "path": "public/resources.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/why-us.html",
+    "emails": [],
+    "mailto": [],
+    "form_actions": []
+  },
+  {
+    "path": "public/zh/services.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/zh/products.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/zh/industries.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/zh/faq.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/zh/contact.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com",
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": [
+      "https://bb369-sendgrid-api.onrender.com/api/corporate-inquiry"
+    ]
+  },
+  {
+    "path": "public/zh/company.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/zh/index.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com",
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  },
+  {
+    "path": "public/zh/projects.html",
+    "emails": [
+      "business@bb369tech.com"
+    ],
+    "mailto": [
+      "mailto:business@bb369tech.com"
+    ],
+    "form_actions": []
+  }
+]
