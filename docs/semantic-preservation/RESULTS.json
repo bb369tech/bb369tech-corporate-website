@@ -4,9 +4,9 @@
   "source_documents_root_and_public": 36,
   "preservation_rows": 2409,
   "counts": {
-    "PRESERVED": 2054,
+    "PRESERVED": 2051,
     "IMPROVED": 25,
-    "RELOCATED": 330
+    "RELOCATED": 333
   },
   "missing_assets_or_semantics": [],
   "production_main_mismatches": [],

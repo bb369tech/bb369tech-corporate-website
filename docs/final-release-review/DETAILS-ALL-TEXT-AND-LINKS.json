@@ -380,8 +380,7 @@
       "kind": "visible_text",
       "before": "Customer access",
       "after_pages": [
-        "/services.html",
-        "/index.html"
+        "/services.html"
       ],
       "status": "RELOCATED"
     },
@@ -506,8 +505,7 @@
       "kind": "visible_text",
       "before": "企业服务",
       "after_pages": [
-        "/zh/services.html",
-        "/zh/index.html"
+        "/zh/services.html"
       ],
       "status": "RELOCATED"
     },

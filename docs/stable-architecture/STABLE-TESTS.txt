@@ -1,0 +1,16 @@
+test_all_original_runtime_assets (__main__.StableAssets.test_all_original_runtime_assets) ... ok
+test_all_page_metadata_and_forms (__main__.StableAssets.test_all_page_metadata_and_forms) ... ok
+test_featured_cases_bounded_and_publication_gated (__main__.StableAssets.test_featured_cases_bounded_and_publication_gated) ... ok
+test_missing_translation_or_unverified_release_rejected (__main__.StableAssets.test_missing_translation_or_unverified_release_rejected) ... ok
+test_new_catalog_renders_exact_old_cards (__main__.StableAssets.test_new_catalog_renders_exact_old_cards) ... ok
+test_new_product_uses_existing_template_only (__main__.StableAssets.test_new_product_uses_existing_template_only) ... ok
+test_original_case_and_product_records (__main__.StableAssets.test_original_case_and_product_records) ... ok
+test_shared_css_has_no_remote_runtime (__main__.StableAssets.test_shared_css_has_no_remote_runtime) ... ok
+test_static_templates_and_mirrors (__main__.StableAssets.test_static_templates_and_mirrors) ... ok
+test_unapproved_or_internal_products_rejected (__main__.StableAssets.test_unapproved_or_internal_products_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.427s
+
+OK
+Project templates PASS

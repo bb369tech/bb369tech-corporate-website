@@ -1,3 +1,5 @@
+> 本文件为前轮历史快照。最新稳定版、资产归类及运行验收见 [稳定架构报告](../stable-architecture/REPORT.md)。
+
 # BB369TECH — Final Semantic Asset & Release Review
 
 日期：2026-10-30（America/Los_Angeles）。结论：**候选通过本轮四项验收；RELEASE HOLD，等待人工审阅，不合并、不发布生产。**

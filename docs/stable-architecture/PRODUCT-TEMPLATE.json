@@ -1,0 +1,10 @@
+{
+  "id": "REPLACE-WITH-CONFIRMED-PUBLIC-ID",
+  "status": "pilot",
+  "public_display_approved": false,
+  "publication_evidence": "",
+  "content": {
+    "en": {"status_label": "Pilot consultation · Not a general release", "name": "", "description": "", "entry_label": "Discuss a pilot →", "entry_url": "/contact.html", "entry_lang": null, "audience_label": "For:", "audience": ""},
+    "zh": {"status_label": "试点咨询 · 非正式发布", "name": "", "description": "", "entry_label": "咨询试点 →", "entry_url": "/zh/contact.html", "entry_lang": null, "audience_label": "适用客户:", "audience": ""}
+  }
+}
