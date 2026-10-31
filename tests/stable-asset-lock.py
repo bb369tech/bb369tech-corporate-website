@@ -32,6 +32,12 @@ class StableAssets(unittest.TestCase):
     target=name.replace('index.html','services.html');t=(R/target).read_bytes()
     self.assertIn(v,t,target);self.assertIn(i,t,target)
     rows.append([name,'RELOCATED','Original interface and index retained byte-for-byte on matching Services; all other original bytes unchanged'])
+   elif name in {'faq.html','zh/faq.html','public/faq.html','public/zh/faq.html'}:
+    extra=marked(b,b'<!-- expanded-faq:start -->',b'<!-- expanded-faq:end -->')
+    self.assertEqual(a,b.replace(extra,b'',1),name)
+    doc=html.fromstring(extra);self.assertEqual(len(doc.xpath('//article')),23)
+    self.assertFalse(doc.xpath('//details|//script|//form'))
+    rows.append([name,'IMPROVED','23 visible bilingual answers appended; every original FAQ byte retained'])
    elif name in SERVICES:
     x=marked(b,b'<!-- retained-workspace:start -->',b'<!-- retained-workspace:end -->');self.assertEqual(a,b.replace(x,b'',1),name)
     d=html.fromstring(b);self.assertEqual(len(d.xpath('//section[@class="architecture-example"]//div[@class="solution-visual"]')),1)
