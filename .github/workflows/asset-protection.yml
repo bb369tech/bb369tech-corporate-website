@@ -22,7 +22,7 @@ jobs:
     timeout-minutes: 15
     env:
       PYTHONDONTWRITEBYTECODE: '1'
-      BB369_QA_ARTIFACT_DIR: ${{ runner.temp }}/bb369-acceptance
+      BB369_QA_ARTIFACT_DIR: /tmp/bb369-acceptance
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
@@ -91,6 +91,6 @@ jobs:
         if: always()
         with:
           name: asset-acceptance-${{ github.sha }}
-          path: ${{ runner.temp }}/bb369-acceptance
+          path: ${{ env.BB369_QA_ARTIFACT_DIR }}
           if-no-files-found: error
           retention-days: 14
