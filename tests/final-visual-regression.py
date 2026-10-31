@@ -43,6 +43,10 @@ class FinalVisual(unittest.TestCase):
    self.assertEqual([html.tostring(x) for x in prev.xpath('//form')],[html.tostring(x) for x in doc.xpath('//form')])
   for rel in ['assets/site.js','assets/corporate-contact.js','assets/corporate-contact.css','robots.txt','data/organization.json','products.json']:
    current=(P/rel).read_text()
+   if rel=='data/organization.json':
+    self.assertEqual(current,subprocess.check_output(['git','show',BASE+':data/organization.json'],cwd=R,text=True))
+    self.assertEqual((R/'docs/two-blocker-resolution-20261030/organization-public-before-367cf29.json').read_text(),old(rel))
+    continue
    if rel=='assets/corporate-contact.js':current=runpy.run_path(str(R/'scripts/contact-status-preservation.py'))['original_contact_status'](current)
    self.assertEqual(current,old(rel),rel)
   wrangler=subprocess.check_output(['git','show',BASE+':wrangler.jsonc'],cwd=R,text=True)

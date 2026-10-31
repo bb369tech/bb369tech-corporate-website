@@ -66,9 +66,17 @@ class StableAssets(unittest.TestCase):
    elif name in {'assets/corporate-contact.js','public/assets/corporate-contact.js'}:
     original=runpy.run_path(str(R/'scripts/contact-status-preservation.py'))['original_contact_status'](b.decode()).encode()
     self.assertEqual(a,original,name);rows.append([name,'IMPROVED','Exact additive saved/pending status; every original byte preserved'])
+   elif name=='public/data/organization.json':
+    archive=R/'docs/two-blocker-resolution-20261030/organization-public-before-367cf29.json'
+    self.assertEqual(archive.read_bytes(),a,name)
+    self.assertEqual(b,old('data/organization.json'),name)
+    self.assertEqual(len(json.loads(b)['@graph']),4)
+    rows.append([name,'IMPROVED','Exact live historical four-node graph restored; original public bytes archived unchanged'])
    elif name=='scripts/audit-semantic-preservation.py':
     addition=b" elif path in ['assets/corporate-contact.js','public/assets/corporate-contact.js']:\n  original=__import__('runpy').run_path(str(R/'scripts/contact-status-preservation.py'))['original_contact_status'](after.decode()).encode()\n  status='IMPROVED' if original==before else 'REMOVED';reason='Exact additive saved/pending notification status; all original script bytes and form contract retained'\n"
-    self.assertEqual(b.count(addition),1);self.assertEqual(a,b.replace(addition,b'',1),name)
+    restoration=b" elif path=='public/data/organization.json':\n  archive=R/'docs/two-blocker-resolution-20261030/organization-public-before-367cf29.json'\n  restored=after==old('data/organization.json',True) and archive.read_bytes()==before\n  status='IMPROVED' if restored else 'REMOVED';reason='Exact production four-node graph restored from unchanged historical root; prior public bytes archived without deletion'\n"
+    self.assertEqual(b.count(addition),1);self.assertEqual(b.count(restoration),1)
+    self.assertEqual(a,b.replace(addition,b'',1).replace(restoration,b'',1),name)
     rows.append([name,'IMPROVED','Exact additional audited contact-status comparison; all original checks retained'])
    elif name in {'assets/site.css','public/assets/site.css'}:
     original=re.search(rb'^\.mark \{[^\n]+',a,re.M).group()
