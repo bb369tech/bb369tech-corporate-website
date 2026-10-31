@@ -45,7 +45,7 @@ GitHub workflow `Asset Protection Gate` / job `asset-preservation` 在 main 的 
 | 既有前端表单与恢复 | 本地 13 PASS；零真实邮件和生产 POST |
 | 后台隔离安全/事务验证 | 复用 72 PASS；本轮未改后台代码或重跑无关后台功能 |
 | main 合并冲突 | 无冲突（只用 merge-tree 计算，不移动分支） |
-| GitHub 托管 CI 首次运行 | 以 PR Checks / Actions 实际终态为准，不能用本地通过推断 |
+| GitHub 托管 CI | 完整运行 41167439947 已 success，包含资产门禁、14 项反向/正常测试、27 项静态/恢复、13 项表单与 105 项响应式；后续提交以 PR Checks 最新实际终态为准 |
 | 强制阻止合并 | NOT VERIFIED / 未配置：main 无保护、rulesets 为空，不能标 PASS |
 | Render 精确 SHA 部署能力 | 当前 connector 不支持 commit 参数，不能直接触发 latest main；Dashboard/官方 API 的指定提交部署需独立受控操作 |
 | 数据库备份可恢复 | NOT VERIFIED：先前用户截图有成功导出，现有连接器不提供导出文件及恢复验证；available 不是恢复证明，不创建新库或执行生产恢复 |
@@ -70,3 +70,7 @@ GitHub workflow `Asset Protection Gate` / job `asset-preservation` 在 main 的 
 预览：https://design-premium-visual-baseline-2026-bb369tech-corporate-website.bb369-ai.workers.dev/zh/index.html
 
 生产（本轮未变）：https://bb369tech.com/
+
+唯一草稿 PR：https://github.com/bb369tech/bb369tech-corporate-website/pull/14
+
+已验证的完整托管验收：https://github.com/bb369tech/bb369tech-corporate-website/actions/runs/41167439947 。公开运行字节仍锁定 ec9240b。后续 PR synchronize 以实际 before/head 差异决定是否重跑浏览器，避免仅修改报告也重复整轮 UI 测试。

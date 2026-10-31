@@ -5,7 +5,7 @@
   "html_pages": 27,
   "errors": [],
   "live_http": "NOT RUN; offline gate never submits data",
-  "evidence_stage": "local before push; hosted result must be read from PR checks",
+  "evidence_stage": "local checks plus completed hosted CI",
   "gate_negative_positive_tests": 14,
   "static_and_restoration_tests": 27,
   "frontend_form_tests": 13,
@@ -22,5 +22,13 @@
   "production_mail": "NOT TESTED",
   "production_crm_writes": 0,
   "required_merge_check": "NOT CONFIGURED",
-  "release": "NO-GO"
+  "release": "NO-GO",
+  "hosted_ci": {
+    "run_id": 41167439947,
+    "conclusion": "success",
+    "verified_governance_commit": "cbcff0da2e7987228de0160e47500067c0df7f5c",
+    "tested_merge_commit": "239d8cf45bd8c2c05592f6917f1449f7b6ae6476",
+    "url": "https://github.com/bb369tech/bb369tech-corporate-website/actions/runs/41167439947",
+    "latest_result": "PR Checks is authoritative for later evidence/workflow-only commits"
+  }
 }
