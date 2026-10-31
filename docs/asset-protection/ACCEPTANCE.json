@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "baseline": "ec9240b2c229515dce4016f9d3d3ddc0c587165c",
+  "frozen_paths": 211,
+  "html_pages": 27,
+  "errors": [],
+  "live_http": "NOT RUN; offline gate never submits data",
+  "evidence_stage": "local before push; hosted result must be read from PR checks",
+  "gate_negative_positive_tests": 14,
+  "static_and_restoration_tests": 27,
+  "frontend_form_tests": 13,
+  "backend_tests_reused": 72,
+  "responsive_checks": 105,
+  "language_checks": 10,
+  "filter_checks": 30,
+  "browser_form_simulations": 8,
+  "preview_http": {
+    "status": "PASS",
+    "observations": 61
+  },
+  "production_deploy": "NOT PERFORMED",
+  "production_mail": "NOT TESTED",
+  "production_crm_writes": 0,
+  "required_merge_check": "NOT CONFIGURED",
+  "release": "NO-GO"
+}

@@ -1,0 +1,5 @@
+# Activate required code-owner review and asset-preservation on main; this file alone is not enforcement.
+/.github/ @bb369tech
+/scripts/check-asset-manifest.py @bb369tech
+/docs/asset-protection/ @bb369tech
+/tests/asset_manifest_guard.py @bb369tech
