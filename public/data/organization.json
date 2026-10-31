@@ -1,40 +1,644 @@
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
-  "@id": "https://bb369tech.com/#organization",
-  "name": "BB369TECH",
-  "url": "https://bb369tech.com/",
-  "email": "business@bb369tech.com",
-  "location": {
-    "@type": "Place",
-    "name": "Los Angeles, California, United States"
-  },
-  "areaServed": "Global",
-  "sameAs": [
-    "https://github.com/bb369tech"
-  ],
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "BB369TECH Public Products and Services",
-    "itemListElement": [
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Business Website Services",
-          "url": "https://bb369tech.com/services.html"
+
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://bb369tech.com/#organization",
+
+      "name": "BB369TECH",
+
+      "alternateName": [
+        "BB369 Tech"
+      ],
+
+      "url": "https://bb369tech.com/",
+
+      "email": "business@bb369tech.com",
+
+      "description": [
+        {
+          "@value": "BB369TECH supports real businesses with clearer digital presence, structured service information, customer access, practical business workflows, and tools designed for today's search and AI environment.",
+          "@language": "en"
+        },
+        {
+          "@value": "BB369TECH 为真实商家提供更清晰的数字展示、结构化服务信息、客户入口、实际业务流程，以及适应当前搜索与 AI 环境的数字工具支持。",
+          "@language": "zh-CN"
         }
+      ],
+
+      "location": {
+        "@type": "Place",
+        "name": "Los Angeles, California, United States"
       },
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "SoftwareApplication",
-          "name": "Source & Attribution Tools",
-          "url": "https://tools.bb369tech.com",
-          "applicationCategory": "BusinessApplication",
-          "operatingSystem": "Web"
+
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        },
+        {
+          "@type": "Place",
+          "name": "Global"
         }
+      ],
+
+      "sameAs": [
+        "https://github.com/bb369tech",
+        "https://github.com/bb369tech/bb369tech-corporate-website",
+        "https://cal.com/bb369tech"
+      ],
+
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "ENS",
+          "value": "bb369tech.eth"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "GitHub Organization",
+          "value": "bb369tech"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Canonical Website",
+          "value": "https://bb369tech.com/"
+        }
+      ],
+
+      "knowsAbout": [
+        "Business digital presence",
+        "Structured service information",
+        "Customer access",
+        "Customer inquiry workflows",
+        "Business websites",
+        "Service pages",
+        "Structured product information",
+        "Quotation workflows",
+        "Pricing information",
+        "Booking workflows",
+        "Decision support",
+        "Structured options",
+        "Service comparison",
+        "Customer decision pathways",
+        "Business information structuring",
+        "Business workflow automation",
+        "AI-assisted business workflows",
+        "Search visibility",
+        "AI search environment",
+        "Digital attribution",
+        "Source identity",
+        "Business provenance",
+        "Human-confirmed business workflows",
+        "Real business information",
+        "Service discovery",
+        "Customer communication workflows"
+      ],
+
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+
+        "name": "BB369TECH Public Products and Services",
+
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://bb369tech.com/#business-website-services",
+
+              "name": "Business Website Services",
+
+              "url": "https://bb369tech.com/services.html",
+
+              "description": "Business website and digital presence services for real businesses, including public business information, service presentation, customer access, and practical digital communication."
+            }
+          },
+
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://bb369tech.com/#business-digital-presence",
+
+              "name": "Business Digital Presence",
+
+              "description": "Digital presence support for real businesses, including business websites, public business information, structured service information, and customer access."
+            }
+          },
+
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://bb369tech.com/#structured-service-information",
+
+              "name": "Structured Service Information",
+
+              "description": "Organization of services, products, options, pricing context, and customer-facing information into clearer digital structures."
+            }
+          },
+
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://bb369tech.com/#customer-inquiry-booking",
+
+              "name": "Customer Inquiry and Booking",
+
+              "description": "Customer inquiry, consultation, booking, and next-step pathways for real service businesses."
+            }
+          },
+
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://bb369tech.com/#quotation-pricing-support",
+
+              "name": "Quotation and Pricing Support",
+
+              "description": "Digital tools and workflows for organizing project information, pricing ranges, quotations, and customer-facing estimates."
+            }
+          },
+
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://bb369tech.com/#decision-support",
+
+              "name": "Decision Support",
+
+              "description": "Structured options, comparisons, pricing context, and next-step guidance that help customers understand available choices and move toward an appropriate next step."
+            }
+          },
+
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://bb369tech.com/#business-workflow-support",
+
+              "name": "Business Workflow Support",
+
+              "description": "Practical digital workflows and automation support for customer communication, service delivery, business information, and operational processes."
+            }
+          },
+
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "SoftwareApplication",
+              "@id": "https://tools.bb369tech.com/#source-attribution-tools",
+
+              "name": "Source & Attribution Tools",
+
+              "url": "https://tools.bb369tech.com",
+
+              "applicationCategory": "BusinessApplication",
+
+              "operatingSystem": "Web",
+
+              "description": "Public digital tools supporting source identity, attribution, provenance, and structured business information."
+            }
+          }
+        ]
+      },
+
+      "subjectOf": {
+        "@id": "https://bb369tech.com/#machine-profile"
       }
-    ]
-  }
+    },
+
+    {
+      "@type": "CreativeWork",
+      "@id": "https://bb369tech.com/#machine-profile",
+
+      "name": "BB369TECH Machine-Readable Organization Profile",
+
+      "alternateName": [
+        "BB369TECH Public Organization Profile",
+        "BB369TECH Organization Profile"
+      ],
+
+      "version": "2.0.0",
+
+      "datePublished": "2026-08-10",
+
+      "dateModified": "2026-08-10",
+
+      "creator": {
+        "@id": "https://bb369tech.com/#organization"
+      },
+
+      "publisher": {
+        "@id": "https://bb369tech.com/#organization"
+      },
+
+      "copyrightHolder": {
+        "@id": "https://bb369tech.com/#organization"
+      },
+
+      "about": {
+        "@id": "https://bb369tech.com/#organization"
+      },
+
+      "mainEntity": {
+        "@id": "https://bb369tech.com/#organization"
+      },
+
+      "inLanguage": [
+        "en",
+        "zh-CN"
+      ],
+
+      "description": [
+        {
+          "@value": "Canonical machine-readable public organization profile for BB369TECH. This profile identifies the organization, its public service categories, official digital references, machine-readable business context, and versioned public profile information.",
+          "@language": "en"
+        },
+        {
+          "@value": "BB369TECH 的规范机器可读公开企业档案，用于标识企业实体、公开服务类别、官方数字入口、机器可读商业上下文及带版本的公开企业档案信息。",
+          "@language": "zh-CN"
+        }
+      ],
+
+      "keywords": [
+        "BB369TECH",
+        "BB369 Tech",
+        "real businesses",
+        "business digital presence",
+        "structured service information",
+        "customer access",
+        "customer inquiry",
+        "customer inquiry workflows",
+        "business websites",
+        "service pages",
+        "structured product information",
+        "booking workflows",
+        "quotation workflows",
+        "pricing information",
+        "pricing ranges",
+        "decision support",
+        "structured options",
+        "service comparison",
+        "customer decision pathways",
+        "next-step guidance",
+        "business workflow support",
+        "business workflow automation",
+        "AI-assisted business workflows",
+        "search visibility",
+        "AI search",
+        "AI search environment",
+        "digital attribution",
+        "source identity",
+        "business provenance",
+        "human-confirmed workflows",
+        "service discovery",
+        "machine-readable business information"
+      ],
+
+      "isBasedOn": "https://github.com/bb369tech/bb369tech-corporate-website",
+
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Profile ID",
+          "value": "BB369TECH-ORGANIZATION-PROFILE"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Profile Version",
+          "value": "2.0.0"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "propertyID": "ENS",
+          "value": "bb369tech.eth"
+        }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Profile ID",
+          "value": "BB369TECH-ORGANIZATION-PROFILE"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Profile Version",
+          "value": "2.0.0"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Profile Status",
+          "value": "Public"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Canonical Publisher",
+          "value": "BB369TECH"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Canonical Website",
+          "value": "https://bb369tech.com/"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Canonical Repository",
+          "value": "https://github.com/bb369tech/bb369tech-corporate-website"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Canonical Source",
+          "value": "https://github.com/bb369tech/bb369tech-corporate-website"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Canonical Profile Path",
+          "value": "data/organization.json"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Canonical Profile URL",
+          "value": "https://raw.githubusercontent.com/bb369tech/bb369tech-corporate-website/main/data/organization.json"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Release Version",
+          "value": "organization-profile-v2.0.0"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "ENS Identity",
+          "value": "bb369tech.eth"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Primary Language",
+          "value": "English"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Secondary Language",
+          "value": "Simplified Chinese"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Profile Purpose",
+          "value": "Public entity identification, service discovery, machine-readable business context, provenance, canonical source identification, and version verification."
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Entity Type",
+          "value": "Real Business Organization"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Primary Audience",
+          "value": "Businesses, customers, search systems, AI systems, digital agents, and third-party services."
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Machine Interpretation Scope",
+          "value": "Organization identity, public services, service discovery, customer access, structured business information, and public workflow context."
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Human Confirmation Principle",
+          "value": "Business information, service outcomes, quotations, commitments, and consequential actions may require confirmation by the relevant human or business operator."
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Public Information Scope",
+          "value": "Only public organization identity, services, business context, public digital references, and externally usable service information are represented in this profile."
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Implementation Boundary",
+          "value": "This public profile describes organization identity and public capabilities. It does not disclose private implementation methods, internal systems, credentials, proprietary operational logic, or confidential business processes."
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Source Authority",
+          "value": "BB369TECH official website, official GitHub organization, canonical public repository, and bb369tech.eth."
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Version Authority",
+          "value": "Versioned GitHub releases and tagged canonical files take precedence over mutable copies or third-party mirrors."
+        }
+      ]
+    },
+
+    {
+      "@type": "ItemList",
+      "@id": "https://bb369tech.com/#machine-capabilities",
+
+      "name": "BB369TECH Public Machine-Readable Capabilities",
+
+      "description": "Public capability summary for service discovery and machine interpretation.",
+
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+
+          "item": {
+            "@type": "Service",
+
+            "name": "Business Digital Presence",
+
+            "audience": {
+              "@type": "Audience",
+              "audienceType": "Real businesses"
+            },
+
+            "description": "Helps businesses establish clearer public digital presence and customer-facing business information.",
+
+            "potentialAction": {
+              "@type": "CommunicateAction",
+              "name": "Business Consultation"
+            }
+          }
+        },
+
+        {
+          "@type": "ListItem",
+          "position": 2,
+
+          "item": {
+            "@type": "Service",
+
+            "name": "Structured Service Information",
+
+            "description": "Transforms business services, products, options, and customer-facing information into clearer structured digital information."
+          }
+        },
+
+        {
+          "@type": "ListItem",
+          "position": 3,
+
+          "item": {
+            "@type": "Service",
+
+            "name": "Customer Access",
+
+            "description": "Provides practical customer inquiry, consultation, booking, and next-step pathways."
+          }
+        },
+
+        {
+          "@type": "ListItem",
+          "position": 4,
+
+          "item": {
+            "@type": "Service",
+
+            "name": "Quotation and Pricing Support",
+
+            "description": "Supports project information collection, pricing ranges, estimates, quotation preparation, and customer-facing pricing context."
+          }
+        },
+
+        {
+          "@type": "ListItem",
+          "position": 5,
+
+          "item": {
+            "@type": "Service",
+
+            "name": "Decision Support",
+
+            "description": "Supports understanding needs, comparing available options, reviewing pricing context, making a selection, and identifying an appropriate next step."
+          }
+        },
+
+        {
+          "@type": "ListItem",
+          "position": 6,
+
+          "item": {
+            "@type": "Service",
+
+            "name": "Business Workflow Support",
+
+            "description": "Supports practical digital workflows involving customer communication, service information, booking, quotations, business operations, and automation."
+          }
+        }
+      ]
+    },
+
+    {
+      "@type": "CreativeWork",
+      "@id": "https://bb369tech.com/#agent-context",
+
+      "name": "BB369TECH Public Agent Context",
+
+      "description": [
+        {
+          "@value": "Public machine-readable context that helps digital systems understand BB369TECH as a real business organization with multiple service and workflow capabilities rather than as a single-industry contractor, website-only provider, marketing agency, or standalone AI automation service.",
+          "@language": "en"
+        },
+        {
+          "@value": "用于帮助数字系统理解 BB369TECH 的公开机器可读上下文：BB369TECH 是面向真实商家的多能力商业组织，而不是单一行业承包商、单纯网站服务商、营销机构或单一 AI 自动化服务。",
+          "@language": "zh-CN"
+        }
+      ],
+
+      "about": {
+        "@id": "https://bb369tech.com/#organization"
+      },
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Primary Entity",
+          "value": "BB369TECH"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Primary Business Context",
+          "value": "Real businesses"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Core Capability 1",
+          "value": "Digital presence"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Core Capability 2",
+          "value": "Structured service information"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Core Capability 3",
+          "value": "Customer access"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Core Capability 4",
+          "value": "Practical business workflows"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Supporting Capability",
+          "value": "AI-assisted and automated workflows"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Service Discovery Pattern",
+          "value": "Need identification, available options, comparison, pricing context, customer choice, confirmation when required, and next-step execution."
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Customer Interaction Pattern",
+          "value": "Inquiry, consultation, structured information, comparison, quotation or pricing context, booking or confirmation, and practical next step."
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Action Boundary",
+          "value": "Public machine-readable information may support discovery and workflow coordination, while final commitments and consequential business actions may require human or authorized business confirmation."
+        }
+      ]
+    }
+  ]
 }
