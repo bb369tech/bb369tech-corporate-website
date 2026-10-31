@@ -102,6 +102,123 @@
       "state": "published",
       "featured": true,
       "public_display_approved": true
+    },
+    {
+      "id": "henry",
+      "name": "Henry Liu",
+      "category": "real-estate",
+      "industry": {
+        "en": "Real estate",
+        "zh": "房地产"
+      },
+      "url": "https://platform.bb369tech.com/clients/henry-liu-real-estate/",
+      "image": "/assets/project-henry.png",
+      "languages": {
+        "en": "English / Chinese",
+        "zh": "英语 / 中文"
+      },
+      "scope": {
+        "en": "Bilingual real-estate service presentation and seller inquiry page. Form delivery has not been verified.",
+        "zh": "双语房地产服务展示与卖房咨询页面；表单送达尚未验收。"
+      },
+      "features": {
+        "en": [
+          "Service presentation",
+          "Bilingual page",
+          "Seller inquiry entry"
+        ],
+        "zh": [
+          "服务展示",
+          "双语页面",
+          "卖房咨询入口"
+        ]
+      },
+      "state": "published",
+      "featured": false,
+      "public_display_approved": true,
+      "publication_evidence": "Existing public platform page with BB369TECH credit; owner requested additional corporate showcase on 2026-10-30. Display is limited to page design and verified visible functions; no endorsement or outcomes implied.",
+      "verification": {
+        "browser_opened": "2026-10-30",
+        "form_delivery": "NOT VERIFIED"
+      }
+    },
+    {
+      "id": "ccm",
+      "name": "California College of Music · Student Inquiry",
+      "category": "education",
+      "industry": {
+        "en": "Independent education inquiry",
+        "zh": "独立教育咨询"
+      },
+      "url": "https://platform.bb369tech.com/clients/california-college-of-music/",
+      "image": "/assets/project-ccm.png",
+      "languages": {
+        "en": "English / Chinese",
+        "zh": "英语 / 中文"
+      },
+      "scope": {
+        "en": "Independent student inquiry and referral page, not the official school website. Screenshot includes an illustration, not a campus photograph.",
+        "zh": "独立学生咨询与转介页面，非学校官方网站。截图内含示意插画，非校园实拍。"
+      },
+      "features": {
+        "en": [
+          "Independent inquiry page",
+          "English / Chinese",
+          "Official school links"
+        ],
+        "zh": [
+          "独立咨询页面",
+          "中英文展示",
+          "学校官方链接"
+        ]
+      },
+      "state": "published",
+      "featured": false,
+      "public_display_approved": true,
+      "publication_evidence": "Existing public platform page with BB369TECH credit; owner requested additional corporate showcase on 2026-10-30. Display is limited to page design and verified visible functions; no endorsement or outcomes implied.",
+      "verification": {
+        "browser_opened": "2026-10-30",
+        "form_delivery": "NOT VERIFIED"
+      }
+    },
+    {
+      "id": "sti",
+      "name": "Select Therapy Institute · Student Inquiry",
+      "category": "education",
+      "industry": {
+        "en": "Independent education inquiry",
+        "zh": "独立教育咨询"
+      },
+      "url": "https://platform.bb369tech.com/clients/select-therapy-institute/",
+      "image": "/assets/project-sti.png",
+      "languages": {
+        "en": "English / Chinese",
+        "zh": "英语 / 中文"
+      },
+      "scope": {
+        "en": "Independent training inquiry page, not the official school website. Online submission is currently unavailable; phone and official-site contacts remain visible. Screenshot includes an AI illustration.",
+        "zh": "独立培训咨询页面，非学校官方网站。目前在线提交停用，可通过页面电话及官方链接联系；截图内含 AI 示意插画。"
+      },
+      "features": {
+        "en": [
+          "Training information",
+          "English / Chinese",
+          "Direct contact links"
+        ],
+        "zh": [
+          "培训信息展示",
+          "中英文展示",
+          "直接联系链接"
+        ]
+      },
+      "state": "published",
+      "featured": false,
+      "public_display_approved": true,
+      "publication_evidence": "Existing public platform page with BB369TECH credit; owner requested additional corporate showcase on 2026-10-30. Display is limited to page design and verified visible functions; no endorsement or outcomes implied.",
+      "verification": {
+        "browser_opened": "2026-10-30",
+        "form_delivery": "NOT VERIFIED"
+      }
     }
   ]
 }

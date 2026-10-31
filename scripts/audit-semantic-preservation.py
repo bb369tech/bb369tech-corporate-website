@@ -81,6 +81,10 @@ for path in paths:
  elif path.endswith('sitemap.xml'):
   geturls=lambda b:{e.text for e in ET.fromstring(b).iter() if e.tag.endswith('loc')}
   a=geturls(before);b=geturls(after);status='IMPROVED' if a<=b else 'REMOVED';reason='All existing sitemap URLs retained; real Chinese counterparts added'
+ elif path=='public/data/organization.json':
+  archive=R/'docs/two-blocker-resolution-20261030/organization-public-before-367cf29.json'
+  restored=after==old('data/organization.json',True) and archive.read_bytes()==before
+  status='IMPROVED' if restored else 'REMOVED';reason='Exact production four-node graph restored from unchanged historical root; prior public bytes archived without deletion'
  elif path in ['assets/site.css','public/assets/site.css']:
   status='IMPROVED';reason='Authorized visual design-system consolidation; semantic HTML and functional regression verified separately'
  elif path in ['assets/corporate-contact.js','public/assets/corporate-contact.js']:

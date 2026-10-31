@@ -35,13 +35,18 @@ class FinalVisual(unittest.TestCase):
    self.assertEqual(x['state'],'published');self.assertTrue(x['public_display_approved']);self.assertTrue((P/x['image'].lstrip('/')).is_file())
    self.assertNotRegex(x['name'].lower(),r'demo|supermarket|antique')
   for rel in ['projects.html','zh/projects.html']:
-   self.assertEqual(len(pages[rel].xpath('//button[@data-project-filter]')),3)
+   self.assertEqual(set(pages[rel].xpath('//button[@data-project-filter]/@data-project-filter')), {'all'} | {x['category'] for x in records})
+   self.assertEqual(len(pages[rel].xpath('//article[@data-project-category]')),len(records))
  def test_existing_forms_and_business_scripts_unchanged(self):
   for rel in ['contact.html','zh/contact.html']:
    prev=d(old(rel));doc=pages[rel]
    self.assertEqual([html.tostring(x) for x in prev.xpath('//form')],[html.tostring(x) for x in doc.xpath('//form')])
   for rel in ['assets/site.js','assets/corporate-contact.js','assets/corporate-contact.css','robots.txt','data/organization.json','products.json']:
    current=(P/rel).read_text()
+   if rel=='data/organization.json':
+    self.assertEqual(current,subprocess.check_output(['git','show',BASE+':data/organization.json'],cwd=R,text=True))
+    self.assertEqual((R/'docs/two-blocker-resolution-20261030/organization-public-before-367cf29.json').read_text(),old(rel))
+    continue
    if rel=='assets/corporate-contact.js':current=runpy.run_path(str(R/'scripts/contact-status-preservation.py'))['original_contact_status'](current)
    self.assertEqual(current,old(rel),rel)
   wrangler=subprocess.check_output(['git','show',BASE+':wrangler.jsonc'],cwd=R,text=True)

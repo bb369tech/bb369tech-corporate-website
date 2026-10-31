@@ -1,0 +1,14 @@
+{
+  "baseline": "367cf29f74425d0badee55bf58319510bed0bb0b",
+  "production_sha256": "391f76ae12888a73465ec31d7dd55bc67e7a8aa64dd044a8c4d195001e29c40a",
+  "old_public_sha256": "aae45df3a28b7d31aac7c5cc4472edf9939d4cbf475045fcf36d9d113f9285be",
+  "after_public_sha256": "391f76ae12888a73465ec31d7dd55bc67e7a8aa64dd044a8c4d195001e29c40a",
+  "node_ids": [
+    "https://bb369tech.com/#organization",
+    "https://bb369tech.com/#machine-profile",
+    "https://bb369tech.com/#machine-capabilities",
+    "https://bb369tech.com/#agent-context"
+  ],
+  "root_historical_file_unchanged": true,
+  "old_public_archived_byte_identical": true
+}
