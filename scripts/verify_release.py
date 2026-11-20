@@ -25,10 +25,13 @@ class Page(HTMLParser):
         self.links = []
         self.title = False
         self.has_title = False
+        self.redirect = None
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
         if tag == "html":
             self.lang = a.get("lang")
+        if tag == "meta" and a.get("http-equiv", "").lower() == "refresh":
+            self.redirect = a.get("content")
         if tag == "title":
             self.has_title = True
         if tag == "link":
@@ -49,11 +52,16 @@ for path in sorted(ROOT.glob("*.html")):
     page = Page()
     try:
         page.feed(path.read_text(encoding="utf-8"))
-        check(bool(page.lang), f"{path.name}: language declared")
+        if page.redirect:
+            check("url=/" in page.redirect.lower(), f"{path.name}: internal legacy redirect")
+            check(len(page.canonical) == 1, f"{path.name}: redirect canonical declared")
+        else:
+            check(bool(page.lang), f"{path.name}: language declared")
         check(page.has_title, f"{path.name}: title exists")
         check(len(page.canonical) == 1 and page.canonical[0].startswith("https://bb369tech.com/"),
               f"{path.name}: one first-party canonical")
-        check(bool(page.description and page.description[0]), f"{path.name}: meta description")
+        if not page.redirect:
+            check(bool(page.description and page.description[0]), f"{path.name}: meta description")
         mirror = ROOT / "public" / path.name
         check(mirror.exists() and mirror.read_bytes() == path.read_bytes(),
               f"{path.name}: deployment mirror matches")
