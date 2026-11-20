@@ -119,5 +119,31 @@ for lang, path in (("en", "index.html"), ("zh-Hans", "zh/index.html")):
         check(mirror.exists() and mirror.read_bytes() == file.read_bytes(),
               f"{lang}: homepage mirror matches")
 
+# Validate the static site itself without making network requests.
+from urllib.parse import urlsplit, unquote
+
+for file in sorted(ROOT.rglob("*.html")):
+    if "public" in file.relative_to(ROOT).parts:
+        continue
+    p = Page()
+    p.feed(file.read_text(encoding="utf-8"))
+    for href in p.links:
+        if not href or href.startswith(("#", "mailto:", "tel:", "javascript:", "data:")):
+            continue
+        parsed = urlsplit(href)
+        if parsed.scheme and parsed.scheme not in ("http", "https"):
+            continue
+        if parsed.netloc and parsed.netloc not in ("bb369tech.com", "www.bb369tech.com"):
+            continue
+        if parsed.netloc or href.startswith("/"):
+            target = ROOT / unquote(parsed.path).lstrip("/")
+        else:
+            target = file.parent / unquote(parsed.path)
+        if not parsed.path or parsed.path == "/":
+            target = ROOT / "index.html"
+        elif target.is_dir():
+            target = target / "index.html"
+        check(target.is_file(), f"{file.relative_to(ROOT)}: local link {href}")
+
 print(f"RESULT: {checks - len(errors)}/{checks} checks passed")
 sys.exit(1 if errors else 0)
