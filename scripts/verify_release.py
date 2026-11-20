@@ -145,5 +145,47 @@ for file in sorted(ROOT.rglob("*.html")):
             target = target / "index.html"
         check(target.is_file(), f"{file.relative_to(ROOT)}: local link {href}")
 
+# Batch 1: responsive navigation, structured metadata and contact entry gates.
+import json
+import re
+
+for path in ("index.html", "contact.html", "zh/index.html", "zh/contact.html"):
+    file = ROOT / path
+    if not file.exists():
+        continue
+    html = file.read_text(encoding="utf-8")
+    check(bool(re.search(r'<meta\\s+name="viewport"\\s+content="width=device-width,initial-scale=1"', html)),
+          f"{path}: mobile viewport")
+    check('href="/assets/site.css"' in html and 'href="/assets/premium-polish.css"' in html,
+          f"{path}: approved responsive stylesheets")
+    check('data-menu' in html, f"{path}: mobile navigation control")
+    check('href="/contact.html"' in html or 'href="/zh/contact.html"' in html or path.endswith("contact.html"),
+          f"{path}: contact navigation")
+    for block in re.findall(r'<script\\s+type="application/ld\\+json"[^>]*>(.*?)</script>', html, re.S):
+        try:
+            payload = json.loads(block)
+            check(isinstance(payload, (dict, list)), f"{path}: valid JSON-LD")
+        except json.JSONDecodeError:
+            check(False, f"{path}: valid JSON-LD")
+
+navigation = ROOT / "assets/site.js"
+check(navigation.exists(), "shared navigation script exists")
+if navigation.exists():
+    js = navigation.read_text(encoding="utf-8")
+    check('aria-expanded' in js and 'aria-controls' in js,
+          "mobile navigation exposes expanded state and controlled region")
+    check('Escape' in js, "mobile navigation supports Escape")
+    mirror = ROOT / "public/assets/site.js"
+    check(mirror.exists() and mirror.read_bytes() == navigation.read_bytes(),
+          "mobile navigation script mirrored for Cloudflare")
+
+for path in ("assets/site.css", "assets/premium-polish.css"):
+    file = ROOT / path
+    check(file.exists(), f"{path}: approved stylesheet exists")
+    if file.exists():
+        mirror = ROOT / "public" / path
+        check(mirror.exists() and mirror.read_bytes() == file.read_bytes(),
+              f"{path}: stylesheet deployment mirror matches")
+
 print(f"RESULT: {checks - len(errors)}/{checks} checks passed")
 sys.exit(1 if errors else 0)
