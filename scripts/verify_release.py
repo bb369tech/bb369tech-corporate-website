@@ -82,5 +82,42 @@ try:
 except (OSError, ET.ParseError) as exc:
     check(False, f"sitemap XML valid: {exc}")
 
+# Non-invasive conversion and multilingual release checks.
+for path in ("contact.html", "zh/contact.html"):
+    file = ROOT / path
+    check(file.exists(), f"{path}: contact page exists")
+    if file.exists():
+        html = file.read_text(encoding="utf-8")
+        check('data-corporate-contact' in html, f"{path}: contact form marker")
+        check('https://bb369-sendgrid-api.onrender.com/api/corporate-inquiry' in html,
+              f"{path}: expected inquiry endpoint preserved")
+        check('corporate-contact.js' in html, f"{path}: form handler included")
+        mirror = ROOT / "public" / path
+        check(mirror.exists() and mirror.read_bytes() == file.read_bytes(),
+              f"{path}: deployed copy identical")
+
+handler = ROOT / "assets/corporate-contact.js"
+check(handler.exists(), "contact handler exists")
+if handler.exists():
+    js = handler.read_text(encoding="utf-8")
+    check("response.ok" in js and "data.success !== true" in js,
+          "contact handler rejects failed responses")
+    check("sending = true" in js and "sending = false" in js,
+          "contact handler protects against duplicate submissions")
+    mirror = ROOT / "public/assets/corporate-contact.js"
+    check(mirror.exists() and mirror.read_bytes() == handler.read_bytes(),
+          "contact handler mirrored to Cloudflare")
+
+for lang, path in (("en", "index.html"), ("zh-Hans", "zh/index.html")):
+    file = ROOT / path
+    check(file.exists(), f"{lang}: homepage exists")
+    if file.exists():
+        p = Page()
+        p.feed(file.read_text(encoding="utf-8"))
+        check(p.lang == lang, f"{lang}: homepage language correct")
+        mirror = ROOT / "public" / path
+        check(mirror.exists() and mirror.read_bytes() == file.read_bytes(),
+              f"{lang}: homepage mirror matches")
+
 print(f"RESULT: {checks - len(errors)}/{checks} checks passed")
 sys.exit(1 if errors else 0)
