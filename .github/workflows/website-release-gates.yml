@@ -1,0 +1,27 @@
+name: Website read-only release gates
+on:
+  push:
+    branches:
+      - audit/geo-conversion-gates-20261120
+  pull_request:
+    paths:
+      - '**/*.html'
+      - 'sitemap.xml'
+      - 'robots.txt'
+      - 'public/**'
+      - 'scripts/verify_release.py'
+      - '.github/workflows/website-release-gates.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify static website without changing production
+        run: python scripts/verify_release.py
