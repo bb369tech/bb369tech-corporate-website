@@ -154,14 +154,14 @@ for path in ("index.html", "contact.html", "zh/index.html", "zh/contact.html"):
     if not file.exists():
         continue
     html = file.read_text(encoding="utf-8")
-    check(bool(re.search(r'<meta\\s+name="viewport"\\s+content="width=device-width,initial-scale=1"', html)),
+    check(bool(re.search(r'<meta\s+name="viewport"\s+content="width=device-width,initial-scale=1"', html)),
           f"{path}: mobile viewport")
     check('href="/assets/site.css"' in html and 'href="/assets/premium-polish.css"' in html,
           f"{path}: approved responsive stylesheets")
     check('data-menu' in html, f"{path}: mobile navigation control")
     check('href="/contact.html"' in html or 'href="/zh/contact.html"' in html or path.endswith("contact.html"),
           f"{path}: contact navigation")
-    for block in re.findall(r'<script\\s+type="application/ld\\+json"[^>]*>(.*?)</script>', html, re.S):
+    for block in re.findall(r'<script\s+type="application/ld\\+json"[^>]*>(.*?)</script>', html, re.S):
         try:
             payload = json.loads(block)
             check(isinstance(payload, (dict, list)), f"{path}: valid JSON-LD")
