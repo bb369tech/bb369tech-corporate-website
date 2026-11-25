@@ -10,7 +10,7 @@
 - Live hosting/revision evidence: Existing corporate site; do not infer site published SHA from documentation PR; preserve ARCHITECTURE-LOCK.md and public mirror.
 
 ## Rules and safety
-- Candidate corporate baseline: `bb369tech/bb369tech-tools@21b851c1b34ee604b12dba56ef16524457e49016:standards/engineering/v2.0/SITE_DELIVERY.md` (Draft PR #7, not merged).
+- Candidate corporate baseline: `bb369tech/bb369tech-tools@201d7be5b38dbbcc0c5ef17d11caa0b0d4eb8b72:standards/engineering/v2.0/SITE_DELIVERY.md` (Draft PR #7, not merged).
 - Use this repository's `AGENTS.md` and `docs/验收.md` for specific business functions. A corporate common rule must never replace this site's industry constraints.
 - Current factual/rights blockers: Only approved public/product-catalog.json and public/projects.json entries, photo/identity/legal approval.
 - Autonomous scope: isolated repo edits, minimal changes, synthetic checks, desktop/mobile preview, evidence and Draft PR; no real emails or third-party link submissions.
